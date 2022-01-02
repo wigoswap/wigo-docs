@@ -28,6 +28,6 @@ Below are the current sources for Buyback, Burn & Reward mechanism:
 
 * **2%** of every harvest in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool (Performance Fee).
 * **0.5%** of every unstake within three days in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool.
-* **0.01%** of every swap made on WigoSwap. We will Buyback WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
+* **0.01%** of every swap made on WigoSwap. Buyback WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
 
 More sources will be added in the near future.
