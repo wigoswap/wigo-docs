@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/Buyback.png)
 
-Without rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain). There's a hard-cap on the supply of WIGO token: 2,000,000,000. Therefore, we need a mechanism which prolongs the time to reach the hard-cap.
+Without rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain). **There's a hard-cap on the supply of WIGO token: 2,000,000,000**. Therefore, we need a mechanism which prolongs the time to reach the hard-cap.
 
 Buyback, Burn & Reward is a mechanism of WigoSwap that supports long term price stability and value growth, brings profits to WIGO holders and delays reaching the hard-cap.
 
