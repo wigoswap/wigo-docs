@@ -34,6 +34,6 @@ Coming Soon \*
 
 First and foremost, the [Fantom](https://fantom.foundation) blockchain network is a true example of an incredibly fast, and secure network. Therefore, it is appealing to developers. Furthermore, it’s reliability and interoperability provide users with a network to participate in without worrying about the possible barriers. While most of the similar networks have mostly profited early adopters, Fantom aims to guarantee financial gains by rearranging the elements within the industry. Last but not least, the [Fantom](https://fantom.foundation) network is designed in a user-friendly way to facilitate the embracing of the blockchain technology. It is also worth mentioning that the evolution of the Fantom network is proceeding in a way that it will satisfy the needs of users in the future.&#x20;
 
-> We chose Fantom because performance matters.
+> We have chosen to build on Fantom because performance matters.
 
 Since the current decentralized networks, specially those created to provide financial operations, have shortages of their own, there is an ever-growing need to reconsider the existing ones in search for a more rectified platform that is not only able to perform fast and secure transactions, but also effective in offering interoperability as a tool for connecting different blockchains. The approach provided by the [Fantom](https://fantom.foundation) network is believed to bring about the innovation needed in the DeFi sector.&#x20;
