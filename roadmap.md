@@ -42,7 +42,7 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 
 ### Q4 2022: Further Expansion
 
-* [ ] Implement a hybrid solution from [cBridge](https://cbridge.celer.network) and [Multichain](https://multichain.org) into WigoSwap to bridge tokens between Fantom, Ethereum, Polygon, BSC, Optimism, Avalanche, Arbitrum and etc.
+* [ ] Implement [cBridge](https://cbridge.celer.network) into WigoSwap to bridge tokens between Fantom, Ethereum, Polygon, BSC, Optimism, Avalanche, Arbitrum and etc.
 * [ ] Limit orders, Charts and more
 * [ ] Release of the first Wigo Generative NFT Collection
 * [ ] Add other languages and build local communities
