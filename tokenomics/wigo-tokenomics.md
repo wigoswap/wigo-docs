@@ -10,13 +10,13 @@ WIGO is the native governance token of WigoSwap’s ecosystem. The maximum suppl
 
 | Allocation Category        |  % of Max Supply | Number of Tokens |
 | -------------------------- | ---------------- | ---------------- |
-| Seed Sale                  | 3.0%             | 60,000,000       |
+| Seed Funders               | 3.0%             | 60,000,000       |
 | Community Airdrops         | 3.0%             | 60,000,000       |
 | Initial Dex Offering (IDO) | 2.0%             | 40,000,000       |
 | **Total**                  | **8.0%**         | **160,000,000**  |
 
 {% hint style="info" %}
-WIGO does not have any private sale, public sale or ICO.
+WIGO does not have any pre-sale, private sale, public sale or ICO.
 {% endhint %}
 
 ### **Initial DEX Offering (IDO)**&#x20;
