@@ -2,7 +2,7 @@
 
 The native tokens of Fantom network (Opera) are **FRC20**.
 
-To do most things on Fantom network, you will need to pay gas in FTM. You will also need the FRC20 version of any token you want to swap, stake etc. on Fantom network. You can go a few ways about converting your tokens to FRC20, but here are the ones we recommend:
+To do most things on Fantom network, you will need to pay gas in FTM. You will also need the FRC20 version of any token you want to swap, stake etc. on Fantom network. There are several ways about converting your tokens to FRC20, but here are the ones we recommend:
 
 
 
