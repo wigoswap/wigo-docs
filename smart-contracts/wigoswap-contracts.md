@@ -2,8 +2,8 @@
 
 ## Main Contracts
 
-* WigoswapFactory: [0xc831a5cbfb4ac2da5ed5b194385dfd9bf5bfcba7](https://ftmscan.com/address/0xc831a5cbfb4ac2da5ed5b194385dfd9bf5bfcba7)
-* WigoswapRouter: [0x5023882f4d1ec10544fcb2066abe9c1645e95aa0](https://ftmscan.com/address/0x5023882f4d1ec10544fcb2066abe9c1645e95aa0)
+* WigoswapFactory: [0xc831a5cbfb4ac2da5ed5b194385dfd9bf5bfcba7](https://ftmscan.com/address/0xc831a5cbfb4ac2da5ed5b194385dfd9bf5bfcba7#code)
+* WigoswapRouter: [0x5023882f4d1ec10544fcb2066abe9c1645e95aa0](https://ftmscan.com/address/0x5023882f4d1ec10544fcb2066abe9c1645e95aa0#code)
 * MasterFarmer: [0xA1a938855735C0651A6CfE2E93a32A28A236d0E9](https://ftmscan.com/address/0xA1a938855735C0651A6CfE2E93a32A28A236d0E9#code)
 * WigoVault: [0x4178E335bd36295FFbC250490edbB6801081D022](https://ftmscan.com/address/0x4178E335bd36295FFbC250490edbB6801081D022#code)
 * WigoSwap Token (WIGO): [0xE992bEAb6659BFF447893641A378FbbF031C5bD6](https://ftmscan.com/address/0xE992bEAb6659BFF447893641A378FbbF031C5bD6#code)
