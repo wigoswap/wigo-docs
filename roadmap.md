@@ -11,9 +11,9 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [x] َUnit Testing and Documentation
 * [x] Design and Development of UX/UI
 * [x] Signing an Assessment Service Agreement with [CertiK](https://certik.com) (Full Audit + Skynet + Oracle Monitoring)
-* [ ] Completion of the Assessment and Audit by [CertiK](https://certik.com)
-* [ ] Launch Swap and Liquidity Supplying
-* [ ] Launch of Analytics Section for Monitoring TVL and Volume
+* [x] Completion of the Assessment and Audit by [CertiK](https://certik.com)
+* [x] Launch Swap and Liquidity Supplying
+* [x] Launch of Analytics Section for Monitoring TVL and Volume
 * [ ] Community Building Campaigns (Social media activities, Airdrop events and etc.)
 * [ ] WIGO Initial Dex Offering (IDO)
 * [ ] Release Wigo Farms (LP Farms)
