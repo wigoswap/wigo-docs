@@ -2,8 +2,8 @@
 
 ## Main Contracts
 
-* WigoswapFactory: "Coming Soon"
-* WigoswapRouter: "Coming Soon"
+* WigoswapFactory: [0xC831A5cBfb4aC2Da5ed5B194385DFD9bF5bFcBa7](https://ftmscan.com/0xC831A5cBfb4aC2Da5ed5B194385DFD9bF5bFcBa7)
+* WigoswapRouter: [0x5023882f4D1EC10544FCB2066abE9C1645E95AA0](https://ftscan.com/0x5023882f4D1EC10544FCB2066abE9C1645E95AA0)
 * MasterFarmer: "Coming Soon"
 * WigoVault: "Coming Soon"
 * WigoSwap Token (WIGO): "Coming Soon"
