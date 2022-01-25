@@ -37,9 +37,9 @@ WigoSwap Pair Code Hash:\
 ## Important Transactions
 
 * Transfer the ownership of WIGO token to MasterFarmer smart contract:\
-  "Coming Soon"
+  [0xb1f92b84227eaaf851c1d1f6b8614aadf1b3740c6c0031e7f6cf01daca06033e](https://ftmscan.com/tx/0xb1f92b84227eaaf851c1d1f6b8614aadf1b3740c6c0031e7f6cf01daca06033e)
 * Transfer the ownership of xWIGO token to MasterFarmer smart contract:\
-  "Coming Soon"
+  [0x7800a78ccdc967aec57a4f8bb3832d1296e9d369a8ca8a73e569f7d763decfea](https://ftmscan.com/tx/0x7800a78ccdc967aec57a4f8bb3832d1296e9d369a8ca8a73e569f7d763decfea)
 * Seed Funders' tokens sent to vesting contracts:\
   "Coming Soon"
 * Core Team's WIGO-FTM LP token sent to vesting contract:\
