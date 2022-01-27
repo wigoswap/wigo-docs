@@ -1,6 +1,6 @@
 # Gamified Burning Mechanism (GMB)
 
-![](../.gitbook/assets/Buyback.png)
+![](../.gitbook/assets/GBM.png)
 
 Without rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain). **There's a hard-cap on the supply of WIGO token: 2,000,000,000.** Therefore, we need a mechanism which prolongs the time to reach the hard-cap.
 
