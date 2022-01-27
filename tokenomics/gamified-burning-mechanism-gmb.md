@@ -8,7 +8,7 @@ GMB is a mechanism of WigoSwap that uses gamification to support long term price
 
 > **The More Activities, The Longer Incentives.**
 
-By Gamified Burning Mechanism, WigoSwap provides the possibility of minting new tokens and continue rewarding farmers and stakers through burning (de-minting) some of the circulating WIGO tokens and reducing total supply. The goal is for more WIGO to leave circulation than the amount of WIGO that's producing before reaching the hard-cap. We will get closer to this goal only by increasing the activities and transactions on the platform.
+By Gamified Burning Mechanism, WigoSwap provides the possibility of minting new tokens and continues to reward farmers and stakers through burning (de-minting) some of the circulating WIGO tokens and reducing total supply. The goal is for more WIGO to leave circulation than the amount of WIGO that's producing before reaching the hard-cap. We will get closer to this goal only by increasing the activities and transactions on the platform.
 
 
 
