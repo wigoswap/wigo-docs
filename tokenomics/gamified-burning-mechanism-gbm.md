@@ -1,10 +1,10 @@
-# Gamified Burning Mechanism (GMB)
+# Gamified Burning Mechanism (GBM)
 
 ![](../.gitbook/assets/GBM.png)
 
 Without rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain). **There's a hard-cap on the supply of WIGO token: 2,000,000,000.** Therefore, we need a mechanism which prolongs the time to reach the hard-cap.
 
-GMB is a mechanism of WigoSwap that uses gamification to support long term price stability and value growth, brings profits to WIGO holders and delays reaching the hard-cap.
+GBM is a mechanism of WigoSwap that uses gamification to support long term price stability and value growth, brings profits to WIGO holders and delays reaching the hard-cap.
 
 > **The More Activities, The Longer Incentives.**
 

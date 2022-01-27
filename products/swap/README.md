@@ -13,7 +13,7 @@ With the advent of Decentralized Exchanges users are not obliged to use centrali
 When you make a token swap (trade) on the exchange you will pay a **0.19% trading fee**, which is broken down as follows:
 
 **0.18%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.\
-**0.01%** - Sent towards Gamified Burning Mechanism (GMB).
+**0.01%** - Sent towards Gamified Burning Mechanism (GBM).
 
 
 

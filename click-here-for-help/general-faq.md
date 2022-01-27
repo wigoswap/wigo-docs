@@ -25,7 +25,7 @@ A time lock designed for our contracts will be set up soon so that users can use
 When you make a token swap (trade) on the exchange you will pay a **0.19% trading fee**, which is broken down as follows:
 
 * **0.18%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
-* **0.01%** - Sent towards Gamified Burning Mechanism (GMB).
+* **0.01%** - Sent towards Gamified Burning Mechanism (GBM).
 
 ## **How can I stake WIGO?**
 
@@ -138,8 +138,8 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 [rewards-distribution.md](../tokenomics/rewards-distribution.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tokenomics/gamified-burning-mechanism-gmb.md" %}
-[gamified-burning-mechanism-gmb.md](../tokenomics/gamified-burning-mechanism-gmb.md)
+{% content-ref url="../tokenomics/gamified-burning-mechanism-gbm.md" %}
+[gamified-burning-mechanism-gbm.md](../tokenomics/gamified-burning-mechanism-gbm.md)
 {% endcontent-ref %}
 
 ## **What is Wigo Bank (xWIGO) Token?**   &#x20;
