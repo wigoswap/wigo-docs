@@ -31,7 +31,7 @@
 
 * [WIGO Tokenomics](tokenomics/wigo-tokenomics.md)
 * [Rewards Distribution](tokenomics/rewards-distribution.md)
-* [Buyback, Burn & Reward!](tokenomics/buyback-burn-and-reward.md)
+* [Gamified Burning Mechanism (GMB)](tokenomics/gamified-burning-mechanism-gmb.md)
 
 ## Smart Contracts
 

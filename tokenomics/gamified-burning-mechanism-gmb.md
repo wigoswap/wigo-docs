@@ -1,14 +1,14 @@
-# Buyback, Burn & Reward!
+# Gamified Burning Mechanism (GMB)
 
 ![](../.gitbook/assets/Buyback.png)
 
 Without rewards, there would be much less incentive to provide liquidity (LP fees etc. would remain). **There's a hard-cap on the supply of WIGO token: 2,000,000,000.** Therefore, we need a mechanism which prolongs the time to reach the hard-cap.
 
-Buyback, Burn & Reward is a mechanism of WigoSwap that supports long term price stability and value growth, brings profits to WIGO holders and delays reaching the hard-cap.
+GMB is a mechanism of WigoSwap that uses gamification to support long term price stability and value growth, brings profits to WIGO holders and delays reaching the hard-cap.
 
 > **The More Activities, The Longer Incentives.**
 
-By this mechanism, WigoSwap provides the possibility of minting new tokens and continue rewarding farmers and stakers through burning (de-minting) some of the circulating WIGO tokens and reducing total supply. The goal is for more WIGO to leave circulation than the amount of WIGO that's producing before reaching the hard-cap. We will get closer to this goal only by increasing the activities and transactions on the platform.
+By Gamified Burning Mechanism, WigoSwap provides the possibility of minting new tokens and continue rewarding farmers and stakers through burning (de-minting) some of the circulating WIGO tokens and reducing total supply. The goal is for more WIGO to leave circulation than the amount of WIGO that's producing before reaching the hard-cap. We will get closer to this goal only by increasing the activities and transactions on the platform.
 
 
 
@@ -24,7 +24,7 @@ All three of the above variables are always accessible and readable in the WIGO 
 
 
 
-Below are the current sources for Buyback, Burn & Reward mechanism:
+Below are the current sources for Gamified Burning Mechanism:
 
 * **2%** of every harvest in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool (Performance Fee).
 * **0.5%** of every unstake within three days in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool.

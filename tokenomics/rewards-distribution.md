@@ -26,7 +26,7 @@ The base emissions rate is 9 WIGO per second divided across WIGO staking and far
 | ...   | ...         | ...    | ...         | ...           |
 | n     | 2,592,000 s | 9      | ?           | ?             |
 
-Although WIGO has a 2 billion hard-cap, [Buyback, Burn & Reward](buyback-burn-and-reward.md) mechanism prolongs the time to reach the hard-cap. Assuming no tokens are burned, it will take about 33 months to reach the hard-cap. The more tokens burned, the longer emissions, but the total supply of WIGO will never exceed the hard-cap.
+Although WIGO has a 2 billion hard-cap, [Buyback, Burn & Reward](gamified-burning-mechanism-gmb.md) mechanism prolongs the time to reach the hard-cap. Assuming no tokens are burned, it will take about 33 months to reach the hard-cap. The more tokens burned, the longer emissions, but the total supply of WIGO will never exceed the hard-cap.
 
 ## **Why WIGO per Second?**
 
