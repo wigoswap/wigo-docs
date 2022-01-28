@@ -19,6 +19,7 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [ ] Release Wigo Farms (LP Farms)
 * [ ] Release Wigo Bank (Staking Pools)
 * [ ] Release Wigo Vault (Auto-compound Feature)
+* [ ] GBM Phase 1.0
 * [ ] Listing on Coingecko, CoinMarketCap, Zapper, CoinStats, imToken, Defi Llama and etc.
 
 ### Q2 2022: Further Development
@@ -28,6 +29,7 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [ ] Launch Wigo User Profile System
 * [ ] Launch Initial Farm Offerings (IFOs)
 * [ ] Release NFT Marketplace
+* [ ] GBM Phase 2.0
 * [ ] Partnered Staking
 * [ ] CEX Listing
 
@@ -45,6 +47,7 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [ ] Implement [cBridge](https://cbridge.celer.network) into WigoSwap to bridge tokens between Fantom, Ethereum, Polygon, BSC, Optimism, Avalanche, Arbitrum and etc.
 * [ ] Limit orders, Charts and more
 * [ ] Release of the first Wigo Generative NFT Collection
+* [ ] GBM Phase 3.0
 * [ ] Add other languages and build local communities
 * [ ] More DEX and CEX Listing
 

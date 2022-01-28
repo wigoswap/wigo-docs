@@ -24,10 +24,30 @@ All three of the above variables are always accessible and readable in the WIGO 
 
 
 
-Below are the current sources for Gamified Burning Mechanism:
+Below are the sources for Gamified Burning Mechanism:
+
+**Phase 1.0:**
 
 * **2%** of every harvest in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool (Performance Fee).
 * **0.5%** of every unstake within three days in the [Automatic](../products/wigo-bank/automatic-vs.-standard.md) staking pool.
 * **0.01%** of every swap made on WigoSwap. Buyback WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
 
+**Phase 2.0:**
+
+* Gamified Trading Competitions
+* Gamified IDO/IFO&#x20;
+* Gamified NFT Marketplace
+
+**Phase 3.0:**
+
+* Burn to Win!
+* Burn to Earn Tokens
+* Burn to Mint NFTs
+* Burning Competitions
+
+**Phase 4.0:**
+
+* ?
+
 More sources will be added in the near future.
+
