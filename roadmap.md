@@ -12,14 +12,14 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [x] Design and Development of UX/UI
 * [x] Signing an Assessment Service Agreement with [CertiK](https://certik.com) (Full Audit + Skynet + Oracle Monitoring)
 * [x] Completion of the Assessment and Audit by [CertiK](https://certik.com)
-* [x] Launch Swap and Liquidity Supplying
+* [x] Launch [Swap](products/swap/) and [Liquidity](products/liquidity-pools/) Supplying
 * [x] Launch of Analytics Section for Monitoring TVL and Volume
 * [ ] Community Building Campaigns (Social media activities, Airdrop events and etc.)
 * [ ] WIGO Initial Dex Offering (IDO)
-* [ ] Release Wigo Farms (LP Farms)
-* [ ] Release Wigo Bank (Staking Pools)
-* [ ] Release Wigo Vault (Auto-compound Feature)
-* [ ] GBM Phase 1.0
+* [ ] Release [Wigo Farms](products/wigo-farms/) (LP Farms)
+* [ ] Release [Wigo Bank](products/wigo-bank/) (Staking Pools)
+* [ ] Release [Wigo Vault](products/wigo-bank/automatic-vs.-standard.md) (Auto-compound Feature)
+* [ ] [GBM](tokenomics/gamified-burning-mechanism-gbm.md) Phase 1.0
 * [ ] Listing on Coingecko, CoinMarketCap, Zapper, CoinStats, imToken, Defi Llama and etc.
 
 ### Q2 2022: Further Development
