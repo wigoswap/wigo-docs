@@ -56,16 +56,28 @@ In order to add liquidity, you only have to deposit a certain amount of each tok
 
 ### **How to Remove Liquidity:**&#x20;
 
-1\. Open the “Liquidity” tab.&#x20;
+1- Open the [Liquidity](https://wigoswap.io/liquidity) page.
 
-2\. Select the token pair from which you decide to remove the liquidity.&#x20;
+![](../../.gitbook/assets/12EF0F8A-AC4E-4AF4-8021-D14DFAA986EA\_1\_201\_a.jpeg)
 
-3\. By clicking on the “Remove Liquidity” button, you can select the amount of liquidity you want to remove from the given options (namely, 25%, 50%, 75%, 100%).&#x20;
+2- Select the token pair from which you decide to remove the liquidity and then click on the **Remove Liquidity** button.
 
-4\. Your wallet will then ask you to confirm the operation.&#x20;
+![](<../../.gitbook/assets/C3750B49-E683-44B8-92AA-075DA1F719B3\_1\_201\_a (1).jpeg>)
 
-5\. To proceed to the next step following the confirmation, click on the “Remove” button.
+3- You can select the amount of liquidity you want to remove from the given options (namely, 25%, 50%, 75%, 100%).&#x20;
 
-6\. In the next section you can see the amount of each token you are going to receive. By clicking on the “confirm” button, your wallet will ask you to confirm the action for a second time.&#x20;
+![](../../.gitbook/assets/C3750B49-E683-44B8-92AA-075DA1F719B3\_1\_201\_a.jpeg)
 
-7\. Finally, you obtain the previously estimated amounts of each token in the pair. In case you have only removed a part of your liquidity, the remaining amount is updated on “My Liquidity” tab.&#x20;
+4- Once you selected the amount of liquidity you want to remove, you need to click on **Enable** button. Your wallet will then ask you to confirm the operation.&#x20;
+
+![](../../.gitbook/assets/E597C895-499B-4BBC-AAF2-7C4C2A382FCC\_1\_201\_a.jpeg)
+
+5- To proceed to the next step following the confirmation, click on the **Remove** button.
+
+![](../../.gitbook/assets/66375119-D926-4BE1-A598-840549E7DE43\_1\_201\_a.jpeg)
+
+6- In the next section you can see the amount of each token you are going to receive. By clicking on the **Confirm Remove** button, your wallet will ask you to confirm the action for a second time.
+
+![](../../.gitbook/assets/D04D4274-5F3B-4E78-B40E-0D86C954DDC5\_1\_201\_a.jpeg)
+
+7- Finally, you obtain the previously estimated amounts of each token in the pair. In case you have only removed a part of your liquidity, the remaining amount is updated on [Liquidity](https://wigoswap.io/liquidity) page.&#x20;
