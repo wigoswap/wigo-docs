@@ -6,29 +6,51 @@ Liquidity plays a pivotal role in WigoSwap’s Decentralized Exchange. In order 
 
 ### **How to Add Liquidity:**&#x20;
 
-In order to add liquidity, you only have to deposit a certain amount of each token in a pair. To make things clear, an example is provided in what follows. In this example FTM-WIGO pair is used.
+In order to add liquidity, you only have to deposit a certain amount of each token in a pair. To make things clear, an example is provided in what follows. In this example **FTM-USDC** pair is used.
 
 
 
-1\. Open the Liquidity tab.
+1- Connect your wallet ([How to Connect?](../../get-started/connect-your-wallet-to-wigoswap.md))
 
-2\. Click on Add Liquidity.
+2- Open the [Liquidity](https://wigoswap.io/liquidity) page.
 
-3\. Now you will see a section that has two separate parts. On the upper part, select the desired currency for which you want to add liquidity from the dropdown menu. In this example we are using FTM.&#x20;
+![](../../.gitbook/assets/67D968F3-BB1A-480E-A339-89AF654054F7\_1\_201\_a.jpeg)
 
-4\. On the lower part of this section, choose the other currency for which you want to provide liquidity. In our example WIGO is selected.&#x20;
+3- Click on **Add Liquidity** button.
 
-5\. Entering the amount of one of the tokens in the desired pair will lead to the amount of the other token being calculated automatically.&#x20;
+![](../../.gitbook/assets/5E5CC59C-131D-460B-BA0C-9E1E1BD11F4A\_1\_201\_a.jpeg)
 
-6\. Make sure that you have sufficient amounts of the tokens you want to add liquidity to. Otherwise, you will be unable to proceed to the next step.
+4- Now you will see a section that has two separate parts. On the upper part, select the desired token for which you want to add liquidity from the dropdown menu. In this example we are using **FTM**.
 
-7\. Once you entered the desired amounts for the tokens, you need to click on “Enable WIGO”. You might need to click on this button twice if you are adding liquidity to a pair that involves a token other than FTM.&#x20;
+5- On the lower part of this section, choose the other token for which you want to provide liquidity. In our example **USDC** is selected.
 
-8\. After enabling WIGO, you can then click on the “Supply” button.
+6- Entering the amount of one of the tokens in the desired pair will lead to the amount of the other token being calculated automatically.
 
-9\. Confirm the transaction through your wallet.&#x20;
+7- Make sure that you have sufficient amounts of the tokens you want to add liquidity to. Otherwise, you will be unable to proceed to the next step.
 
-10\. Following the confirmation, you are able to view the amount of LP Tokens you possess at the bottom of the page.&#x20;
+8- Once you entered the desired amounts for the tokens, you need to click on **Enable USDC** button. You might need to click on this button twice if you are adding liquidity to a pair that involves a token other than FTM.
+
+9- Confirm the enabling through your wallet.
+
+![](../../.gitbook/assets/75ED7419-0C77-454C-88D3-5BC915514E0D\_1\_201\_a.jpeg)
+
+10- After enabling tokens, you can then click on the **Supply** button.
+
+![](../../.gitbook/assets/AF6A5CED-8071-4A79-87EF-B1D38B9A9BE6\_1\_201\_a.jpeg)
+
+11- Then read the final information and click on the **Confirm Supply** button.
+
+12- Confirm the transaction through your wallet.
+
+![](../../.gitbook/assets/D8A96516-1DE7-4AC5-8208-51A98E228689\_1\_201\_a.jpeg)
+
+13- You can add Wigo-LP token to your wallet as a custom token.
+
+![](../../.gitbook/assets/F5FC6CB3-3AF4-4D9D-8D30-85616A92F411\_1\_201\_a.jpeg)
+
+13- Following the confirmation, you are able to view the your added liquidity on [Liquidity](https://wigoswap.io/liquidity) page.
+
+14- Now you have Wigo-LP token that in turn can be staked in the [Wigo Farms](../wigo-farms/) for gaining WIGO tokens as reward.
 
 
 
