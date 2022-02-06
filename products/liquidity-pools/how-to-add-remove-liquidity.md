@@ -2,9 +2,7 @@
 
 Liquidity plays a pivotal role in WigoSwap’s Decentralized Exchange. In order to add liquidity for a particular token pair, you only have to stake the tokens in the platform. Once you add liquidity, you start obtaining rewards in the form of the trading fees generated for that certain token pair you’ve staked. Furthermore, you receive LP Tokens that in turn can be staked in the Farms for gaining WIGO tokens.&#x20;
 
-
-
-### **How to Add Liquidity:**&#x20;
+## **How to Add Liquidity:**&#x20;
 
 In order to add liquidity, you only have to deposit a certain amount of each token in a pair. To make things clear, an example is provided in what follows. In this example **FTM-USDC** pair is used.
 
@@ -52,9 +50,7 @@ In order to add liquidity, you only have to deposit a certain amount of each tok
 
 14- Now you have Wigo-LP token that in turn can be staked in the [Wigo Farms](../wigo-farms/) for gaining WIGO tokens as reward.
 
-
-
-### **How to Remove Liquidity:**&#x20;
+## **How to Remove Liquidity:**&#x20;
 
 1- Open the [Liquidity](https://wigoswap.io/liquidity) page.
 
