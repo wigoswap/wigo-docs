@@ -42,7 +42,7 @@ In order to add liquidity, you only have to deposit a certain amount of each tok
 
 ![](../../.gitbook/assets/D8A96516-1DE7-4AC5-8208-51A98E228689\_1\_201\_a.jpeg)
 
-13- You can add Wigo-LP token to your wallet as a custom token. If you are using MetaMask, just click on the **Add Wigo-LP to Metamask button**. If you use other wallets such as TrustWallet, You can add Wigo-LP token to your wallet as a custom token by [Wigo-LP contract address](../../smart-contracts/token-addresses.md). Adding Wigo-LP tokens to the wallet is optional and you can do this step at any time.
+13- Adding Wigo-LP tokens to your wallet is optional and you can do this step at any time. If you are using MetaMask, just click on the **Add Wigo-LP to Metamask button**. If you have other wallets such as TrustWallet, you can add Wigo-LP token to your wallet as a custom token by [Wigo-LP contract address](../../smart-contracts/token-addresses.md).&#x20;
 
 ![](../../.gitbook/assets/F5FC6CB3-3AF4-4D9D-8D30-85616A92F411\_1\_201\_a.jpeg)
 
