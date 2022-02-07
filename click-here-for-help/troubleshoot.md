@@ -231,7 +231,7 @@ Ensure that the amount of funds you are trading with does not exceed the amount 
 
 </details>
 
-## **Issues Related to Wigo Bank**&#x20;
+## **Issues Related to WigoBank**&#x20;
 
 ### **Burn amount exceeds balance**
 
@@ -245,7 +245,7 @@ Ensure that the amount of funds you are trading with does not exceed the amount 
 
 <summary><strong>Reason</strong></summary>
 
-Since you need the Wigo Bank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/wigobank/automatic-vs.-standard.md) staking pool in the Wigo Bank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
+Since you need the WigoBank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/wigobank/automatic-vs.-standard.md) staking pool in the WigoBank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
 
 </details>
 
@@ -253,7 +253,7 @@ Since you need the Wigo Bank (xWIGO) Tokens to unstake your WIGO tokens from the
 
 <summary>Solution</summary>
 
-If you are trying to unstake WIGO and this error occurs, you have to obtain as many Wigo Bank (xWIGO) tokens as the amount of WIGO tokens you decide to unstake.&#x20;
+If you are trying to unstake WIGO and this error occurs, you have to obtain as many WigoBank (xWIGO) tokens as the amount of WIGO tokens you decide to unstake.&#x20;
 
 </details>
 
@@ -311,13 +311,13 @@ This happens when you set a limit on your spend allowance when you first approve
 
 > Fail with error 'ERC20: transfer amount exceeds balance'
 
-This type of error is displayed when you are attempting to unstake from an old Wigo Bank staking pool with low rewards to harvest. Therefore, the transaction fails. &#x20;
+This type of error is displayed when you are attempting to unstake from an old WigoBank staking pool with low rewards to harvest. Therefore, the transaction fails. &#x20;
 
 <details>
 
 <summary><strong>Reason</strong></summary>
 
-You may see this error if you are attempting to withdraw from a Wigo Bank staking pool in which the reward is lower than expected.&#x20;
+You may see this error if you are attempting to withdraw from a WigoBank staking pool in which the reward is lower than expected.&#x20;
 
 If this is not the case, the other reason for such an error might be sending tokens that are not available in your wallet (for example, tokens that have already been sent and the process has not completed yet, or the transaction is pending). Therefore, double-check the availability of the tokens you want to transfer.&#x20;
 
@@ -327,9 +327,9 @@ If this is not the case, the other reason for such an error might be sending tok
 
 <summary><strong>Solution</strong></summary>
 
-Inform the team about the problem with the Wigo Bank so that they increase the rewards to the desired level. However, if you are fine with not harvesting the unclaimed rewards, you can use ‘emergency withdrawal’. To do so you can follow the steps below:
+Inform the team about the problem with the WigoBank so that they increase the rewards to the desired level. However, if you are fine with not harvesting the unclaimed rewards, you can use ‘emergency withdrawal’. To do so you can follow the steps below:
 
-1. Find the contract address of the Wigo Bank staking pool from which you are attempting to unstake your tokens. The address is shown in your wallet’s transaction log. &#x20;
+1. Find the contract address of the WigoBank staking pool from which you are attempting to unstake your tokens. The address is shown in your wallet’s transaction log. &#x20;
 2. Open [FTMScan](https://ftmscan.com) and in the search field enter the contract address.&#x20;
 3. Select the ‘Write Contract’ tab.&#x20;
 4. Connect your wallet by clicking on the ‘connect to web 3.0’ button.

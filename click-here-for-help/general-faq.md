@@ -29,11 +29,11 @@ When you make a token swap (trade) on the exchange you will pay a **0.19% tradin
 
 ## **How can I stake WIGO?**
 
-You are able to stake your WIGO in Wigo Bank. Visit Wigo Bank here:
+You are able to stake your WIGO in WigoBank. Visit WigoBank here:
 
 {% embed url="https://wigoswap.io/bank" %}
 
-You can find the necessary information on how to stake in Wigo Bank here:
+You can find the necessary information on how to stake in WigoBank here:
 
 {% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
 [how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
@@ -41,13 +41,13 @@ You can find the necessary information on how to stake in Wigo Bank here:
 
 ## **What is the difference between staking and farming?**
 
-Both services give you rewards in the form of WIGO tokens in return for your support for the platform. To understand the difference, it is worth noting that staking means you stake WIGO tokens in Wigo Bank, and earn WIGO or other tokens as your reward. A guide to staking in Wigo Bank is provided here:
+Both services give you rewards in the form of WIGO tokens in return for your support for the platform. To understand the difference, it is worth noting that staking means you stake WIGO tokens in WigoBank, and earn WIGO or other tokens as your reward. A guide to staking in WigoBank is provided here:
 
 {% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
 [how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
-On the other hand, to participate in the farms you need LP tokens to earn WIGO. You can find a comprehensive guide to using Wigo Farms here:
+On the other hand, to participate in the WigoFarm you need Wigo-LP tokens to earn WIGO. You can find a comprehensive guide to using WigoFarm here:
 
 {% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
 [how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
@@ -101,7 +101,7 @@ Needless to say, you can check your transaction’s status on [FTMScan](https://
 [fix-pending-transactions.md](fix-pending-transactions.md)
 {% endcontent-ref %}
 
-## When will you open more pools in Wigo Bank?
+## When will you open more pools in WigoBank?
 
 WigoSwap constantly adds new staking pools to its platform, and an official announcement would be released before the launch of each pool. Make sure to check our announcement channel on Telegram to be informed about the new events.&#x20;
 
@@ -142,9 +142,9 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 [gamified-burning-mechanism-gbm.md](../tokenomics/gamified-burning-mechanism-gbm.md)
 {% endcontent-ref %}
 
-## **What is Wigo Bank (xWIGO) Token?**   &#x20;
+## **What is WigoBank (xWIGO) Token?**   &#x20;
 
-By staking manually in Wigo Bank using the Standard Staking method, Wigo Bank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the bank. You can find more information on xWIGO here:
+By staking manually in WigoBank using the Standard Staking method, WigoBank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the WigoBank. You can find more information on xWIGO here:
 
 {% content-ref url="../products/wigobank/wigobank-faq-and-troubleshooting.md" %}
 [wigobank-faq-and-troubleshooting.md](../products/wigobank/wigobank-faq-and-troubleshooting.md)
