@@ -245,7 +245,7 @@ Ensure that the amount of funds you are trading with does not exceed the amount 
 
 <summary><strong>Reason</strong></summary>
 
-Since you need the Wigo Bank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/wigo-bank/automatic-vs.-standard.md) staking pool in the Wigo Bank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
+Since you need the Wigo Bank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/wigobank/automatic-vs.-standard.md) staking pool in the Wigo Bank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
 
 </details>
 
@@ -384,11 +384,11 @@ The amount of FTM you need to pay for the transaction fee is not sufficient. Try
 
 ### **Error: \[ethjs-query]**&#x20;
 
-> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"}}}"
+> Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32000,"message":"transaction underpriced"\}}}"
 
 To solve this problem, you need to raise the transaction’s gas in your wallet. You can check your wallet’s guides to understand the process for increasing the gas limit.&#x20;
 
-> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"}}}'
+> Swap failed: Error: \[ethjs-query] while formatting outputs from RPC '{"value":{"code":-32603,"data":{"code":-32603,"message":"handle request error"\}}}'
 
 To solve the above problem, go through the following steps:
 

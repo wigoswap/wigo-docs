@@ -17,8 +17,8 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [ ] Community Building Campaigns (Social media activities, Airdrop events and etc.)
 * [ ] WIGO Initial Dex Offering (IDO)
 * [ ] Release [Wigo Farms](products/wigofarm/) (LP Farms)
-* [ ] Release [Wigo Bank](products/wigo-bank/) (Staking Pools)
-* [ ] Release [Wigo Vault](products/wigo-bank/automatic-vs.-standard.md) (Auto-compound Feature)
+* [ ] Release [Wigo Bank](products/wigobank/) (Staking Pools)
+* [ ] Release [Wigo Vault](products/wigobank/automatic-vs.-standard.md) (Auto-compound Feature)
 * [ ] [GBM](tokenomics/gamified-burning-mechanism-gbm.md) Phase 1.0
 * [ ] Listing on Coingecko, CoinMarketCap, Zapper, CoinStats, imToken, Defi Llama and etc.
 

@@ -22,10 +22,10 @@
 * [WigoFarm](products/wigofarm/README.md)
   * [How to Use WigoFarm](products/wigofarm/how-to-use-wigofarm.md)
   * [How to Use WigoFarm with FTMScan](products/wigofarm/how-to-use-wigofarm-with-ftmscan.md)
-* [Wigo Bank](products/wigo-bank/README.md)
-  * [How to Stake in Wigo Bank](products/wigo-bank/how-to-stake-in-wigo-bank.md)
-  * [Automatic vs. Standard](products/wigo-bank/automatic-vs.-standard.md)
-  * [Wigo Bank FAQ & Troubleshooting](products/wigo-bank/wigo-bank-faq-and-troubleshooting.md)
+* [WigoBank](products/wigobank/README.md)
+  * [How to Stake in WigoBank](products/wigobank/how-to-stake-in-wigobank.md)
+  * [Automatic vs. Standard](products/wigobank/automatic-vs.-standard.md)
+  * [WigoBank FAQ & Troubleshooting](products/wigobank/wigobank-faq-and-troubleshooting.md)
 
 ## Tokenomics
 

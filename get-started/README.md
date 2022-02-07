@@ -34,8 +34,8 @@ When your wallet is all set up and connected to WigoSwap, you may also need to c
 [how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
-{% content-ref url="../products/wigo-bank/how-to-stake-in-wigo-bank.md" %}
-[how-to-stake-in-wigo-bank.md](../products/wigo-bank/how-to-stake-in-wigo-bank.md)
+{% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
+[how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
 It is worth noting that more advanced guides could be found on the menu so that you can fully understand the variety of features and services on WigoSwap.&#x20;

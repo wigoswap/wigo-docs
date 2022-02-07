@@ -35,16 +35,16 @@ You are able to stake your WIGO in Wigo Bank. Visit Wigo Bank here:
 
 You can find the necessary information on how to stake in Wigo Bank here:
 
-{% content-ref url="../products/wigo-bank/how-to-stake-in-wigo-bank.md" %}
-[how-to-stake-in-wigo-bank.md](../products/wigo-bank/how-to-stake-in-wigo-bank.md)
+{% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
+[how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
 ## **What is the difference between staking and farming?**
 
 Both services give you rewards in the form of WIGO tokens in return for your support for the platform. To understand the difference, it is worth noting that staking means you stake WIGO tokens in Wigo Bank, and earn WIGO or other tokens as your reward. A guide to staking in Wigo Bank is provided here:
 
-{% content-ref url="../products/wigo-bank/how-to-stake-in-wigo-bank.md" %}
-[how-to-stake-in-wigo-bank.md](../products/wigo-bank/how-to-stake-in-wigo-bank.md)
+{% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
+[how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
 On the other hand, to participate in the farms you need LP tokens to earn WIGO. You can find a comprehensive guide to using Wigo Farms here:
@@ -146,8 +146,8 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 
 By staking manually in Wigo Bank using the Standard Staking method, Wigo Bank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the bank. You can find more information on xWIGO here:
 
-{% content-ref url="../products/wigo-bank/wigo-bank-faq-and-troubleshooting.md" %}
-[wigo-bank-faq-and-troubleshooting.md](../products/wigo-bank/wigo-bank-faq-and-troubleshooting.md)
+{% content-ref url="../products/wigobank/wigobank-faq-and-troubleshooting.md" %}
+[wigobank-faq-and-troubleshooting.md](../products/wigobank/wigobank-faq-and-troubleshooting.md)
 {% endcontent-ref %}
 
 ## **I can’t find the answer to my question on this page. Where can I ask my question?**
