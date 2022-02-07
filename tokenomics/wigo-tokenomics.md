@@ -43,9 +43,9 @@ Vesting smart contracts can be found here:
 
 The rest of the supply is going to be minted over time as follows:
 
-| Allocation Category      |  % of Max Supply | Number of Tokens  |
-| ------------------------ | ---------------- | ----------------- |
-| Farm and Staking Rewards | 80.0%            | 1,600,000,000     |
-| Core Team                | 10.0%            | 200,000,000       |
-| Wigo DAO                 | 2.0%             | 40,000,000        |
-| **Total**                | **92.0%**        | **1,840,000,000** |
+| Allocation Category         |  % of Max Supply | Number of Tokens  |
+| --------------------------- | ---------------- | ----------------- |
+| Farming and Staking Rewards | 80.0%            | 1,600,000,000     |
+| Core Team                   | 10.0%            | 200,000,000       |
+| Wigo DAO                    | 2.0%             | 40,000,000        |
+| **Total**                   | **92.0%**        | **1,840,000,000** |
