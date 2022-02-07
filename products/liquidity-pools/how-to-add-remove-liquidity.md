@@ -1,6 +1,6 @@
 # How to Add/Remove Liquidity
 
-Liquidity plays a pivotal role in WigoSwap’s Decentralized Exchange. In order to add liquidity for a particular token pair, you only have to stake the tokens in the platform. Once you add liquidity, you start obtaining rewards in the form of the trading fees generated for that certain token pair you’ve staked. Furthermore, you receive Wigo-LP Tokens that in turn can be staked in the Farms for gaining WIGO tokens.&#x20;
+Liquidity plays a pivotal role in WigoSwap’s Decentralized Exchange. In order to add liquidity for a particular token pair, you only have to stake the tokens in the platform. Once you add liquidity, you start obtaining rewards in the form of the trading fees generated for that certain token pair you’ve staked. Furthermore, you receive Wigo-LP tokens that in turn can be staked in the Farms for gaining WIGO tokens.&#x20;
 
 ## **How to Add Liquidity:**&#x20;
 
