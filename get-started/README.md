@@ -30,8 +30,8 @@ When your wallet is all set up and connected to WigoSwap, you may also need to c
 [how-to-add-remove-liquidity.md](../products/liquidity-pools/how-to-add-remove-liquidity.md)
 {% endcontent-ref %}
 
-{% content-ref url="../products/wigo-farms/how-to-use-wigo-farms.md" %}
-[how-to-use-wigo-farms.md](../products/wigo-farms/how-to-use-wigo-farms.md)
+{% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
+[how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
 {% content-ref url="../products/wigo-bank/how-to-stake-in-wigo-bank.md" %}

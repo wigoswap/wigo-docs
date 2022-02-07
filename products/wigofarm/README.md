@@ -1,14 +1,14 @@
-# Wigo Farms
+# WigoFarm
 
 As users add liquidity to the platform, they earn LP Tokens. Staking the LP Tokens will in turn lead to harvesting WIGO as the reward.
 
 {% hint style="warning" %}
-In terms of giving rewards, Wigo Farms is better than Wigo Bank. However, there exists the risk of **Impermanent Loss**. While the term seems a little threatening at first, but it’s not the case if you learn about the concept before attempting to use the farms.
+In terms of giving rewards, WigoFarm is better than Wigo Bank. However, there exists the risk of **Impermanent Loss**. While the term seems a little threatening at first, but it’s not the case if you learn about the concept before attempting to use the farms.
 {% endhint %}
 
 ## **Calculating the Rewards:**
 
-The Annual Percentage Rate (APR) calculations related to the farms are twofold; Firstly, by providing liquidity, users benefit from the LP Rewards APR. Secondly, through staking their LP Tokens into Wigo farms, they profit from the Farm-related rewards APR.
+The Annual Percentage Rate (APR) calculations related to the farms are twofold; Firstly, by providing liquidity, users benefit from the LP Rewards APR. Secondly, through staking their LP Tokens into WigoFarm, they profit from the Farm-related rewards APR.
 
 \
 `Farm Total APR = LP Rewards APR + Farm Related Rewards APR`

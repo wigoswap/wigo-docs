@@ -37,8 +37,8 @@ As users provide the platform with liquidity, they earn WIGO tokens as their rew
 
 Click on below to read detailed information on Wigo Farms.
 
-{% content-ref url="../wigo-farms/" %}
-[wigo-farms](../wigo-farms/)
+{% content-ref url="../wigofarm/" %}
+[wigofarm](../wigofarm/)
 {% endcontent-ref %}
 
 

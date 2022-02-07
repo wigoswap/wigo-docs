@@ -48,7 +48,7 @@ In order to add liquidity, you only have to deposit a certain amount of each tok
 
 13- Following the confirmation, you are able to view the your added liquidity on [Liquidity](https://wigoswap.io/liquidity) page.
 
-14- Now you have Wigo-LP token that in turn can be staked in the [Wigo Farms](../wigo-farms/) for gaining WIGO tokens as reward.
+14- Now you have Wigo-LP token that in turn can be staked in the [Wigo Farms](../wigofarm/) for gaining WIGO tokens as reward.
 
 ## **How to Remove Liquidity:**&#x20;
 

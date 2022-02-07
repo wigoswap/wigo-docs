@@ -49,16 +49,16 @@ Both services give you rewards in the form of WIGO tokens in return for your sup
 
 On the other hand, to participate in the farms you need LP tokens to earn WIGO. You can find a comprehensive guide to using Wigo Farms here:
 
-{% content-ref url="../products/wigo-farms/how-to-use-wigo-farms.md" %}
-[how-to-use-wigo-farms.md](../products/wigo-farms/how-to-use-wigo-farms.md)
+{% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
+[how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
 ## **How can I farm?**&#x20;
 
 Read our guide to yield farming on WigoSwap to find the necessary information.&#x20;
 
-{% content-ref url="../products/wigo-farms/how-to-use-wigo-farms.md" %}
-[how-to-use-wigo-farms.md](../products/wigo-farms/how-to-use-wigo-farms.md)
+{% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
+[how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
 ## How to bridge my tokens onto Fantom? ****&#x20;
