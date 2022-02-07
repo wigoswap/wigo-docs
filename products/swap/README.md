@@ -21,7 +21,7 @@ When you make a token swap (trade) on the exchange you will pay a **0.19% tradin
 
 Provided that there is sufficient liquidity for certain tokens, users are able to swap tokens. However, lack of liquidity for the tokens you want to swap might make the operation hard, costly, or even impossible.&#x20;
 
-Users who provide liquidity to the liquidity pools will be granted LP tokens. The users are incentivized through the fees generated as a result of trading on the platform. In this way, the existence of liquidity for the DEX is guaranteed to a certain extent.&#x20;
+Users who provide liquidity to the liquidity pools will be granted Wigo-LP tokens. The users are incentivized through the fees generated as a result of trading on the platform. In this way, the existence of liquidity for the DEX is guaranteed to a certain extent.&#x20;
 
 Click on below to read detailed information on Liquidity Pools.
 
@@ -40,9 +40,3 @@ Click on below to read detailed information on Wigo Farms.
 {% content-ref url="../wigofarm/" %}
 [wigofarm](../wigofarm/)
 {% endcontent-ref %}
-
-
-
-### **Initial Farm Offerings (IFOs):**&#x20;
-
-IFOs are fundraising models that allow new projects to raise funds through participating in pre-sale events. IFO feature coming soon on WigoSwap and users could have the opportunity to buy new tokens at reasonable prices.&#x20;
