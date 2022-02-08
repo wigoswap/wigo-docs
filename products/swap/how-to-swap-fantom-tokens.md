@@ -30,4 +30,10 @@ First and foremost, you need a Fantom-compatible wallet. The necessary informati
 
 ![](../../.gitbook/assets/84972B16-6620-49CE-9C11-145A76B432F2\_1\_201\_a.jpeg)
 
-7- You can then check [FTMScan](https://ftmscan.com) to view your transaction details.&#x20;
+7- You can then check [FTMScan](https://ftmscan.com) to view your transaction details.
+
+Read this section if you have any problem using the swap service:
+
+{% content-ref url="../../click-here-for-help/troubleshoot.md" %}
+[troubleshoot.md](../../click-here-for-help/troubleshoot.md)
+{% endcontent-ref %}
