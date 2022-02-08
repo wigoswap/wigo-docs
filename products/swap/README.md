@@ -35,7 +35,7 @@ Click on below to read detailed information on Liquidity Pools.
 
 As users provide the platform with liquidity, they earn WIGO tokens as their reward. This in turn leads to a minimization of the risk of impermanent loss which is inherent in protocols that lock users’ liquidity.
 
-Click on below to read detailed information on Wigo Farms.
+Click on below to read detailed information on WigoFarm.
 
 {% content-ref url="../wigofarm/" %}
 [wigofarm](../wigofarm/)
