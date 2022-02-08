@@ -4,13 +4,13 @@ Swapping/Trading has never been easier on WigoSwap. This is made possible by off
 
 
 
-### **Starting to Trade:**&#x20;
+### **Starting to Trade**
 
 First and foremost, you need a Fantom-compatible wallet. The necessary information on how to set one up is provided [<mark style="color:blue;">here</mark>](../../get-started/connect-your-wallet-to-wigoswap.md). You also need some Fantom FRC20 tokens. You can check [<mark style="color:blue;">here</mark>](../../get-started/get-frc20-tokens.md) to learn how you can obtain the tokens.
 
 
 
-### **Trading on the WigoSwap Exchange:**&#x20;
+### **Trading on the WigoSwap Exchange**
 
 1- Open the Swap page [here](https://wigoswap.io/swap).
 
