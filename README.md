@@ -22,8 +22,8 @@ The features offered by WigoSwap include:
 
 * Decentralized Swap
 * Liquidity Pools
-* Wigo Farms (Yield Farming) \*
-* Wigo Bank (Staking) \*&#x20;
+* Wigo Farms (Yield Farming)
+* Wigo Bank (Staking)
 * NFT Marketplace \*&#x20;
 * Initial Farm Offerings (IFOs) \*
 * DAO Governance \*
