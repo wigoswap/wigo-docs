@@ -53,5 +53,5 @@ WigoSwap Pair Code Hash:\
   [0xb2129f82e64a84405c8d8656e771bfe14db708ef99ca7de48ba6bfe857fedd16](https://ftmscan.com/tx/0xb2129f82e64a84405c8d8656e771bfe14db708ef99ca7de48ba6bfe857fedd16)\
   [0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38](https://ftmscan.com/tx/0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38)\
   [0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688](https://ftmscan.com/tx/0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688)
-* Core Team's WIGO-FTM LP tokens (Initial liquidity) sent has been locked:\
+* Core Team's WIGO-FTM LP tokens (Initial liquidity) has been locked:\
   [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)
