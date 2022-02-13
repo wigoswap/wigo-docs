@@ -4,21 +4,25 @@ On this page you can find the answers to the most important questions frequently
 
 ## **Is WigoSwap safe? Is WigoSwap audited?**&#x20;
 
-Below, you can check the security audits related to WigoSwap:
+1- Below, you can check the security audits related to WigoSwap:
 
 {% content-ref url="../audit-reports.md" %}
 [audit-reports.md](../audit-reports.md)
 {% endcontent-ref %}
 
-In order to achieve maximum transparency, we have published all our smart contracts on [GitHub](https://github.com/wigoswap). All of the contracts are verified on FTMScan so that all of the operations are crystal clear.
+2- In order to achieve maximum transparency, we have published all our smart contracts on [GitHub](https://github.com/wigoswap). All of the contracts are verified on FTMScan so that all of the operations are crystal clear.
 
 {% content-ref url="../smart-contracts/wigoswap-contracts.md" %}
 [wigoswap-contracts.md](../smart-contracts/wigoswap-contracts.md)
 {% endcontent-ref %}
 
-We use multi-signature wallets before transferring ownership of all important smart contracts to Wigo DAO.&#x20;
+3- All WigoSwap contracts are non-upgradeable.
 
-A time lock designed for our contracts will be set up soon so that users can use WigoSwap services with no concern.
+4- All WigoSwap contracts have zero pausing functionality of any kind.&#x20;
+
+5- Prices of tokens are based on the state of their respective pairs only. No outside Oracles are used for any aspect of the WigoSwap.&#x20;
+
+6- A time lock designed for our contracts will be set up soon so that users can use WigoSwap services with no concern.
 
 ## What is the swap fee?
 
