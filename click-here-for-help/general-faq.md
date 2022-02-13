@@ -16,13 +16,17 @@ On this page you can find the answers to the most important questions frequently
 [wigoswap-contracts.md](../smart-contracts/wigoswap-contracts.md)
 {% endcontent-ref %}
 
-3- All WigoSwap contracts are non-upgradeable.
+3- WIGO token initial liquidity has been locked for 365 days. ([FTMScan](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41))
 
-4- All WigoSwap contracts have zero pausing functionality of any kind.&#x20;
+4- All WigoSwap contracts are non-upgradeable.
 
-5- Prices of tokens are based on the state of their respective pairs only. No outside Oracles are used for any aspect of the WigoSwap.&#x20;
+5- All WigoSwap contracts have zero pausing functionality of any kind.&#x20;
 
-6- A time lock designed for our contracts will be set up soon so that users can use WigoSwap services with no concern.
+6- Prices of tokens are based on the state of their respective pairs only. No outside Oracles are used for any aspect of the WigoSwap.
+
+7- ZERO admin privileges to affect user funds. Admin privileges consist only of administrative things such as changing farm weights or adding new farms.
+
+8- A time lock designed for our contracts will be set up soon so that users can use WigoSwap services with no concern.
 
 ## What is the swap fee?
 
