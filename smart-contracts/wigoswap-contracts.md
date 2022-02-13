@@ -32,9 +32,9 @@ WigoSwap Pair Code Hash:\
 * 180-Day: [0x47a88FA16F48A91c201a523cC796e31Ef0eFc630](https://ftmscan.com/address/0x47a88FA16F48A91c201a523cC796e31Ef0eFc630)
 * 240-Day: [0x515be0F005e657222D059C764726895598F0a911](https://ftmscan.com/address/0x515be0F005e657222D059C764726895598F0a911)
 
-### Core Team's LP Token Timelock:
+### Core Team's Initial Liquidity Lock:
 
-* 365-Day: "Coming Soon"
+* 365-Day: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)
 
 ## Important Transactions
 
@@ -53,5 +53,5 @@ WigoSwap Pair Code Hash:\
   [0xb2129f82e64a84405c8d8656e771bfe14db708ef99ca7de48ba6bfe857fedd16](https://ftmscan.com/tx/0xb2129f82e64a84405c8d8656e771bfe14db708ef99ca7de48ba6bfe857fedd16)\
   [0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38](https://ftmscan.com/tx/0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38)\
   [0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688](https://ftmscan.com/tx/0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688)
-* Core Team's WIGO-FTM LP token sent to vesting contract:\
-  "Coming Soon"
+* Core Team's WIGO-FTM LP tokens (Initial liquidity) sent has been locked:\
+  [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)
