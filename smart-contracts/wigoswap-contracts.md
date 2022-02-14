@@ -36,6 +36,25 @@ WigoSwap Pair Code Hash:\
 
 * 365-Day: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)
 
+## Airdrop Merkle Proof Contracts
+
+We used combination of Markle Proof & Timelock to build a claimable vesting contract, so that all 60M airdrop tokens are locked and will be available for airdrop winners to claim 20% of total rewards every month without WigoSwap’s team interposition.
+
+1- Claimable since Sat Mar 12 2022 10:30 UTC[\
+0x34fada93c6d05D0bd568CB2C4917C99912D7EC70](https://ftmscan.com/address/0x34fada93c6d05D0bd568CB2C4917C99912D7EC70)
+
+2- Claimable since Tue Apr 12 2022 10:30 UTC\
+[0xd20530F0720B3e33f5A68DbD6452091Ef0876A0e](https://ftmscan.com/address/0xd20530F0720B3e33f5A68DbD6452091Ef0876A0e)
+
+3- Claimable since Thu May 12 2022 10:30:00 UTC\
+[0x3b6A18B3c63E9Da66f0A26caa19FBC7157c1d725](https://ftmscan.com/address/0x3b6A18B3c63E9Da66f0A26caa19FBC7157c1d725)
+
+4- Claimable since Sun Jun 12 2022 10:30:00 UTC\
+[0x83c5a394b4C368b006bbf3A03d9a47Fb5De34726](https://ftmscan.com/address/0x83c5a394b4C368b006bbf3A03d9a47Fb5De34726)
+
+5- Claimable since Tue Jul 12 2022 10:30:00 UTC\
+[0xf67F05934c76B6a4bf4818b8328BbBcA59eC78d0](https://ftmscan.com/address/0xf67F05934c76B6a4bf4818b8328BbBcA59eC78d0)
+
 ## Important Transactions
 
 * Transfer the ownership of WIGO token to MasterFarmer smart contract:\
@@ -55,3 +74,9 @@ WigoSwap Pair Code Hash:\
   [0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688](https://ftmscan.com/tx/0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688)
 * Core Team's WIGO-FTM LP tokens (Initial liquidity) has been locked:\
   [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)
+* All 60M airdrop tokens has been transferred to 'Merkle Proof + Vesting' contracts:\
+  [0x5dd2f2e44661db06820d5bfa060f56b1cb3c93c8b0814276689220c1445aca34](https://ftmscan.com/tx/0x5dd2f2e44661db06820d5bfa060f56b1cb3c93c8b0814276689220c1445aca34)\
+  [0xa8e1e39741bcefdaf25d4bf75cf75226d81b68360f49ac589cf9834049797422](https://ftmscan.com/tx/0xa8e1e39741bcefdaf25d4bf75cf75226d81b68360f49ac589cf9834049797422)\
+  [0x7dddb27fb1bfef29070115e8fe66e21ba8f144790cefe56e07ca93f9b1aaa134](https://ftmscan.com/tx/0x7dddb27fb1bfef29070115e8fe66e21ba8f144790cefe56e07ca93f9b1aaa134)\
+  [0xddcbcfd0a19f97d55ab03b8ed9b675937a9c7f597d7a16a23680fe231bf7121e](https://ftmscan.com/tx/0xddcbcfd0a19f97d55ab03b8ed9b675937a9c7f597d7a16a23680fe231bf7121e)\
+  [0x637f1e9d7f6351e9efd80807e7b89228767dcab1226433b12ec090a3f0ebc411](https://ftmscan.com/tx/0x637f1e9d7f6351e9efd80807e7b89228767dcab1226433b12ec090a3f0ebc411)\
