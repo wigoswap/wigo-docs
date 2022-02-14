@@ -36,7 +36,7 @@ WigoSwap Pair Code Hash:\
 
 * 365-Day: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)
 
-## Airdrop Merkle Proof Contracts
+### Airdrop Merkle Proof Contracts:
 
 We used combination of Markle Proof & Timelock to build a claimable vesting contract, so that all 60M airdrop tokens are locked and will be available for airdrop winners to claim 20% of total rewards every month without WigoSwap’s team interposition.
 
