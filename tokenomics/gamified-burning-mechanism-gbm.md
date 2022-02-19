@@ -28,7 +28,7 @@ Below are the sources for Gamified Burning Mechanism:
 
 **Phase 1.0:**
 
-* **2%** of every harvest in the [Automatic](../products/wigobank/automatic-vs.-standard.md) staking pool (Performance Fee) in the WigoBank.
+* **5%** of every harvest in the [Automatic](../products/wigobank/automatic-vs.-standard.md) staking pool (Performance Fee) in the WigoBank.
 * **0.5%** of every unstake within three days in the [Automatic](../products/wigobank/automatic-vs.-standard.md) staking pool in the WigoBank.
 * **0.01%** of every swap made on WigoSwap. Buyback WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
 

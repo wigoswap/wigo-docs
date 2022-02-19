@@ -43,7 +43,7 @@ There are two available options in order to stake WIGO and earn WIGO; Automatic 
 
 * **The fee for automatic compounding is as follows;**&#x20;
 
-\+ Each time the WigoBank compounds your rewards, a 2% performance fee is subtracted from your earnings. For instance, if what you’ve earned is 1 WIGO, you would receive 0.98 WIGO and 0.02 WIGO is subtracted as the fee and will be burned immediately.
+\+ Each time the WigoBank compounds your rewards, a 5% performance fee is subtracted from your earnings. For instance, if what you’ve earned is 1 WIGO, you would receive 0.95 WIGO and 0.05 WIGO is subtracted as the fee and will be burned immediately.
 
 The WIGO tokens collected in the form of fees generated through unstaking or compounding, are regularly burnt as part of the [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md) plans.
 
