@@ -56,4 +56,4 @@ The best way to use Automatic staking is to stake your WIGO tokens and try not t
 
 ### **The** Auto Compound Bounty
 
-0.25% of the pending yield of the users who use Automatic Staking is given as a bounty to those who claim the bounty and by doing so trigger the compounding operation for other users. Needless to say, the amount of WIGO you get ought to be higher than the fee you are about to pay for the transaction to submit.
+1% of the pending yield of the users who use Automatic Staking is given as a bounty to those who claim the bounty and by doing so trigger the compounding operation for other users. Needless to say, the amount of WIGO you get ought to be higher than the fee you are about to pay for the transaction to submit.
