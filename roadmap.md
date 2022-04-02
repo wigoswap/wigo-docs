@@ -21,11 +21,12 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 * [x] Release [WigoBank](products/wigobank/) (Staking)
 * [x] Release [WigoVault](products/wigobank/automatic-vs.-standard.md) (Auto-compound Feature)
 * [x] [GBM](tokenomics/gamified-burning-mechanism-gbm.md) Phase 1.0
-* [ ] 👨🏻‍💻 Community Building Campaigns (Social media activities, Airdrop events and etc.)
-* [ ] 👨🏻‍💻 Listing on Coingecko, CoinMarketCap, Nomics, DeBank, DappRadar,  Zapper, CoinStats, imToken, DefiLlama, TrustWallet, TokenPocket, MathWallet, Coin98 and etc.
+* [x] Community Building Campaigns (Social media activities, Airdrop events and etc.)
+* [x] Listing on Coingecko, CoinMarketCap, Nomics, DeBank, DappRadar, dApp.com, CoinStats, DefiLlama, TokenPocket, MathWallet, Huobi Wallet, D'CENT Wallet, Fantom Projects and etc.
 
 ### Q2 2022: Further Development
 
+* [ ] 👨🏻‍💻 Listing on Zapper, imToken, TrustWallet, Coin98 and etc.
 * [ ] Deploying WIGO on Ethereum, Polygon and Binance Smart Chain (BSC)
 * [ ] WIGO liquidity on other DEXs
 * [ ] 👨🏻‍💻 Launch Wigo User Profile System
