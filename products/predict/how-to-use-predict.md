@@ -1,7 +1,11 @@
 # How to use Predict
 
 WigoSwap's Predict is a decentralized, simple, and fun game that lets users test their foresight to earn rewards. Predict if the FTMUSD price will go up or down, and you'll collect a share of the round's prize pool!\
-&#x20;Predict is a new product and works in the beta phase. As a result, we may make changes in the future to improve it. We will inform users of any changes impacting how the Predict works.
+
+
+{% hint style="info" %}
+Predict is a new product and works in the beta phase. As a result, we may make changes in the future to improve it. We will inform users of any changes impacting how the Predict works.
+{% endhint %}
 
 ## Accepting the terms
 
