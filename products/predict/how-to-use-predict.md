@@ -81,8 +81,6 @@ After 5 minutes of the live round, your entered round will finish. Everything is
 
 ### Seeing results for older rounds
 
-
-
 If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
 
 1\. Click on the **reversing clock icon** next to the round timer.
@@ -98,14 +96,17 @@ If you want to see the results for rounds you've entered that are older than a f
 
 
 
-2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.\
-
+2\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
 
 Your token winnings will now be in your wallet.
+
+###
 
 ### Collecting winnings from older rounds
 
 Sometimes you may be away from WigoSwap's Predict page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
+
+
 
 1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
 
@@ -115,8 +116,7 @@ Sometimes you may be away from WigoSwap's Predict page for a while or may have f
 
 
 
-3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.\
-
+3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
 
 Your winnings will now be in your wallet.
 
@@ -124,11 +124,17 @@ Your winnings will now be in your wallet.
 
 If you'd like to see how you've done in Predict, you can view PNL (Profit and Loss) data whenever.
 
+
+
 1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
+
+
 
 2\. On the history panel, click the **PNL** tab.
 
 The tab will open with stats for your historical performance in Predict, including your net results, average return, best round, and other information.
+
+
 
 3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the FTMScan explorer.
 
