@@ -30,7 +30,10 @@ Yes. 4% of the round's total value will go to the treasury, which will be used t
 \
 
 
-#### What are you using for your price feed? We use ChainLink Oracle for the Lock price and End price to know whether a user has won or not. 
+#### What are you using for your price feed?
+
+We use ChainLink Oracle for the Lock price and End price to know whether a user has won or not.\
+
 
 #### Why did the round's result change after it ended?
 
