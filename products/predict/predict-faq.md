@@ -7,10 +7,20 @@ There is no limit. You are able to collect your winnings at any time in future.\
 
 #### How is the payout calculated?
 
-Payout Ratio for UP Pool = Total FTM in Both Pools ÷ FTM in UP PoolPayout Ratio for DOWN Pool = Total FTM in Both Pools ÷ FTM in DOWN Pool\
-If there’s 20 FTM in the UP pool, and the overall round's value is 200 FTM, the UP payout ratio is (200/20)=10x.\
-Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)\
+Payout Ratio for UP Pool = Total FTM in Both Pools ÷ FTM in UP Pool
+
+Payout Ratio for DOWN Pool = Total FTM in Both Pools ÷ FTM in DOWN Pool
+
+\
+If there’s 20 FTM in the UP pool, and the overall round's value is 200 FTM, the UP payout ratio is (200/20)=10x.
+
+\
+Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
+
+\
 In the same case, if the round ends on a UP result, if you deposit 3 FTM to a UP position, you’d get a payout of (3\*10) × (1-0.04) = 28.8 FTM. Your profit would be 25.8 FTM (28.8 - 3).\
+
+
 The treasury fee is currently set at 4% which may change in the future, which would be announced on WigoSwap’s official communication channels. Treasury fees are used to buy back and burn WIGO tokens.\
 
 
@@ -20,11 +30,7 @@ Yes. 4% of the round's total value will go to the treasury, which will be used t
 \
 
 
-#### What are you using for your price feed?
-
-\
-We use ChainLink Oracle for the Lock price and End price to know whether a user has won or not.\
-
+#### What are you using for your price feed? We use ChainLink Oracle for the Lock price and End price to know whether a user has won or not. 
 
 #### Why did the round's result change after it ended?
 
@@ -75,4 +81,4 @@ If the Predict pause while you have a live position, your funds will be availabl
 
 #### What’s the WigoSwap PREDICT contract address?
 
-https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda
+....
