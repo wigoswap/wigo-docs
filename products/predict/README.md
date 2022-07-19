@@ -1,7 +1,10 @@
 # 🎮 Predict
 
-PREDICT is the first decentralized and fun FTM price prediction mini-game on WigoSwap.\
+PREDICT is the first decentralized and fun FTM price prediction mini-game on WigoSwap.
+
+{% hint style="success" %}
 There is just one rule: Predict FTM price (up or down) and win!
+{% endhint %}
 
 \
 How to participate? It's really easy:
