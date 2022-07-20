@@ -30,11 +30,11 @@ If the timer is too low, your prediction may not confirm in time. So check there
 
 When you're sure you have enough time, you can place your prediction for the next round.
 
-1\. In the "Next" section, you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a price rise, and click **Enter DOWN** if you want to predict a price drop.
+1\. In the "Next" section, you'll see a green **Enter GREEN** button and a red **Enter RED** button. Click **Enter GREEN** if you want to predict a price rise, and click **Enter RED** if you want to predict a price drop.
 
 Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
 
-We'll choose **Enter UP** for this example.
+We'll choose **Enter GREEN** for this example.
 
 
 
@@ -75,7 +75,7 @@ After 5 minutes of the live round, your entered round will finish. Everything is
 1\. As the 15 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results takes a short moment.\
 
 
-2\. After a short wait, the finished round will move left and say "Expired". The round result will display either UP colored in green or DOWN colored in red.\
+2\. After a short wait, the finished round will move left and say "Expired". The round result will display either GREEN colored in green or RED colored in red.\
 
 
 3\. If you've been busy and missed the results, you can scroll back a few rounds.
