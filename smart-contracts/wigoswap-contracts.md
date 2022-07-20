@@ -1,4 +1,4 @@
-# WigoSwap Contracts
+# 📔 WigoSwap Contracts
 
 ## Main Contracts
 
@@ -8,6 +8,10 @@
 * WigoVault: [0x4178E335bd36295FFbC250490edbB6801081D022](https://ftmscan.com/address/0x4178E335bd36295FFbC250490edbB6801081D022)
 * WigoSwap Token (WIGO): [0xE992bEAb6659BFF447893641A378FbbF031C5bD6](https://ftmscan.com/address/0xE992bEAb6659BFF447893641A378FbbF031C5bD6)
 * WigoBank Token (xWIGO): [0xB9bBe9355828A1aD0e2d605480f969c6903Ad9e4](https://ftmscan.com/address/0xB9bBe9355828A1aD0e2d605480f969c6903Ad9e4)
+* WigoGalaxy: [0xE63f6aB514167A7f28dD81d332A5e9f00819B9Aa](https://ftmscan.com/address/0xE63f6aB514167A7f28dD81d332A5e9f00819B9Aa)
+* Wiggies: [0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31](https://ftmscan.com/address/0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31)
+* WiggyFactory: [0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53](https://ftmscan.com/address/0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53)
+* WiggyMinter: [0xF9Dabdb247F219162a10aca450491a5DeF912820](https://ftmscan.com/address/0xF9Dabdb247F219162a10aca450491a5DeF912820)
 
 WigoSwap Pair Code Hash:\
 0x55c39e9406ff3c89a193882b4752879e73c8a0ce1222fe1de34c5e8f6482d9b6
