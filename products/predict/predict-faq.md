@@ -13,7 +13,7 @@ Payout Ratio for RED Pool = Total FTM in Both Pools ÷ FTM in RED Pool\
 If there’s 20 FTM in the GREEN pool, and the overall round's value is 200 FTM, the GREEN payout ratio is (200/20)=10x.
 
 \
-Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)
+Payout Amount = Payout Ratio × Position × (1 - Treasury Fee) × (1 - Referrer Fee)
 
 \
 In the same case, if the round ends on a GREEN result, if you deposit 3 FTM to a GREEN position, you’d get a payout of \[(3×10) × (1-0.04)]×(1-0.01)  = 28.512 FTM. Your profit would be 25.512 FTM (28.512 - 3).\
@@ -28,7 +28,7 @@ Yes.\
 Treasury Fee = 4%\
 Referrer Fee = 1%
 
-Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)\
+Payout Amount = Payout Ratio × Position × (1 - Treasury Fee) × (1 - Referrer Fee)\
 
 
 ### What are you using for your price feed?
