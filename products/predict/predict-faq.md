@@ -13,19 +13,22 @@ Payout Ratio for RED Pool = Total FTM in Both Pools ÷ FTM in RED Pool\
 If there’s 20 FTM in the GREEN pool, and the overall round's value is 200 FTM, the GREEN payout ratio is (200/20)=10x.
 
 \
-Payout Amount = Payout Ratio × Position × (1 - Treasury Fee)
+Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)
 
 \
-In the same case, if the round ends on a GREEN result, if you deposit 3 FTM to a GREEN position, you’d get a payout of (3\*10) × (1-0.04) = 28.8 FTM. Your profit would be 25.8 FTM (28.8 - 3).\
+In the same case, if the round ends on a GREEN result, if you deposit 3 FTM to a GREEN position, you’d get a payout of \[(3×10) × (1-0.04)]×(1-0.01)  = 28.512 FTM. Your profit would be 25.512 FTM (28.512 - 3).\
 
 
-The treasury fee is currently set at 4% which may change in the future, which would be announced on WigoSwap’s official communication channels. Treasury fees are used to buy back and burn WIGO tokens.\
+The treasury fee is currently set at 4%, and the referrer fee is currently set at 1%, which may change in the future and would be announced on WigoSwap's official communication channels. Treasury fees are used to buy back and burn WIGO tokens. Every time the prize is collected, if the user has a referrer on WigoGalaxy, the referrer fee will be paid to the referrer. If the user hasn't had a referrer, the referrer fee will be sent to the Treasury to buy back and burn WIGO tokens.\
 
 
 ### Does the Predict include fees?
 
-Yes. 4% of the round's total value will go to the treasury, which will be used to buyback and burn WIGO tokens.\
-\
+Yes.\
+Treasury Fee = 4%\
+Referrer Fee = 1%
+
+Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)\
 
 
 ### What are you using for your price feed?
@@ -35,7 +38,7 @@ We use ChainLink Oracle for the Lock price and End price to know whether a user 
 
 ### Why did the round's result change after it ended?
 
-Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "RED", it may appear to flip to "GREEN" a few seconds later. This is because we use the ChainLink Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 30 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.\
+Sometimes, after a round closes, the final result may be different from the last result shown while the round was live. If you watch a round end on "RED", it may appear to flip to "GREEN" a few seconds later. This is because we use the ChainLink Oracle price feed to determine the final outcome of a round. The period between the end of one round and the start of the next is 60 seconds, but the Oracle refreshes every 20 seconds. It's possible that during this short period, Oracle might send an update while the transaction to trigger the next round is being minted. This can appear to "flip" the outcome of the previous round.\
 
 
 ### What happens if no one enters an opposing position?
@@ -64,10 +67,10 @@ Predict is paused when there are conditions that affect the reliability of the c
 The Predict will pause under the following conditions:
 
 1. The prediction contract has been unable to fetch the price from the ChainLink oracle due to the Oracle not having posted the price when the round ended.
-2. The prediction contract has been unable to execute an action (ending a round or getting a price from the Oracle) due to the tx being stuck in the mempool for longer than 15 blocks.
+2. The prediction contract has been unable to execute an action (ending a round or getting a price from the Oracle) due to the TX being stuck in the mempool for a long time.
 3. When will the Predict resume after being paused?
 
-Predict will resume when an admin manually resumes it.\
+The Predict contract will resume automatically after some minutes.\
 
 
 ### What happens to the position if the Predict pauses?

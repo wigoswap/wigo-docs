@@ -30,11 +30,11 @@ If the timer is too low, your prediction may not confirm in time. So check there
 
 When you're sure you have enough time, you can place your prediction for the next round.
 
-1\. In the "Next" section, you'll see a green **GREEN** button and a red **RED** button. Click **GREEN** if you want to predict a price rise, and click **RED** if you want to predict a price drop.
+1\. In the "Next" section, you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a price rise, and click **Enter DOWN** if you want to predict a price drop.
 
 Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
 
-We'll choose **GREEN** for this example.
+We'll choose **Enter UP** for this example.
 
 
 
@@ -66,16 +66,16 @@ You cannot change your prediction during a live round, however. You are locked i
 
 ## Once your entered round finishes
 
-After 15 minutes of the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+After 5 minutes of the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
 
 ###
 
 ### Seeing the results
 
-1\. As the 15 minutes finish, the "Current" section will change to "Calculating". Calculating the results takes a short moment.\
+1\. As the 15 minutes finish, the "LIVE" section will change to "Calculating". Calculating the results takes a short moment.\
 
 
-2\. After a short wait, the finished round will move and say "Finished". The round result will display either GREEN colored in up or RED colored in down.\
+2\. After a short wait, the finished round will move left and say "Expired". The round result will display either UP colored in green or DOWN colored in red.\
 
 
 3\. If you've been busy and missed the results, you can scroll back a few rounds.
@@ -87,16 +87,16 @@ After 15 minutes of the live round, your entered round will finish. Everything i
 
 If you want to see the results for rounds you've entered that are older than a few rounds, you'll need to follow the steps below to find the results.
 
-1\. Click on the **History** button.
+1\. Click on the **reversing clock icon** next to the round timer.
 
-2\. A "Predict History" panel will open. Click the **Rounds** tab. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
+2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
 
 \
 
 
 ### Collecting any winnings
 
-1\. If you won your entered round, a **Collect Prizes** button would appear. Click the button.
+1\. If you won your entered round, a **Collect Winnings** button would appear next to a gold trophy. Click the button.
 
 
 
@@ -106,23 +106,23 @@ Your token winnings will now be in your wallet.
 
 ###
 
-### Collecting prizes from older rounds
+### Collecting winnings from older rounds
 
-Sometimes you may be away from WigoSwap's Predict page for a while or may have forgotten to collect prizes from older rounds. You can still collect winnings owed to you from older rounds at any time.
-
-
-
-1\. Find more information on past rounds you've entered by clicking on the **History** button.
+Sometimes you may be away from WigoSwap's Predict page for a while or may have forgotten to collect winnings from older rounds. You can still collect winnings owed to you from older rounds at any time.
 
 
 
-2\. A "Predict History" panel will open. Click the **Rounds** tab. You can click "Not Collected" to view all rounds you've not collected the winnings for yet (click the transaction if you want to see more details). Click the **Collect** button.
+1\. Find more information on past rounds you've entered by clicking on the **reversing clock icon** next to the round timer.
+
+
+
+2\. A "History" panel will open. You can click "Uncollected" to view all rounds you've not collected the winnings for yet (click the transaction if you want to see more details). Click the **Collect** button.
 
 
 
 3\. A new window will appear showing the amount of winnings you can collect with a **Confirm** button. Click the button and confirm the action in your wallet.
 
-Your prizes will now be in your wallet.
+Your winnings will now be in your wallet.
 
 ## Viewing historical profit and loss data
 
@@ -130,15 +130,15 @@ If you'd like to see how you've done in Predict, you can view PNL (Profit and Lo
 
 
 
-1\. On the Prediction page, click the **History** button. A "Predict History" panel will open.
+1\. On the Prediction page, click the **reversing clock icon** next to the round timer. A "History" panel will open.
 
 
 
-2\. On the Predict History panel, click the **Profit & Loss** tab.
+2\. On the history panel, click the **PNL** tab.
 
 The tab will open with stats for your historical performance in Predict, including your net results, average return, best round, and other information.
 
 
 
-3\. You can click the **View Details** button at the bottom of the **Profit & Loss** tab to view those transactions on the FTMScan explorer.
+3\. You can click the **View Reclaimed & Won** button at the bottom of the PNL tab to view those transactions on the FTMScan explorer.
 
