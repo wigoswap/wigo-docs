@@ -1,11 +1,11 @@
 # Predict FAQ
 
-#### How much time do I have to collect my winnings?
+#### **How much time do I have to collect my winnings?**
 
 There is no limit. You are able to collect your winnings at any time in the future.\
 
 
-#### How is the payout calculated?
+#### **How is the payout calculated?**
 
 Payout Ratio for GREEN Pool = Total FTM in Both Pools ÷ FTM in GREEN Pool
 
@@ -84,4 +84,4 @@ If the Predict pause while you have a live position, your funds will be availabl
 
 #### What’s the WigoSwap PREDICT contract address?
 
-....
+[https://ftmscan.com/address/0x21a5db90903c5d8eccd745244dc93e6d0a0c6c86](https://ftmscan.com/address/0x21a5db90903c5d8eccd745244dc93e6d0a0c6c86)
