@@ -13,10 +13,10 @@ Payout Ratio for RED Pool = Total FTM in Both Pools ÷ FTM in RED Pool\
 If there’s 20 FTM in the GREEN pool, and the overall round's value is 200 FTM, the GREEN payout ratio is (200/20)=10x.
 
 \
-Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)
+Payout Amount = Payout Ratio × Position × (1 - Treasury Fee) × (1 - Referrer Fee)
 
 \
-In the same case, if the round ends on a GREEN result, if you deposit 3 FTM to a GREEN position, you’d get a payout of \[(3×10) × (1-0.04)]×(1-0.01)  = 28.512 FTM. Your profit would be 25.512 FTM (28.512 - 3).\
+In the same case, if the round ends on a GREEN result, if you deposit 3 FTM to a GREEN position, you’d get a payout of (3×10) × (1-0.04) × (1-0.01)  = 28.512 FTM. Your profit would be 25.512 FTM (28.512 - 3).\
 
 
 The treasury fee is currently set at 4%, and the referrer fee is currently set at 1%, which may change in the future and would be announced on WigoSwap's official communication channels. Treasury fees are used to buy back and burn WIGO tokens. Every time the prize is collected, if the user has a referrer on WigoGalaxy, the referrer fee will be paid to the referrer. If the user hasn't had a referrer, the referrer fee will be sent to the Treasury to buy back and burn WIGO tokens.\
@@ -28,7 +28,7 @@ Yes.\
 Treasury Fee = 4%\
 Referrer Fee = 1%
 
-Payout Amount = \[Payout Ratio × Position × (1 - Treasury Fee)] × (1 - Referrer Fee)\
+Payout Amount = Payout Ratio × Position × (1 - Treasury Fee) × (1 - Referrer Fee)\
 
 
 ### What are you using for your price feed?
@@ -85,4 +85,4 @@ If the Predict pause while you have a live position, your funds will be availabl
 
 ### What’s the WigoSwap PREDICT contract address?
 
-[https://ftmscan.com/address/0x21a5db90903c5d8eccd745244dc93e6d0a0c6c86](https://ftmscan.com/address/0x21a5db90903c5d8eccd745244dc93e6d0a0c6c86)
+{% embed url="https://ftmscan.com/address/0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3" %}

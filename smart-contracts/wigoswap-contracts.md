@@ -12,7 +12,7 @@
 * Wiggies: [0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31](https://ftmscan.com/address/0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31)
 * WiggyFactory: [0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53](https://ftmscan.com/address/0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53)
 * WiggyMinter: [0xF9Dabdb247F219162a10aca450491a5DeF912820](https://ftmscan.com/address/0xF9Dabdb247F219162a10aca450491a5DeF912820)
-* Predict: [0x21A5DB90903c5d8EccD745244DC93e6D0A0C6C86](https://ftmscan.com/address/0x21A5DB90903c5d8EccD745244DC93e6D0A0C6C86)
+* Predict: [0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3](https://ftmscan.com/address/0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3)
 * PredictKeeper: [0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D](https://ftmscan.com/address/0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D)
 
 WigoSwap Pair Code Hash:\
