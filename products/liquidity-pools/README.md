@@ -1,4 +1,4 @@
-# Liquidity Pools
+# 💰 Liquidity Pools
 
 Providing the liquidity pools with certain liquidity results in users receiving Wigo-LP tokens, and also a share of the fees generated.&#x20;
 

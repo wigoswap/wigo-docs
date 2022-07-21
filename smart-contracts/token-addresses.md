@@ -1,4 +1,4 @@
-# Token Addresses
+# 🔗 Token Addresses
 
 Here you'll find token addresses and LP addresses on WigoSwap:
 

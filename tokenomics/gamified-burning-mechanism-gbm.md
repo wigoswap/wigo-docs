@@ -1,4 +1,4 @@
-# Gamified Burning Mechanism (GBM)
+# 🔥 Gamified Burning Mechanism (GBM)
 
 ![](../.gitbook/assets/GBM.png)
 

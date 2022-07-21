@@ -1,4 +1,4 @@
-# Click Here for Help
+# 🆘 Click Here for Help
 
 During the course of your interaction with WigoSwap, you may be confronted with some issues, or some unexpected matters the handling of which requires additional help. Our help section is there for you to use in such situations.&#x20;
 

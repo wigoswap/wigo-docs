@@ -1,4 +1,4 @@
-# Brand & Logos
+# ⏬ Brand & Logos
 
 You may use WigoSwap's Brand Assets when you are:
 
@@ -40,11 +40,11 @@ You may use WigoSwap's Brand Assets when you are:
 
 > WIGO Coin PNG | SVG
 
-&#x20;  ![](../.gitbook/assets/Coin.png)  ![](../.gitbook/assets/Coin.svg)
+&#x20;  <img src="../.gitbook/assets/Coin.png" alt="" data-size="line">  <img src="../.gitbook/assets/Coin.svg" alt="" data-size="line">
 
 > WIGO Icon PNG | SVG
 
-&#x20;  ![](../.gitbook/assets/Icon.png)  ![](../.gitbook/assets/Icon.svg)
+&#x20;  <img src="../.gitbook/assets/Icon.png" alt="" data-size="line">  <img src="../.gitbook/assets/Icon.svg" alt="" data-size="line">
 
 
 

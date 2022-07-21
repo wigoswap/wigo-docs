@@ -1,4 +1,4 @@
-# Risks
+# ⚠ Risks
 
 In general, an inherent part of the crypto industry is its inevitable risk. The risk stems from the unpredictability of certain issues within the area. WigoSwap is also not an exception to this general rule. Thus, acquiring or making use of WIGO in any form is associated with various degrees of risk. The risk includes losing all or part of your funds.
 

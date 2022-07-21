@@ -1,4 +1,4 @@
-# Get Started
+# 🔧 Get Started
 
 If you are new to WigoSwap, you may need to be given a tour of the platform. Therefore, we have provided some essential guides to help you start using WigoSwap conveniently.
 

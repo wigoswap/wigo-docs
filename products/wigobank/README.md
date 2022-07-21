@@ -1,4 +1,4 @@
-# WigoBank
+# 🏦 WigoBank
 
 ### **What is WigoBank?**&#x20;
 

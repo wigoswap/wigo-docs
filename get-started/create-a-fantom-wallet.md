@@ -1,6 +1,6 @@
 # Create a Fantom Wallet
 
-In order to make use of the services and features on WigoSwap, before anything else you need to set up a wallet that is compatible with the [Fantom](https://fantom.foundation) Blockchain. There are plenty of wallets available for desktop computers and smartphones. Therefore, choosing the suitable wallet is entirely up to you. We suggest using [MetaMask](https://metamask.io) on desktop because when you connect MetaMask to WigoSwap, it will automatically configured to work with Fantom Opera so you do not need to make any additional setup.
+In order to make use of the services and features on WigoSwap, before anything else you need to set up a wallet that is compatible with the [Fantom](https://fantom.foundation) Blockchain. There are plenty of wallets available for desktop computers and smartphones. Therefore, choosing the suitable wallet is entirely up to you. We suggest using [MetaMask](https://metamask.io/) on desktop because when you connect MetaMask to WigoSwap, it will automatically configured to work with Fantom Opera so you do not need to make any additional setup.
 
 {% hint style="danger" %}
 When you're setting up a wallet, be sure to:
@@ -33,12 +33,12 @@ Wallets made for use on smartphones, or desktop wallets both have their own adva
 
 Using mobile wallets, you would be able to access your crypto products more conveniently and almost everywhere. These wallets are supported on both Android or iOS devices. You may need to compare different wallets that support WigoSwap before choosing the appropriate one. The following table provides you with an overview of the wallets used with WigoSwap.&#x20;
 
-|                              | [Trust Wallet](https://trustwallet.com) | [MetaMask](https://metamask.io) | [Coin98](https://coin98.com) | [TokenPocket](https://www.tokenpocket.pro) | [MathWallet](https://mathwallet.org) | [Coinbase Wallet](https://www.coinbase.com/wallet) |
-| ---------------------------- | --------------------------------------- | ------------------------------- | ---------------------------- | ------------------------------------------ | ------------------------------------ | -------------------------------------------------- |
-| Fantom Opera Network support | ✅                                       | ⚠️                              | ✅                            | ✅                                          | ✅                                    | ✅                                                  |
-| Built-in DApp browser        | <p>✅ Android</p><p>⚠️ iOS</p>           | ✅                               | ✅                            | ✅                                          | ✅                                    | ✅                                                  |
-| Hardware wallet compatible   | ➖                                       | ✅                               | ➖                            | ➖                                          | ✅                                    | ✅                                                  |
-| Open source (Auditability)   | ✅                                       | ✅                               | ✅                            | ✅                                          | ✅                                    | ✅                                                  |
+|                              | [Trust Wallet](https://trustwallet.com/) | [MetaMask](https://metamask.io/) | [Coin98](https://coin98.com/) | [TokenPocket](https://www.tokenpocket.pro/) | [MathWallet](https://mathwallet.org/) | [Coinbase Wallet](https://www.coinbase.com/wallet) |
+| ---------------------------- | ---------------------------------------- | -------------------------------- | ----------------------------- | ------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
+| Fantom Opera Network support | ✅                                        | ⚠️                               | ✅                             | ✅                                           | ✅                                     | ✅                                                  |
+| Built-in DApp browser        | <p>✅ Android</p><p>⚠️ iOS</p>            | ✅                                | ✅                             | ✅                                           | ✅                                     | ✅                                                  |
+| Hardware wallet compatible   | ➖                                        | ✅                                | ➖                             | ➖                                           | ✅                                     | ✅                                                  |
+| Open source (Auditability)   | ✅                                        | ✅                                | ✅                             | ✅                                           | ✅                                     | ✅                                                  |
 
 ⚠️ Requires additional setup
 
@@ -46,12 +46,12 @@ Using mobile wallets, you would be able to access your crypto products more conv
 
 You are able to use these wallets on both desktop computers or laptops. They can be either found as individual applications or plugins for popular browsers such as Google Chrome, or Firefox. If you need to compare different wallets of this kind before starting to use them, you can check the following table and see an overview of the available desktop wallets.  &#x20;
 
-|                              | [MetaMask](https://metamask.io) | [Coin98](https://coin98.com) | [MathWallet](https://mathwallet.org) | [Coinbase Wallet](https://www.coinbase.com/wallet) |
-| ---------------------------- | ------------------------------- | ---------------------------- | ------------------------------------ | -------------------------------------------------- |
-| Fantom Opera Network support | ⚠️                              | ✅                            | ✅                                    | ✅                                                  |
-| Browser Extension            | ✅                               | ✅                            | ✅                                    | ✅                                                  |
-| Hardware wallet compatible   | ✅                               | ➖                            | ✅                                    | ✅                                                  |
-| Open source (auditability)   | ✅                               | ✅                            | ✅                                    | ✅                                                  |
+|                              | [MetaMask](https://metamask.io/) | [Coin98](https://coin98.com/) | [MathWallet](https://mathwallet.org/) | [Coinbase Wallet](https://www.coinbase.com/wallet) |
+| ---------------------------- | -------------------------------- | ----------------------------- | ------------------------------------- | -------------------------------------------------- |
+| Fantom Opera Network support | ⚠️                               | ✅                             | ✅                                     | ✅                                                  |
+| Browser Extension            | ✅                                | ✅                             | ✅                                     | ✅                                                  |
+| Hardware wallet compatible   | ✅                                | ➖                             | ✅                                     | ✅                                                  |
+| Open source (auditability)   | ✅                                | ✅                             | ✅                                     | ✅                                                  |
 
 ⚠️ Requires additional setup
 
@@ -60,10 +60,10 @@ You are able to use these wallets on both desktop computers or laptops. They can
 If you need to make manual settings to connect your wallet to the Fantom blockchain network, the following information can be helpful:
 
 * **Network Name**: Fantom Opera
-* **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools)
+* **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 * **ChainID**: `250`
 * **Symbol**: FTM
-* **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com)
+* **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com/)
 
 {% hint style="danger" %}
 NEVER, in any situation, should you ever give someone your private key or recovery phrase ("seed phrase"). This will give someone complete access to your crypto!

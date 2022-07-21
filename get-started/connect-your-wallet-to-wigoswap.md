@@ -45,10 +45,10 @@ Open **MetaMask** app and use the menu icon at the top left to go to **Settings*
 3. To add a network, fill in the blank fields with the following information;\
    \
    **Network Name**: Fantom Opera\
-   **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools)\
+   **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools/)\
    **ChainID**: `250`\
    ``**Symbol**: FTM\
-   **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com)\
+   **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com/)\
 
 4. Once the new network is established and confirmed, tap on the menu icon at the top left and select **Browser**.
 5. Type the URL [https://wigoswap.io](https://wigoswap.io) in the search box. Tap on **Go** to proceed.
@@ -133,10 +133,10 @@ In order to connect MetaMask extension wallet to WigoSwap you need to follow the
 2. On the next window, fill in the blank fields using the information below;\
    \
    **Network Name**: Fantom Opera\
-   **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools)\
+   **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools/)\
    **ChainID**: `250`\
    ``**Symbol**: FTM\
-   **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com)\
+   **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com/)\
 
 3. Once you’ve entered the information, click on the **Save** button. Now Fantom Network is added to the networks you are able to select from.&#x20;
 4. Open WigoSwap page and click on the **Connect Wallet** button. Choose **MetaMask** to connect your wallet to WigoSwap.
@@ -181,7 +181,7 @@ In order to connect Coinbase Wallet extension to WigoSwap you have to follow the
 
 ## WalletConnect
 
-[WalletConnect](https://walletconnect.com) has implemented a feature called Mobile Linking which allows WigoSwap to interact to your mobile wallet apps like Trust Wallet, Coin98 and etc.
+[WalletConnect](https://walletconnect.com/) has implemented a feature called Mobile Linking which allows WigoSwap to interact to your mobile wallet apps like Trust Wallet, Coin98 and etc.
 
 In order to connect WigoSwap on web browser to WalletConnect-compatible wallet app you need to follow the steps below.
 
