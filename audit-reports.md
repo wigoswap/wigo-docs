@@ -1,6 +1,11 @@
+---
+description: Our commitment is to keep you safe as early as the initial launch!
+---
+
 # 🔐 Audit Reports
 
-Our commitment is keeping you safe, as early as initial launch! \
-WigoSwap has been successfully audited by [CertiK](https://certik.com). You can find CertiK's audit report here:
+![](.gitbook/assets/Cover-CertiK.png)
+
+WigoSwap has been successfully audited by [CertiK](https://certik.com). You can find the full report here:
 
 {% embed url="https://www.certik.com/projects/wigoswap" %}
