@@ -2,11 +2,11 @@
 
 ![](<../.gitbook/assets/tokenomics (1).png>)
 
-WIGO is the native governance token of WigoSwap’s ecosystem. The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000.&#x20;
+WIGO is the native governance token of WigoSwap’s ecosystem. The maximum supply (hard-cap) determined for the WIGO token is 2,000,000,000.&#x20;
 
 ## **Initial Supply**
 
-8% of the Max Supply is intended for the initial mint that is planned to be minted by WigoSwap team at deployment time. The determined proportions are as follows:
+8% of the Max Supply is intended for the initial mint planned to be minted by the WigoSwap team at deployment time. The determined proportions are as follows:
 
 | Allocation Category        |  % of Max Supply | Number of Tokens |
 | -------------------------- | ---------------- | ---------------- |
@@ -16,16 +16,16 @@ WIGO is the native governance token of WigoSwap’s ecosystem. The maximum suppl
 | **Total**                  | **8.0%**         | **160,000,000**  |
 
 {% hint style="info" %}
-WIGO does not have any pre-sale, private sale, public sale or ICO.
+WIGO has no pre-sale, private sale, public sale, or ICO.
 {% endhint %}
 
 ### **Initial DEX Offering (IDO)**&#x20;
 
-2% of WIGO’s maximum supply (40,000,000 **** WIGOs), alongside $50,000 in FTM are allocated to the Initial DEX Offering. Therefore, the initial price of WIGO would be around $0.00125 at the beginning of the IDO. The LP tokens generated through establishing the initial pool, and received by WigoSwap core team will be locked for 365 days and will not be used in farming.
+2% of WIGO’s maximum supply (40,000,000 **** WIGOs), alongside $50,000 in FTM, are allocated to the Initial DEX Offering. Therefore, the initial price of WIGO would be around $0.00125 at the beginning of the IDO. The LP tokens generated through establishing the initial pool and received by the WigoSwap core team will be locked for 365 days and will not be used in farming.
 
 ### **Vesting Schedule**&#x20;
 
-In what follows you can see the vesting schedule related to the seed **** funders:
+In what follows, you can see the vesting schedule related to the seed **** funders:
 
 * 12% Initial Allowance
 * 22% after 60 days
