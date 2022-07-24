@@ -2,38 +2,41 @@
 
 ## Welcome to WigoSwap
 
-> Made on [Fantom](https://fantom.foundation) by Speed.
+![](<.gitbook/assets/1500x500 (2).jpeg>)
 
-WigoSwap is a DeFi platform that utilizes the [Fantom](https://fantom.foundation) network to offer an Automated Market Maker (AMM) alongside yield farming and NFT marketplace. WigoSwap provides users with a swift, and comprehensive protocol within the DeFi industry.
+> Welcome to WigoSwap; where you can easily and quickly swap Fantom network tokens for the lowest fee (0.19%). Invite your friends to WigoSwap and receive a fixed income share from their activities on the platform forever.
 
 ## **What is WigoSwap?**
 
-WigoSwap is a Decentralized Exchange (DEX), and also a platform for staking, farming, buying and selling of non-fungible tokens (NFTs). Making use of our DeFi protocols, users are able to provide the DEX with liquidity, trade various assets in a decentralized manner, and benefit from the rewards allocated to the adopters. Taking into consideration the deficiencies inherent in the existing solutions, WigoSwap aims to reshape the DeFi solutions emphasizing their adequate functioning. Furthermore, the platform keeps an eye on guiding the liquidity provided by the users to yield in a more positive way.&#x20;
+WigoSwap is an integrated DeFi platform on the Fantom network, including products such as decentralized exchange (DEX) with a very low transaction fee (0.19%), farming and staking pools, user profile system (WigoGalaxy), unique referral system, Predict mini-game, NFT marketplace, and other exciting products, available to users on the Fantom network with a simple, understandable and clean user interface and exceptional user experience. We provide users with unique DeFi services with very high speed and low fees.
 
-WigoSwap provides users with all-inclusive financial services that operate in a totally decentralized way. The services include but not limited to Decentralized Exchange (DEX), staking platform, and also liquidity pools. Moreover, WigoSwap benefits from a range of almost unprecedented features, including NFT Integration, and DAO Governance, that pave the way for rearranging the elements within the DeFi sector.&#x20;
 
-## **Goals and Products**
 
-The team behind WigoSwap has been meticulously searching for the ways through which the flaws in traditional finance alongside the inadequacies in the existing DeFi solutions could be overcome. An example of the latter could be clearly seen in high transaction fees charged by the existing protocols, and also their slow transaction speed due to their lack of sufficient scalability.
+### Our Mission
 
-WigoSwap is a hedge against the abovementioned problems. This is partly due to the fact that using AMM mechanism leads to fast, secure, and entirely decentralized activities on the exchange. Trading on the platform is done in an automatic way. Moreover, users can stake their dormant funds in the liquidity pools and benefit from high ROI (Return On Investment). &#x20;
+Designing products that can be easily used by users, creating new passive income opportunities, and helping new projects run on Fantom. We try to make the use of the platform simple and profitable for everyone by constantly developing ideas and fixing the problems of existing protocols.
+
+
+
+### Our Products
 
 The features offered by WigoSwap include:
 
-* Decentralized Swap
-* Liquidity Pools
-* WigoFarm (Farming)
-* WigoBank (Staking)
-* NFT Marketplace \*&#x20;
-* Initial Farm Offerings (IFOs) \*
-* DAO Governance \*
+* Decentralized Exchange (DEX)
+* Farming and Staking (WigoFarm & WigoBank)
+* User profile system (WigoGalaxy)
+* Predict mini-game ($FTM Market Prediction)
+* NFT marketplace\*
+* IDO Launchpad\*
+* GameFi Products\*
+* DAO Governance\*
 
 Coming Soon \*
 
 ## **Using The Fantom Blockchain**
 
-First and foremost, the [Fantom](https://fantom.foundation) blockchain network is a true example of an incredibly fast, and secure network. Therefore, it is appealing to developers. Furthermore, it’s reliability and interoperability provide users with a network to participate in without worrying about the possible barriers. While most of the similar networks have mostly profited early adopters, Fantom aims to guarantee financial gains by rearranging the elements within the industry. Last but not least, the [Fantom](https://fantom.foundation) network is designed in a user-friendly way to facilitate the embracing of the blockchain technology. It is also worth mentioning that the evolution of the Fantom network is proceeding in a way that it will satisfy the needs of users in the future.&#x20;
+First and foremost, the [Fantom](https://fantom.foundation) blockchain network is a true example of an incredibly fast, and secure network. Therefore, it is appealing to developers. Furthermore, its reliability and interoperability provide users with a network to participate in without worrying about possible barriers. While most similar networks have mostly profited early adopters, Fantom aims to guarantee financial gains by rearranging the elements within the industry. Last but not least, the [Fantom](https://fantom.foundation) network is designed in a user-friendly way to facilitate the embracing of blockchain technology. It is also worth mentioning that the evolution of the Fantom network is proceeding in a way that will satisfy the needs of users in the future.&#x20;
 
 > We have chosen to build on Fantom because performance matters.
 
-Since the current decentralized networks, specially those created to provide financial operations, have shortages of their own, there is an ever-growing need to reconsider the existing ones in search for a more rectified platform that is not only able to perform fast and secure transactions, but also effective in offering interoperability as a tool for connecting different blockchains. The approach provided by the [Fantom](https://fantom.foundation) network is believed to bring about the innovation needed in the DeFi sector.&#x20;
+Since the current decentralized networks, especially those created to provide financial operations, have shortages of their own, there is an ever-growing need to reconsider the existing ones in search of a more rectified platform that is not only able to perform fast and secure transactions but also effective in offering interoperability as a tool for connecting different blockchains. The approach provided by the [Fantom](https://fantom.foundation) network is believed to bring about the innovation needed in the DeFi sector.&#x20;
