@@ -8,4 +8,4 @@ The word ‘Roadmap’ in the jargon might simply be reminiscent of strict timel
 We update the roadmap based on the needs of the industry and users at least quarterly. Obviously, if any changes are made to the roadmap, users should be informed in the best way.
 {% endhint %}
 
-![](.gitbook/assets/RoadmapV2.png)
+![](<.gitbook/assets/RoadmapV2 (1).png>)
