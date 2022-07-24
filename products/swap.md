@@ -8,9 +8,9 @@ The above is to be achieved through offering various services:
 
 ### **Swapping/Trading:**&#x20;
 
-With the advent of Decentralized Exchanges users are not obliged to use centralized exchanges any more. Using WigoSwap, all of the operations of the users are done via their own wallets. Therefore, there is no longer the need to trust third-party actors with your assets.
+With the advent of Decentralized Exchanges, users are no longer obliged to use centralized exchanges. Using WigoSwap, all users' operations are done via their wallets. Therefore, there is no longer the need to trust third-party actors with your assets.
 
-When you make a token swap (trade) on the exchange you will pay a **0.19% trading fee**, which is broken down as follows:
+When you make a token swap (trade) on the exchange, you will pay a **0.19% trading fee**, which is broken down as follows:
 
 **0.18%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.\
 **0.01%** - Sent towards Gamified Burning Mechanism (GBM).
@@ -19,9 +19,9 @@ When you make a token swap (trade) on the exchange you will pay a **0.19% tradin
 
 ### **Liquidity Pools:**
 
-Provided that there is sufficient liquidity for certain tokens, users are able to swap tokens. However, lack of liquidity for the tokens you want to swap might make the operation hard, costly, or even impossible.&#x20;
+Users can swap tokens if there is sufficient liquidity for specific tokens. However, a lack of liquidity for the tokens you want to swap might make the operation complex, costly, or even impossible.&#x20;
 
-Users who provide liquidity to the liquidity pools will be granted Wigo-LP tokens. The users are incentivized through the fees generated as a result of trading on the platform. In this way, the existence of liquidity for the DEX is guaranteed to a certain extent.&#x20;
+Users who provide liquidity to the liquidity pools will be granted Wigo-LP tokens. The users are incentivized through the fees generated from trading on the platform. In this way, the existence of liquidity for the DEX is guaranteed to a certain extent.&#x20;
 
 Click on below to read detailed information on Liquidity Pools.
 
@@ -33,7 +33,7 @@ Click on below to read detailed information on Liquidity Pools.
 
 ### **Yield Farming:**&#x20;
 
-As users provide the platform with liquidity, they earn WIGO tokens as their reward. This in turn leads to a minimization of the risk of impermanent loss which is inherent in protocols that lock users’ liquidity.
+As users provide the platform with liquidity, they earn WIGO tokens as their reward. Users who provide the platform with liquidity lead to minimizing the risk of impermanent loss, which is inherent in protocols that lock users’ liquidity.
 
 Click on below to read detailed information on WigoFarm.
 
