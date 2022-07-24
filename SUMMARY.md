@@ -17,7 +17,7 @@
   * [General FAQ](education-hub/general-faq.md)
   * [Fix Pending Transactions](education-hub/fix-pending-transactions.md)
   * [Risks](education-hub/risks.md)
-* [Community](community.md)
+* [💬 Community](community.md)
 
 ## Products
 

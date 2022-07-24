@@ -1,4 +1,4 @@
-# Community
+# 💬 Community
 
 ![](.gitbook/assets/community.jpg)
 
