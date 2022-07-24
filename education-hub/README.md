@@ -1,5 +1,7 @@
 # 🚦 Education Hub
 
+![](../.gitbook/assets/Help.jpg)
+
 If you are new to WigoSwap, you may need to be given a tour of the platform. Therefore, we have provided some essential guides to help you start using WigoSwap conveniently.
 
 ### **Starting WigoSwap**
@@ -40,4 +42,4 @@ When your wallet is all set up and connected to WigoSwap, you may also need to c
 
 It is worth noting that more advanced guides could be found on the menu so that you can fully understand the variety of features and services on WigoSwap.&#x20;
 
-Can’t find what you need among the guides or the documents? No worries! You can join WigoSwap’s Telegram group and ask your questions there. &#x20;
+Can’t find what you need among the guides or the documents? No worries! You can join WigoSwap’s official channels and ask your questions there. &#x20;
