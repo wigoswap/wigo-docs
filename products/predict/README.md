@@ -1,5 +1,7 @@
 # 🎮 Predict
 
+![](../../.gitbook/assets/Predict.jpg)
+
 PREDICT is the first decentralized and fun FTM price prediction mini-game on WigoSwap.
 
 {% hint style="success" %}
