@@ -43,38 +43,38 @@ You are able to stake your WIGO in WigoBank. Visit WigoBank here:
 
 You can find the necessary information on how to stake in WigoBank here:
 
-{% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
-[how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
+{% content-ref url="how-to-stake-in-wigobank/" %}
+[how-to-stake-in-wigobank](how-to-stake-in-wigobank/)
 {% endcontent-ref %}
 
 ## **What is the difference between staking and farming?**
 
 Both services give you rewards in the form of WIGO tokens in return for your support for the platform. To understand the difference, it is worth noting that staking means you stake WIGO tokens in WigoBank, and earn WIGO or other tokens as your reward. A guide to staking in WigoBank is provided here:
 
-{% content-ref url="../products/wigobank/how-to-stake-in-wigobank.md" %}
-[how-to-stake-in-wigobank.md](../products/wigobank/how-to-stake-in-wigobank.md)
+{% content-ref url="how-to-stake-in-wigobank/" %}
+[how-to-stake-in-wigobank](how-to-stake-in-wigobank/)
 {% endcontent-ref %}
 
 On the other hand, to participate in the WigoFarm you need Wigo-LP tokens to earn WIGO. You can find a comprehensive guide to using WigoFarm here:
 
-{% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
-[how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
+{% content-ref url="how-to-use-wigofarm/" %}
+[how-to-use-wigofarm](how-to-use-wigofarm/)
 {% endcontent-ref %}
 
 ## **How can I farm?**&#x20;
 
 Read our guide to yield farming on WigoSwap to find the necessary information.&#x20;
 
-{% content-ref url="../products/wigofarm/how-to-use-wigofarm.md" %}
-[how-to-use-wigofarm.md](../products/wigofarm/how-to-use-wigofarm.md)
+{% content-ref url="how-to-use-wigofarm/" %}
+[how-to-use-wigofarm](how-to-use-wigofarm/)
 {% endcontent-ref %}
 
 ## How to bridge my tokens onto Fantom? ****&#x20;
 
 You can find the necessary information on bridging onto Fantom Network here:&#x20;
 
-{% content-ref url="../get-started/get-frc20-tokens.md" %}
-[get-frc20-tokens.md](../get-started/get-frc20-tokens.md)
+{% content-ref url="get-frc20-tokens.md" %}
+[get-frc20-tokens.md](get-frc20-tokens.md)
 {% endcontent-ref %}
 
 ## **Where can I see WigoSwap’s roadmap?**
@@ -89,16 +89,16 @@ The details of our roadmap, and our vision for the future can be viewed here:
 
 You can find the necessary information on connecting different wallets to WigoSwap here:
 
-{% content-ref url="../get-started/connect-your-wallet-to-wigoswap.md" %}
-[connect-your-wallet-to-wigoswap.md](../get-started/connect-your-wallet-to-wigoswap.md)
+{% content-ref url="connect-your-wallet-to-wigoswap.md" %}
+[connect-your-wallet-to-wigoswap.md](connect-your-wallet-to-wigoswap.md)
 {% endcontent-ref %}
 
 ## **What’s the most appropriate wallet for WigoSwap?**
 
 Choosing a wallet that most suits your needs is up to you to decide. However, we have provided a comprehensive guide to choosing the most popular wallets.&#x20;
 
-{% content-ref url="../get-started/create-a-fantom-wallet.md" %}
-[create-a-fantom-wallet.md](../get-started/create-a-fantom-wallet.md)
+{% content-ref url="create-a-fantom-wallet.md" %}
+[create-a-fantom-wallet.md](create-a-fantom-wallet.md)
 {% endcontent-ref %}
 
 ## **Why does my transaction fail to complete?**
@@ -154,8 +154,8 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 
 By staking manually in WigoBank using the Standard Staking method, WigoBank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the WigoBank. You can find more information on xWIGO here:
 
-{% content-ref url="../products/wigobank/wigobank-faq-and-troubleshooting.md" %}
-[wigobank-faq-and-troubleshooting.md](../products/wigobank/wigobank-faq-and-troubleshooting.md)
+{% content-ref url="how-to-stake-in-wigobank/wigobank-faq-and-troubleshooting.md" %}
+[wigobank-faq-and-troubleshooting.md](how-to-stake-in-wigobank/wigobank-faq-and-troubleshooting.md)
 {% endcontent-ref %}
 
 ## **I can’t find the answer to my question on this page. Where can I ask my question?**

@@ -22,7 +22,7 @@ For the sake of clarity an example is provided:
 * The liquidity pool, namely WIGO/FTM now has 10.018 WIGO and 10.018 FTM.&#x20;
 * Caused by the fees generated, Wigo-LP tokens are now worth 1.0018 WIGO + 1.0018 FTM each.&#x20;
 
-To unlock the full financial potential of providing liquidity to the pools, WigoSwap enables you to use your Wog-LP tokens on [WigoFarm](../wigofarm/) so that you can gain higher yields. Moreover, you still benefit from the rewards obtained in the form of trading fees.&#x20;
+To unlock the full financial potential of providing liquidity to the pools, WigoSwap enables you to use your Wog-LP tokens on [WigoFarm](yield-farming-wigofarm.md) so that you can gain higher yields. Moreover, you still benefit from the rewards obtained in the form of trading fees.&#x20;
 
 
 

@@ -245,7 +245,7 @@ Ensure that the amount of funds you are trading with does not exceed the amount 
 
 <summary><strong>Reason</strong></summary>
 
-Since you need the WigoBank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/wigobank/automatic-vs.-standard.md) staking pool in the WigoBank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
+Since you need the WigoBank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/staking-wigo-wigobank/automatic-vs.-standard.md) staking pool in the WigoBank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
 
 </details>
 
@@ -358,7 +358,7 @@ This error is displayed in case you’ve not installed your wallet’s browser e
 
 <summary><strong>Solution</strong></summary>
 
-Install the browser extension of the wallet you wish to connect to WigoSwap from official sources. You can learn how to connect your wallet to WigoSwap [here](../get-started/connect-your-wallet-to-wigoswap.md).\
+Install the browser extension of the wallet you wish to connect to WigoSwap from official sources. You can learn how to connect your wallet to WigoSwap [here](connect-your-wallet-to-wigoswap.md).\
 
 
 </details>

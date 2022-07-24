@@ -8,7 +8,7 @@ There are two available options in order to stake WIGO and earn WIGO; Automatic 
 
 * Using this option, users have to claim their earned rewards and restake their rewards (albeit if they decide to do so) into the WigoBank all by themselves. This means the process is not done in an automatic way.&#x20;
 * The interest generated through staking is shown as the APR, and it is worth noting that it doesn’t take compounding into account.&#x20;
-* By staking through this method, WigoBank ([xWIGO](wigobank-faq-and-troubleshooting.md#wigo-bank-xwigo-token)) Tokens are deposited to your wallet. You need to return your xWIGO to unstake your WIGO from the Standard staking pool. The amount of xWIGO you return must be the same as the amount of WIGO you unstake.
+* By staking through this method, WigoBank ([xWIGO](../../education-hub/how-to-stake-in-wigobank/wigobank-faq-and-troubleshooting.md#wigo-bank-xwigo-token)) Tokens are deposited to your wallet. You need to return your xWIGO to unstake your WIGO from the Standard staking pool. The amount of xWIGO you return must be the same as the amount of WIGO you unstake.
 
 ### **Automatic Staking**&#x20;
 

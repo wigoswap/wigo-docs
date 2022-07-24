@@ -1,6 +1,6 @@
 # How to Stake in WigoBank
 
-Through staking in WigoBank, users are able to earn WIGO (or other tokens) as their reward. While using the [WigoFarm](../wigofarm/) requires you to stake a pair of tokens, in WigoBank you only need to stake WIGO. &#x20;
+Through staking in WigoBank, users are able to earn WIGO (or other tokens) as their reward. While using the [WigoFarm](../../products/yield-farming-wigofarm.md) requires you to stake a pair of tokens, in WigoBank you only need to stake WIGO. &#x20;
 
 
 
@@ -39,7 +39,7 @@ Adding more WIGO to the WigoBank or removing some from the WigoBank involves fol
 1\. Click on the **+** and **–** buttons to add or remove WIGO from the WigoBank.
 
 {% hint style="warning" %}
-If you decide to unstake your tokens from Automatic pool within 72 hours, a 0.5% fee is charged for the process. [More Info](automatic-vs.-standard.md#the-fees-involved-in-automatic-staking)
+If you decide to unstake your tokens from Automatic pool within 72 hours, a 0.5% fee is charged for the process. [More Info](../../products/staking-wigo-wigobank/automatic-vs.-standard.md#the-fees-involved-in-automatic-staking)
 {% endhint %}
 
 2\. In the next section, you can enter/choose the amount you want to add to the WigoBank (if you’ve clicked on the **+** button), or enter/choose the amount you decide to remove from the WigoBank (if you’ve clicked on the **–** button at first).&#x20;
