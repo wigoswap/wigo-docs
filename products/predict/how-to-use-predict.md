@@ -21,7 +21,7 @@ The Predict page shows quite a bit of information. Predictions operate in 15-min
 
 ### Checking the timer
 
-To enter a round, you'll need to check how long is left in the current round. There is a timer in the top-right area.
+To enter a round, you'll need to check how long is left in the live round. There is a timer in the top-right area.
 
 If the timer is too low, your prediction may not confirm in time. So check there's still enough time left before you make a prediction (30 seconds should be enough, but give yourself more time if you're following along with this guide).\
 
@@ -30,11 +30,11 @@ If the timer is too low, your prediction may not confirm in time. So check there
 
 When you're sure you have enough time, you can place your prediction for the next round.
 
-1\. In the "Next" section, you'll see a green **GREEN** button and a red **RED** button. Click **GREEN** if you want to predict a price rise, and click **RED** if you want to predict a price drop.
+1\. In the "Next" section, you'll see an <mark style="color:green;">**Enter Green**</mark> button and an <mark style="color:red;">**Enter Red**</mark> button. Click ** **<mark style="color:green;">**Enter Green**</mark> if you want to predict a price rise, and click ** **<mark style="color:red;">**Enter Red**</mark> if you want to predict a price drop.
 
 Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
 
-We'll choose **GREEN** for this example.
+We'll choose ** **<mark style="color:green;">**Green**</mark> for this example.
 
 
 
@@ -72,10 +72,10 @@ After 15 minutes of the live round, your entered round will finish. Everything i
 
 ### Seeing the results
 
-1\. As the 15 minutes finish, the "Current" section will change to "Calculating". Calculating the results takes a short moment.\
+1\. As the 15 minutes finish, the "Live" section will change to "Calculating". Calculating the results takes a short moment.\
 
 
-2\. After a short wait, the finished round will move and say "Finished". The round result will display either GREEN colored in up or RED colored in down.\
+2\. After a short wait, the finished round will move and say "Ended". The round result will display either <mark style="color:green;">**GREEN**</mark> colored in up or <mark style="color:red;">**RED**</mark> colored in down.\
 
 
 3\. If you've been busy and missed the results, you can scroll back a few rounds.
