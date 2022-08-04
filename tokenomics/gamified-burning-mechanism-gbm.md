@@ -1,6 +1,6 @@
 # 🔥 Gamified Burning Mechanism (GBM)
 
-![](../.gitbook/assets/GBM.png)
+![](<../.gitbook/assets/GBM (2).png>)
 
 Without rewards, there would be much less incentive to provide liquidity (LP fees, etc. would remain). **There's a hard cap on the supply of WIGO tokens: 2,000,000,000.** Therefore, we need a mechanism that prolongs the time to reach the hard cap.
 
@@ -31,6 +31,9 @@ Below are the sources for Gamified Burning Mechanism:
 * **5%** of every harvest in the [Automatic](../products/staking-wigo-wigobank/automatic-vs.-standard.md) staking pool (Performance Fee) in the WigoBank.
 * **0.5%** of every unstake within three days in the [Automatic](../products/staking-wigo-wigobank/automatic-vs.-standard.md) staking pool in the WigoBank.
 * **0.01%** of every swap made on WigoSwap. Buy back WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
+* **100%** of registeration fee in [WigoGalaxy](../products/user-profile-system-wigogalaxy.md)
+* **100%** of Wiggy NFT minting fee
+* **4%** of prize pool in [Predict](../products/predict/)
 
 **Phase 2.0:**
 
