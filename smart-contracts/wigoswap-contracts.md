@@ -14,6 +14,7 @@
 * WiggyMinter: [0xF9Dabdb247F219162a10aca450491a5DeF912820](https://ftmscan.com/address/0xF9Dabdb247F219162a10aca450491a5DeF912820)
 * Predict: [0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3](https://ftmscan.com/address/0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3)
 * PredictKeeper: [0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D](https://ftmscan.com/address/0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D)
+* WigoMarket: [0x6e125fAf93C6eF968beb48a2B00Dcf8178237037](https://ftmscan.com/address/0x6e125fAf93C6eF968beb48a2B00Dcf8178237037)
 
 WigoSwap Pair Code Hash:\
 0x55c39e9406ff3c89a193882b4752879e73c8a0ce1222fe1de34c5e8f6482d9b6
