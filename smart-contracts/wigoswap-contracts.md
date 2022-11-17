@@ -10,7 +10,8 @@
 * WigoBank Token (xWIGO): [0xB9bBe9355828A1aD0e2d605480f969c6903Ad9e4](https://ftmscan.com/address/0xB9bBe9355828A1aD0e2d605480f969c6903Ad9e4)
 * WigoGalaxy: [0xE63f6aB514167A7f28dD81d332A5e9f00819B9Aa](https://ftmscan.com/address/0xE63f6aB514167A7f28dD81d332A5e9f00819B9Aa)
 * Wiggies: [0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31](https://ftmscan.com/address/0x77fA9d9D4eF0b3862c6F5B279Ce0fa576888Bc31)
-* WiggyFactory: [0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53](https://ftmscan.com/address/0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53)
+* WiggyFactory Gen1: [0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53](https://ftmscan.com/address/0x0C207372Df4cD03bfaCD215cAdD0cf99979f9A53)
+* WiggtFactory Gen2: [0xFD5D00214890F18279238F4eFd85f0c08741C784](https://ftmscan.com/address/0xFD5D00214890F18279238F4eFd85f0c08741C784)
 * WiggyMinter: [0xF9Dabdb247F219162a10aca450491a5DeF912820](https://ftmscan.com/address/0xF9Dabdb247F219162a10aca450491a5DeF912820)
 * Predict: [0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3](https://ftmscan.com/address/0x2D0fd558fE73915322184Dcf99C20c5Eba86A1f3)
 * PredictKeeper: [0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D](https://ftmscan.com/address/0x4dEe47eBAc66dDEEb3b1D7702D7bC648F52bBE0D)
@@ -18,6 +19,11 @@
 
 WigoSwap Pair Code Hash:\
 0x55c39e9406ff3c89a193882b4752879e73c8a0ce1222fe1de34c5e8f6482d9b6
+
+## MultiSig Wallets
+
+* Core Team: [0x17D0f39F93ACc2762Bfe013c1b3fAb0cCB56E335](https://ftmscan.com/address/0x17d0f39f93acc2762bfe013c1b3fab0ccb56e335)
+* Treasury: [0x914078e16C70bd056e0B49e046189DFaa76Eb459](https://ftmscan.com/address/0x914078e16c70bd056e0b49e046189dfaa76eb459)
 
 ## Vesting Contracts
 
