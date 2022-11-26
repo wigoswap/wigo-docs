@@ -5,6 +5,7 @@
 * [🔐 Audit Reports](audit-reports.md)
 * [🚦 Education Hub](education-hub/README.md)
   * [Create a Fantom Wallet](education-hub/create-a-fantom-wallet.md)
+  * [How to stake FTM](education-hub/how-to-stake-ftm.md)
   * [Get FRC20 Tokens](education-hub/get-frc20-tokens.md)
   * [Connect Your Wallet to WigoSwap](education-hub/connect-your-wallet-to-wigoswap.md)
   * [How to Swap Fantom Tokens](education-hub/how-to-swap-fantom-tokens.md)
