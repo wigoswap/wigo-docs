@@ -28,8 +28,8 @@ In order to acquire Wigo-LP tokens, you need to provide the token pairs with liq
 
 A comprehensive guide to adding liquidity and getting Wigo-LP tokens can be found here:
 
-{% content-ref url="../how-to-add-remove-liquidity.md" %}
-[how-to-add-remove-liquidity.md](../how-to-add-remove-liquidity.md)
+{% content-ref url="../liquidity-pools/how-to-add-remove-liquidity.md" %}
+[how-to-add-remove-liquidity.md](../liquidity-pools/how-to-add-remove-liquidity.md)
 {% endcontent-ref %}
 
 

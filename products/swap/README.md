@@ -25,8 +25,8 @@ Users who provide liquidity to the liquidity pools will be granted Wigo-LP token
 
 Click on below to read detailed information on Liquidity Pools.
 
-{% content-ref url="liquidity-pools.md" %}
-[liquidity-pools.md](liquidity-pools.md)
+{% content-ref url="../liquidity-pools/" %}
+[liquidity-pools](../liquidity-pools/)
 {% endcontent-ref %}
 
 
@@ -37,6 +37,6 @@ As users provide the platform with liquidity, they earn WIGO tokens as their rew
 
 Click on below to read detailed information on WigoFarm.
 
-{% content-ref url="yield-farming-wigofarm.md" %}
-[yield-farming-wigofarm.md](yield-farming-wigofarm.md)
+{% content-ref url="../yield-farming-wigofarm/" %}
+[yield-farming-wigofarm](../yield-farming-wigofarm/)
 {% endcontent-ref %}

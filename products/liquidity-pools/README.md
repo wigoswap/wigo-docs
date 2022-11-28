@@ -2,8 +2,6 @@
 
 Providing the liquidity pools with specific liquidity results in users receiving Wigo-LP tokens and a share of the fees generated.&#x20;
 
-
-
 ### **Wigo-LP Tokens:**&#x20;
 
 Let’s make this clear through an example. Consider that you deposit WIGO and FTM Into the liquidity pool. You would then receive WIGO-FTM LP tokens. The amount of Wigo-LP tokens you receive manifests your share in the WIGO/FTM liquidity pool. You can claim your funds at any given moment by simply removing your liquidity from the pool.&#x20;
@@ -22,7 +20,7 @@ For the sake of clarity, an example is provided:
 * The liquidity pool, namely WIGO/FTM, now has 10.018 WIGO and 10.018 FTM.&#x20;
 * Caused by the fees generated, Wigo-LP tokens are now worth 1.0018 WIGO + 1.0018 FTM each.&#x20;
 
-To unlock the full financial potential of providing liquidity to the pools, WigoSwap enables you to use your Wog-LP tokens on [WigoFarm](yield-farming-wigofarm.md) to gain higher yields. Moreover, you still benefit from the rewards obtained in the form of trading fees.&#x20;
+To unlock the full financial potential of providing liquidity to the pools, WigoSwap enables you to use your Wog-LP tokens on [WigoFarm](../yield-farming-wigofarm/) to gain higher yields. Moreover, you still benefit from the rewards obtained in the form of trading fees.&#x20;
 
 
 
