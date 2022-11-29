@@ -30,8 +30,8 @@
 * [🎮 Predict Mini-Game](products/predict-mini-game/README.md)
   * [How to use Predict](products/predict-mini-game/how-to-use-predict.md)
   * [Predict FAQ](products/predict-mini-game/predict-faq.md)
-* [🌌 User Profile System (WigoGalaxy)](products/user-profile-system-wigogalaxy.md)
-* [How to create profile](products/how-to-create-profile.md)
+* [🌌 User Profile System (WigoGalaxy)](products/user-profile-system-wigogalaxy/README.md)
+  * [How to create user profile](products/user-profile-system-wigogalaxy/how-to-create-user-profile.md)
 
 ## Tokenomics
 
