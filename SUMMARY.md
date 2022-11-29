@@ -35,6 +35,7 @@
   * [Achievements & Points](products/user-profile-system-wigogalaxy/achievements-and-points.md)
 * [💸 Referral System](products/referral-system.md)
 * [🎨 Wiggy (NFT)](products/wiggy-nft.md)
+* [🖼 NFT Marketplace (WigoMarket)](products/nft-marketplace-wigomarket.md)
 
 ## Tokenomics
 
