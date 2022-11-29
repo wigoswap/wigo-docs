@@ -36,8 +36,8 @@
 
 ## Tokenomics
 
-* [📄 WIGO Tokenomics](tokenomics/wigo-tokenomics.md)
-* [💸 Rewards Distribution](tokenomics/rewards-distribution.md)
+* [🪙 WIGO Tokenomics](tokenomics/wigo-tokenomics.md)
+* [🎁 Rewards Distribution](tokenomics/rewards-distribution.md)
 * [🔥 Gamified Burning Mechanism (GBM)](tokenomics/gamified-burning-mechanism-gbm.md)
 
 ## Smart Contracts
