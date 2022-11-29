@@ -20,3 +20,12 @@ Also, you will be awarded a certain amount of points for each achievement. Point
 
 <figure><img src="../../.gitbook/assets/Skater.jpg" alt=""><figcaption><p><strong>Are you a staker? So why don’t you claim your exciting Skater Wiggy? Earn at least 2K WIGO to collect from</strong> <a href="../staking-wigo-wigobank/"><strong>WigoBank's</strong></a> <strong>standard pool.</strong></p></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Zombie- (1).jpg" alt=""><figcaption><p>Just collect 200 WIGO to harvest from WIGO-FTM or WIGO-USDC farms!</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_1599.jpg" alt=""><figcaption><p>Stake &#x26; lock-up at least 1000 FTM on Fantom validator nodes!</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_1463.jpg" alt=""><figcaption><p>Participate in the automatic staking before Sep 20, 2022 10:00 AM UTC.</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Mummy-.jpg" alt=""><figcaption><p>Collect at least 100 points in the WigoGalaxy!</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_1464.jpg" alt=""><figcaption><p>Collect only 10 in pending WIGO rewards on LQDR-FTM farm!</p></figcaption></figure>
