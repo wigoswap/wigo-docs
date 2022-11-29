@@ -5,7 +5,7 @@
 > **We believe in art & not only try to be good artists ourselves in the development of our products but also to help great artists expose their works in the best way possible.**
 
 \
-WigoSwap NFT Marketplace is a place to offer valuable and lasting artworks on the Fantom Network. Various artists can present their collections to our audience.
+WigoSwap [NFT Marketplace](https://wigoswap.io/market) is a place to offer valuable and lasting artworks on the Fantom Network. Various artists can present their collections to our audience.
 
 <figure><img src="../.gitbook/assets/WigoMarket.jpg" alt=""><figcaption></figcaption></figure>
 
