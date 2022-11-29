@@ -6,7 +6,7 @@ Achievements (Special Wigggy NFTs) are one of the most attractive and exciting s
 
 To see the list of achievements, after [creating a profile](how-to-create-user-profile.md) in WigoSwap, go to the achievements section in your profile and find a complete list of attainable NFTs and how to get each one.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2022-11-29 at 12.55.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/List-of-achievements.png" alt=""><figcaption></figcaption></figure>
 
 Also, you will be awarded a certain amount of points for each achievement. Points will soon be redeemable in parts of WigoSwap! In the following, we will explain some active achievements.&#x20;
 

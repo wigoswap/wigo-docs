@@ -34,6 +34,7 @@
   * [How to create user profile](products/user-profile-system-wigogalaxy/how-to-create-user-profile.md)
   * [Achievements & Points](products/user-profile-system-wigogalaxy/achievements-and-points.md)
 * [💸 Referral System](products/referral-system.md)
+* [🎨 Wiggy (NFT)](products/wiggy-nft.md)
 
 ## Tokenomics
 
