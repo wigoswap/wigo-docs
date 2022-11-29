@@ -48,3 +48,6 @@ Click “Confirm” to approve your username through your wallet. Your username 
 
 \
 **Congrats! Your WigoGalaxy profile is now live! Enjoy.**\
+
+
+<figure><img src="../../.gitbook/assets/Create-profile-6.jpg" alt=""><figcaption></figcaption></figure>
