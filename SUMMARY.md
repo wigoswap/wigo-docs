@@ -32,6 +32,7 @@
   * [Predict FAQ](products/predict-mini-game/predict-faq.md)
 * [🌌 User Profile System (WigoGalaxy)](products/user-profile-system-wigogalaxy/README.md)
   * [How to create user profile](products/user-profile-system-wigogalaxy/how-to-create-user-profile.md)
+* [💸 Referral System](products/referral-system.md)
 
 ## Tokenomics
 
