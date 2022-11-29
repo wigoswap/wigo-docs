@@ -38,7 +38,7 @@ What should we call you on WigoGalaxy? Choose your preferred username. This nick
 <figure><img src="../../.gitbook/assets/Create-profile-4.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-**Note: People can find my wallet address if they know my nickname or referral ID. So please be careful about this and agree with that by enabling the warning check box.**&#x20;
+**Note: People can find your wallet address if they know your nickname or referral ID. So please be careful about this and agree with that by enabling the warning check box.**&#x20;
 {% endhint %}
 
 \
