@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Marketplace.jpg" alt=""><figcaption></figcaption></figure>
 
-> **We believe in art. We not only try to be good artists ourselves in the development of our products but also to create conditions for artists who can expose their works.**
+> **We believe in art & not only try to be good artists ourselves in the development of our products but also to help great artists expose their works in the best way possible.**
 
 \
 WigoSwap NFT Marketplace is a place to offer valuable and lasting artworks on the Fantom Network. Various artists can present their collections to our audience.
