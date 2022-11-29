@@ -1,4 +1,4 @@
-# 💸 Rewards Distribution
+# 🎁 Rewards Distribution
 
 ![](../.gitbook/assets/Distribution.png)
 

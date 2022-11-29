@@ -1,4 +1,4 @@
-# 📄 WIGO Tokenomics
+# 🪙 WIGO Tokenomics
 
 ![](<../.gitbook/assets/tokenomics (1).png>)
 
