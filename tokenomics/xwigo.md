@@ -1,6 +1,6 @@
-# 🪙 xWIGO
+# 💰 xWIGO
 
-xWIGO is a 1:1 token with staked WIGO tokens in WigoBank. Therefore, the total supply of this token is always equal to the sum of staked WIGO tokens in WigoBank.
+xWIGO is a 1:1 token backed by staked WIGO tokens in WigoBank. Therefore, the total supply of this token is always equal to the sum of staked WIGO tokens in WigoBank.
 
 By staking in WigoBank using the Liquid Staking method, xWIGO Tokens will be minted into your wallet. These tokens act as the proof of ownership of WIGO tokens you’ve staked in the Liquid Staking. Therefore, upon unstaking your WIGO tokens from the WigoBank, xWIGO tokens are also automatically de-minted.
 

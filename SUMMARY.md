@@ -42,7 +42,7 @@
 * [🪙 WIGO Tokenomics](tokenomics/wigo-tokenomics.md)
 * [🎁 Rewards Distribution](tokenomics/rewards-distribution.md)
 * [🔥 Gamified Burning Mechanism (GBM)](tokenomics/gamified-burning-mechanism-gbm.md)
-* [🪙 xWIGO](tokenomics/xwigo.md)
+* [💰 xWIGO](tokenomics/xwigo.md)
 
 ## Smart Contracts
 
