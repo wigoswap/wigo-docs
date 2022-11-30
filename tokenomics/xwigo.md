@@ -14,6 +14,8 @@ In case you are using the Liquid Staking in WigoBank, and you decide to unstake 
 
 ### FAQ: Why is the xWIGO's supply in [FTMScan](https://ftmscan.com/address/0xb9bbe9355828a1ad0e2d605480f969c6903ad9e4) is not equal to the number of staked in Liquid Staking pool?
 
-The difference is due to the xWIGO tokens that WigoVault (Auto Compound) contract owns. This smart contract compounds the users' fund, so it does not give the xWIGO tokens back to its users. The total supply of xWIGO is always equal to the sum of all staked WIGO tokens in WigoBank. (Staking + Liquid Staking)
+The difference is due to the xWIGO tokens that WigoVault (Auto Compound) contract owns. This smart contract stakes the user's fund as an intermediary and combines its profit, so it does not give the xWIGO tokens back to user.\
+\
+The total supply of xWIGO is always equal to the sum of staked WIGO tokens in all WigoBank pools. (Staking + Liquid Staking)
 
 ###
