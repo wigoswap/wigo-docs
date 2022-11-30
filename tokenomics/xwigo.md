@@ -1,4 +1,4 @@
-# 💰 xWIGO
+# 🤑 xWIGO
 
 xWIGO is a 1:1 token backed by staked WIGO tokens in WigoBank. Therefore, the total supply of this token is always equal to the sum of staked WIGO tokens in WigoBank.
 
