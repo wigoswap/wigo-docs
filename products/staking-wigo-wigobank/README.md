@@ -2,7 +2,7 @@
 
 ### **What is WigoBank?**&#x20;
 
-Through [WigoBank](https://wigoswap.io/bank), users can gain free tokens on WigoSwap. Simply, by staking WIGO, you can earn free tokens. In the future, WigoBank will implement various staking plans for the users.
+Through [WigoBank](https://wigoswap.io/bank), users can gain free WIGO on WigoSwap. Simply, by staking WIGO, you can earn more WIGO. In the future, WigoBank will implement various staking plans for the users.
 
 
 
@@ -12,8 +12,8 @@ Through [WigoBank](https://wigoswap.io/bank), users can gain free tokens on Wigo
 [how-to-stake-in-wigobank.md](how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
-{% content-ref url="automatic-vs.-standard.md" %}
-[automatic-vs.-standard.md](automatic-vs.-standard.md)
+{% content-ref url="staking-vs.-liquid-staking.md" %}
+[staking-vs.-liquid-staking.md](staking-vs.-liquid-staking.md)
 {% endcontent-ref %}
 
 ### **WigoBank** FAQs & Troubleshooting

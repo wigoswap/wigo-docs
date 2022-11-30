@@ -25,7 +25,7 @@
   * [How to Use WigoFarm with FTMScan](products/yield-farming-wigofarm/how-to-use-wigofarm-with-ftmscan.md)
 * [🏦 Staking WIGO (WigoBank)](products/staking-wigo-wigobank/README.md)
   * [How to Stake in WigoBank](products/staking-wigo-wigobank/how-to-stake-in-wigobank.md)
-  * [Automatic vs. Standard](products/staking-wigo-wigobank/automatic-vs.-standard.md)
+  * [Staking vs. Liquid Staking](products/staking-wigo-wigobank/staking-vs.-liquid-staking.md)
   * [WigoBank FAQ & Troubleshooting](products/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md)
 * [🎮 Predict Mini-Game](products/predict-mini-game/README.md)
   * [How to use Predict](products/predict-mini-game/how-to-use-predict.md)

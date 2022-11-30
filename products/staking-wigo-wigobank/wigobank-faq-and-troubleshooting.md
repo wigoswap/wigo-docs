@@ -56,5 +56,5 @@ In the second type, the teams behind the projects that sponsor certain pools are
 By staking manually in WigoBank using the Standard Staking method, WigoBank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of WIGO tokens you’ve staked in the WigoBank. Therefore, upon unstaking your WIGO tokens from the WigoBank, WigoBank (xWIGO) tokens are also automatically returned.&#x20;
 
 {% hint style="warning" %}
-Be careful not to sell or transfer your WigoBank (xWIGO) tokens. In case you are using the Standard Staking method in WigoBank, and you decide to unstake your WIGO tokens, you should exactly return as many WigoBank (xWIGO) tokens as the WIGO tokens you want to unstake.&#x20;
+In case you are using the Liquid Staking in WigoBank, and you decide to unstake your WIGO tokens, you should exactly return as many xWIGO tokens as the WIGO tokens you want to unstake. So be careful not to loss your xWIGO tokens in trades or yield farming. If you don't have enough xWIGO to unstake your staked WIGO tokens, you have to buy more xWIGO tokens from the market.&#x20;
 {% endhint %}
