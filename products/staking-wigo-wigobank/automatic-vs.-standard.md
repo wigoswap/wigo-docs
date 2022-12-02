@@ -16,7 +16,7 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 * The automatic process of restaking your rewards into the WigoBank is brought about by other users who get a bounty for doing so. (Auto Compound Bounty)
 * The interest generated from staking is displayed as APY, which is also considered compounding.&#x20;
 * Each time the WigoBank automatically harvests the rewards and reinvests them into the WigoBank (or, to put it simply, each time the WigoBank compounds your rewards), a small fee is deducted from what you’ve earned and burned by [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). &#x20;
-* If you decide to unstake manually within three days, a fee for the unstaking process is also charged and will be burned by [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). (0.5%)
+* If you decide to unstake manually within three days, a fee for the unstaking process is also charged and will be burned by [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). (1%)
 * There are no WigoBank (xWIGO) Tokens deposited into your wallet.
 
 
@@ -35,7 +35,7 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 
 
 
-\+ If you decide to unstake within 72 hours, a 0.5% fee is charged. This takes place when users unstake manually for 3 days.&#x20;
+\+ If you decide to unstake within 72 hours, a 1% fee is charged. This takes place when users unstake manually for 3 days.&#x20;
 
 \+ If you choose to unstake after the 3 days, no fee is involved.&#x20;
 
@@ -45,7 +45,7 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 
 * **The fee for automatic compounding is as follows;**&#x20;
 
-\+ Each time the WigoBank compounds your rewards, a 5% performance fee is subtracted from your earnings. For instance, if you’ve earned 1 WIGO, you would receive 0.95 WIGO, and 0.05 WIGO is subtracted as the fee and will be burned immediately.
+\+ Each time the WigoBank compounds your rewards, a 1% performance fee is subtracted from your earnings. For instance, if you’ve earned 1 WIGO, you would receive 0.99 WIGO, and 0.01 WIGO is subtracted as the fee and will be burned immediately.
 
 The WIGO tokens collected through fees generated through unstaking or compounding are regularly burnt as part of the [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md) plans.
 
@@ -58,4 +58,4 @@ The best way to use Automatic staking is to stake your WIGO tokens and try not t
 
 ### **The** Auto Compound Bounty
 
-1% of the pending yield of the users who use Automatic Staking is given as a bounty to those who claim the bounty and, by doing so, trigger the compounding operation for other users. The amount of WIGO you get ought to be higher than the fee you are about to pay for the transaction to submit.
+0.1% of the pending yield of the users who use Automatic Staking is given as a bounty to those who claim the bounty and, by doing so, trigger the compounding operation for other users. The amount of WIGO you get ought to be higher than the fee you are about to pay for the transaction to submit.
