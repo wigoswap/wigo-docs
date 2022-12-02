@@ -150,13 +150,9 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 [gamified-burning-mechanism-gbm.md](../tokenomics/gamified-burning-mechanism-gbm.md)
 {% endcontent-ref %}
 
-## **What is WigoBank Token (xWIGO)?**   &#x20;
+## **What is WigoBank (xWIGO) Token?**   &#x20;
 
-By staking in WigoBank using the Liquid Staking method, xWIGO Tokens will be minted into your wallet. These tokens act as the proof of ownership of WIGO tokens you’ve staked in the Liquid Staking. Therefore, upon unstaking your WIGO tokens from the WigoBank, xWIGO tokens are also automatically de-minted.
-
-You can use your xWIGO tokens as liquidity to earn more passive income in WigoFarm or any other DeFi platform while you are earning staking rewards in WigoBank!\
-\
-You can find more information on xWIGO here:
+By staking manually in WigoBank using the Standard Staking method, WigoBank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the WigoBank. You can find more information on xWIGO here:
 
 {% content-ref url="../products/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md" %}
 [wigobank-faq-and-troubleshooting.md](../products/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md)
