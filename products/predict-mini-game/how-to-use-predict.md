@@ -1,6 +1,6 @@
 # How to use Predict
 
-WigoSwap's Predict is a decentralized, simple, and fun game that lets users test their foresight to earn rewards. Predict if the FTMUSD price will go up or down, and you'll collect a share of the round's prize pool!\
+WigoSwap's Predict is a decentralized, simple, and fun game that lets users test their foresight to earn rewards. Predict if the FTM-USD price will go up or down, and you'll collect a share of the round's prize pool!\
 
 
 {% hint style="info" %}
@@ -17,7 +17,7 @@ Before using Predict, you’ll need to review and accept the terms. Read and acc
 
 ## Predicting the next round
 
-The Predict page shows quite a bit of information. Predictions operate in 15-minute rounds. Make your prediction before a round goes live.
+The Predict page shows quite a bit of information. Predictions operate in 5-minute rounds. Make your prediction before a round goes live.
 
 
 
@@ -25,7 +25,7 @@ The Predict page shows quite a bit of information. Predictions operate in 15-min
 
 To enter a round, you'll need to check how long is left in the live round. There is a timer in the top-right area.
 
-<figure><img src="../../.gitbook/assets/PredictOverview.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/B41A7B77-C79E-486A-A17C-C8F38C4A5C52_1_201_a.jpeg" alt=""><figcaption></figcaption></figure>
 
 If the timer is too low, your prediction may not confirm in time. So check there's still enough time left before you make a prediction (30 seconds should be enough, but give yourself more time if you're following along with this guide).\
 
@@ -63,17 +63,17 @@ There's nothing left to do now but wait for your Predict round to go live.
 
 ## While your entered round is live
 
-A live round will last for 15 minutes. You can watch the price update for 15 minutes if you'd like.&#x20;
+A live round will last for 5 minutes. You can watch the price update for 5 minutes if you'd like.&#x20;
 
 You cannot change your prediction during a live round, however. You are locked into your prediction from earlier.
 
 ## Once your entered round finishes
 
-After 15 minutes of the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
+After 5 minutes of the live round, your entered round will finish. Everything is automatic, so there's nothing you need to do to end the round.
 
 ### Seeing the results
 
-1\. As the 15 minutes finish, the "Live" section will change to "Calculating". Calculating the results takes a short moment.
+1\. As the 5 minutes finish, the "Live" section will change to "Calculating". Calculating the results takes a short moment.
 
 <figure><img src="../../.gitbook/assets/Calculating (2).jpg" alt=""><figcaption></figcaption></figure>
 
