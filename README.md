@@ -1,6 +1,10 @@
-# ☑ Welcome!
+---
+description: >-
+  Unlocking the full potential of the Fantom network with WigoSwap: A
+  comprehensive DeFi platform for traders, farmers, and collectors
+---
 
-##
+# ☑ Welcome!
 
 ![](<.gitbook/assets/1500x500 (2).jpeg>)
 
