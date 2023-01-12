@@ -1,6 +1,6 @@
 # Table of contents
 
-* [☑ Introduction](README.md)
+* [☑ Welcome!](README.md)
 * [🎯 Roadmap](roadmap.md)
 * [🔐 Audit Reports](audit-reports.md)
 * [🚦 Education Hub](education-hub/README.md)
