@@ -2,7 +2,7 @@
 
 * [☑ Welcome!](README.md)
 * [🎯 Roadmap](roadmap.md)
-* [🔐 Audit Reports](audit-reports.md)
+* [🔐 Security Audit Reports](security-audit-reports.md)
 * [🚦 Education Hub](education-hub/README.md)
   * [Create a Fantom Wallet](education-hub/create-a-fantom-wallet.md)
   * [How to stake FTM](education-hub/how-to-stake-ftm.md)
