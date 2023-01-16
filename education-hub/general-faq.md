@@ -6,8 +6,8 @@ On this page you can find the answers to the most important questions frequently
 
 1- Below, you can check the security audits related to WigoSwap:
 
-{% content-ref url="../security-audit-reports.md" %}
-[security-audit-reports.md](../security-audit-reports.md)
+{% content-ref url="../audit-reports.md" %}
+[audit-reports.md](../audit-reports.md)
 {% endcontent-ref %}
 
 2- In order to achieve maximum transparency, we have published all our smart contracts on [GitHub](https://github.com/wigoswap). All of the contracts are verified on FTMScan so that all of the operations are crystal clear.
