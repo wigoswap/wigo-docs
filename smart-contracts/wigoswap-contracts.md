@@ -91,9 +91,9 @@ We used combination of Markle Proof & Timelock to build a claimable vesting cont
   [0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38](https://ftmscan.com/tx/0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38)\
   [0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688](https://ftmscan.com/tx/0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688)
 * Core Team's WIGO-FTM LP tokens (Initial liquidity) has been locked:\
-  1st year:\
+  \- 1st year:\
   [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)\
-  2nd year:\
+  \- 2nd year:\
   [0x9cdf7b89bab8e803045186ad03d9691271b82ff43e39e5240a60771eec18e6f2](https://ftmscan.com/tx/0x9cdf7b89bab8e803045186ad03d9691271b82ff43e39e5240a60771eec18e6f2)\
   [0x8bdd95fb608e084623ad2297b62c27f861f10a38184347b43f60dcab32f8384c](https://ftmscan.com/tx/0x8bdd95fb608e084623ad2297b62c27f861f10a38184347b43f60dcab32f8384c)
 * All 60M airdrop tokens has been transferred to 'Merkle Proof + Vesting' contracts:\
