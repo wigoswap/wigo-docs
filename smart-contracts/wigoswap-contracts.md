@@ -47,7 +47,7 @@ WigoSwap Pair Code Hash:\
 
 ### Core Team's Initial Liquidity Lock:
 
-* 1st year:\
+* 1st year (released):\
   WigoSwap: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)\
 
 * 2nd year:\
