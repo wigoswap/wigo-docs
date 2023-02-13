@@ -47,7 +47,12 @@ WigoSwap Pair Code Hash:\
 
 ### Core Team's Initial Liquidity Lock:
 
-* 365-Day: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)
+* 1st year:\
+  WigoSwap: [0x4C3c043f8C4103c048dE6FB437b95EF8209038d1](https://ftmscan.com/address/0x4C3c043f8C4103c048dE6FB437b95EF8209038d1)\
+
+* 2nd year:\
+  Beethoven X: [0x60FB405d7EfB371822810Ff3ed2247109497f4cE](https://ftmscan.com/address/0x60FB405d7EfB371822810Ff3ed2247109497f4cE)\
+  Equalizer: [0x7aE1a3dAF451ddBB643dFEAFB830E1fB668F08a3](https://ftmscan.com/address/0x7aE1a3dAF451ddBB643dFEAFB830E1fB668F08a3)
 
 ### Airdrop Merkle Proof Contracts:
 
@@ -86,7 +91,11 @@ We used combination of Markle Proof & Timelock to build a claimable vesting cont
   [0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38](https://ftmscan.com/tx/0x453cd3fc36c93b1161e4a9b0ab9e3445434ebe262aa335b3b05c1280364bef38)\
   [0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688](https://ftmscan.com/tx/0x71182b8b1bb9c9083ff9db26ea9ff58746c96a69e86ec27b1793b4a39da21688)
 * Core Team's WIGO-FTM LP tokens (Initial liquidity) has been locked:\
-  [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)
+  1st year:\
+  [0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41](https://ftmscan.com/tx/0x47e0c57c360b64a1e0be3696623bb8144ace737d433e6d83f9796e05007c7c41)\
+  2nd year:\
+  [0x9cdf7b89bab8e803045186ad03d9691271b82ff43e39e5240a60771eec18e6f2](https://ftmscan.com/tx/0x9cdf7b89bab8e803045186ad03d9691271b82ff43e39e5240a60771eec18e6f2)\
+  [0x8bdd95fb608e084623ad2297b62c27f861f10a38184347b43f60dcab32f8384c](https://ftmscan.com/tx/0x8bdd95fb608e084623ad2297b62c27f861f10a38184347b43f60dcab32f8384c)
 * All 60M airdrop tokens has been transferred to 'Merkle Proof + Vesting' contracts:\
   [0x5dd2f2e44661db06820d5bfa060f56b1cb3c93c8b0814276689220c1445aca34](https://ftmscan.com/tx/0x5dd2f2e44661db06820d5bfa060f56b1cb3c93c8b0814276689220c1445aca34)\
   [0xa8e1e39741bcefdaf25d4bf75cf75226d81b68360f49ac589cf9834049797422](https://ftmscan.com/tx/0xa8e1e39741bcefdaf25d4bf75cf75226d81b68360f49ac589cf9834049797422)\
