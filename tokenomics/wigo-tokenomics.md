@@ -21,11 +21,11 @@ WIGO has no pre-sale, private sale, public sale, or ICO.
 
 ### **Initial DEX Offering (IDO)**&#x20;
 
-2% of WIGO’s maximum supply (40,000,000 **** WIGOs), alongside $50,000 in FTM, are allocated to the Initial DEX Offering. Therefore, the initial price of WIGO would be around $0.00125 at the beginning of the IDO. The LP tokens generated through establishing the initial pool and received by the WigoSwap core team will be locked for 365 days and will not be used in farming.
+2% of WIGO’s maximum supply (40,000,000 WIGOs), alongside $50,000 in FTM, are allocated to the Initial DEX Offering. Therefore, the initial price of WIGO would be around $0.00125 at the beginning of the IDO. The LP tokens generated through establishing the initial pool and received by the WigoSwap core team will be locked for 365 days and will not be used in farming.
 
 ### **Vesting Schedule**&#x20;
 
-In what follows, you can see the vesting schedule related to the seed **** funders:
+In what follows, you can see the vesting schedule related to the seed funders:
 
 * 12% Initial Allowance
 * 22% after 60 days

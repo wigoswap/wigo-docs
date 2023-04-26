@@ -64,7 +64,7 @@ Other possible reasons can be the fast rate of price updates, or your low slippa
 
 </details>
 
-****
+
 
 ### **WigoswapRouter: Expired**
 
@@ -177,7 +177,7 @@ Repeat the transaction with a lower amount, or a higher slippage tolerance. To i
 
 </details>
 
-****
+
 
 ### **Cannot read property ‘toHexString’ of undefined**
 
@@ -203,7 +203,7 @@ In case the problem is not solved, you probably need to use another wallet on yo
 
 </details>
 
-****
+
 
 ### **Execution reverted: Transferhelper: Transfer\_From\_Failed**
 
@@ -257,7 +257,7 @@ If you are trying to unstake WIGO and this error occurs, you have to obtain as m
 
 </details>
 
-****
+
 
 ### **Out of gas error**
 
@@ -363,7 +363,7 @@ Install the browser extension of the wallet you wish to connect to WigoSwap from
 
 </details>
 
-****
+
 
 ### **Unsupported Chain ID**
 

@@ -47,7 +47,7 @@ Open **MetaMask** app and use the menu icon at the top left to go to **Settings*
    **Network Name**: Fantom Opera\
    **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools/)\
    **ChainID**: `250`\
-   ``**Symbol**: FTM\
+   **Symbol**: FTM\
    **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com/)\
 
 4. Once the new network is established and confirmed, tap on the menu icon at the top left and select **Browser**.
@@ -135,7 +135,7 @@ In order to connect MetaMask extension wallet to WigoSwap you need to follow the
    **Network Name**: Fantom Opera\
    **RPC Url**: [https://rpc.ftm.tools/](https://rpc.ftm.tools/)\
    **ChainID**: `250`\
-   ``**Symbol**: FTM\
+   **Symbol**: FTM\
    **Block Explorer URL**: [https://ftmscan.com/](https://ftmscan.com/)\
 
 3. Once you’ve entered the information, click on the **Save** button. Now Fantom Network is added to the networks you are able to select from.&#x20;

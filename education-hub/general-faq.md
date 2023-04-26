@@ -69,7 +69,7 @@ Read our guide to yield farming on WigoSwap to find the necessary information.&#
 [how-to-use-wigofarm.md](../products/yield-farming-wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
-## How to bridge my tokens onto Fantom? ****&#x20;
+## How to bridge my tokens onto Fantom?&#x20;
 
 You can find the necessary information on bridging onto Fantom Network here:&#x20;
 

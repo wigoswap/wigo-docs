@@ -26,7 +26,7 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 * **There is no fee for depositing.**
 * **There is no fee for unstaking**
 
-****
+
 
 ### **The Fees Involved in Automatic Staking**&#x20;
 

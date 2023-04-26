@@ -34,13 +34,13 @@ If the timer is too low, your prediction may not confirm in time. So check there
 
 When you're sure you have enough time, you can place your prediction for the next round.
 
-1\. In the "Next" section, you'll see an <mark style="color:green;">**Enter Green**</mark> button and an <mark style="color:red;">**Enter Red**</mark> button. Click ** **<mark style="color:green;">**Enter Green**</mark> if you want to predict a price rise, and click ** **<mark style="color:red;">**Enter Red**</mark> if you want to predict a price drop.
+1\. In the "Next" section, you'll see an <mark style="color:green;">**Enter Green**</mark> button and an <mark style="color:red;">**Enter Red**</mark> button. Click <mark style="color:green;">**Enter Green**</mark> if you want to predict a price rise, and click <mark style="color:red;">**Enter Red**</mark> if you want to predict a price drop.
 
 <figure><img src="../../.gitbook/assets/RedGreen.jpg" alt=""><figcaption></figcaption></figure>
 
 Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
 
-We'll choose ** **<mark style="color:green;">**Green**</mark> for this example.
+We'll choose <mark style="color:green;">**Green**</mark> for this example.
 
 
 

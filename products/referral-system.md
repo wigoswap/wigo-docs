@@ -17,8 +17,8 @@ To find your link and referral code, connect your wallet and go to your profile 
 
 <figure><img src="../.gitbook/assets/Referral-Program.png" alt=""><figcaption></figcaption></figure>
 
-* ****[**WigoGalaxy**](user-profile-system-wigogalaxy/) **Registration Fee:** Whenever a new user registers on WigoSwap with your referral link, you will get 50% of the registration fee (the registration fee is currently 8000 $WIGO)
-* ****[**PREDICT Rounds:**](predict-mini-game/) If your referred friend plays in PREDICT and wins, you will get 1% of their prize!
+* [**WigoGalaxy**](user-profile-system-wigogalaxy/) **Registration Fee:** Whenever a new user registers on WigoSwap with your referral link, you will get 50% of the registration fee (the registration fee is currently 8000 $WIGO)
+* [**PREDICT Rounds:**](predict-mini-game/) If your referred friend plays in PREDICT and wins, you will get 1% of their prize!
 * **WigoMarket (NFT Marketplace):** Whenever your referrals buy or sell NFTs on WigoMarket, you will earn 0.5% of their transaction.
 * **Lottery:** If your referrals play Lottery, you will get 5% of their ticket purchase!
 * **More, soon!**

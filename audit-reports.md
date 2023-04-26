@@ -15,7 +15,7 @@ Our team of experienced security experts has meticulously examined every aspect 
 Our commitment to security doesn't stop there - we will continue to perform regular security audits and updates to ensure that our platform remains secure for our users. WigoSwap has been successfully audited by [CertiK](https://certik.com).&#x20;
 
 {% hint style="success" %}
-**Read CertiK's full audit -->** [**https://www.certik.com/projects/wigoswap**](https://www.certik.com/projects/wigoswap)****
+**Read CertiK's full audit -->** [**https://www.certik.com/projects/wigoswap**](https://www.certik.com/projects/wigoswap)
 {% endhint %}
 
 {% hint style="danger" %}

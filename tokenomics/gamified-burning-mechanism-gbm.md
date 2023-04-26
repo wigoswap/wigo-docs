@@ -32,7 +32,7 @@ Below are the sources for Gamified Burning Mechanism:
 * **100%** of registeration fee in [WigoGalaxy](../products/user-profile-system-wigogalaxy/)
 * **100%** of [Wiggy NFT](../products/wiggy-nft.md) minting fee
 * **4%** of prize pool in [Predict](../products/predict-mini-game/)
-* **100%** trading fee in [WigoMarket](../products/nft-marketplace-wigomarket.md)
+* **100%** trading fee in [WigoMarket](../products/nft-marketplace-wigomarket/)
 
 More sources will be added in the near future.
 

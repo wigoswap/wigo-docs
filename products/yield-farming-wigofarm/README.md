@@ -31,9 +31,9 @@ Next, use that **fee share** to estimate the projected **yearly fees** earned by
 \
 $174,546\*365 = **$63,709,290**
 
-We can now use the yearly fees to calculate the **LP Rewards APR**. **** That's **yearly fees** divided by **Liquidity:**\
-****\
-****($63,709,290/$387,420,000)\*100 = **16.44% LP Reward APR**
+We can now use the yearly fees to calculate the **LP Rewards APR**. That's **yearly fees** divided by **Liquidity:**\
+\
+($63,709,290/$387,420,000)\*100 = **16.44% LP Reward APR**
 
 ### **Calculating the APR of the Farm-related Rewards:**&#x20;
 
