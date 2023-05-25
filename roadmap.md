@@ -12,23 +12,72 @@ As we step into an exciting phase of growth and innovation, we're thrilled to sh
 We understand that the crypto industry is constantly evolving, so our roadmap is also flexible. We'll be updating it regularly to reflect the latest trends, user feedback, and market conditions. And we'll always keep you informed of any changes, so you can stay ahead of the curve.
 {% endhint %}
 
-* <mark style="color:blue;">**Perpetual Trading:**</mark> WigoSwap will introduce Perpetual Trading, a form of futures contract without expiration. This feature enables users to trade leveraged positions and engage in long or short trades, thereby enriching our asset offering and creating a dynamic trading experience.
-* <mark style="color:blue;">**WigoQuest Expansion:**</mark> An enhanced WigoQuest is on its way! We're committed to refining its features and user experience, making it the core gateway to our innovative product suite.
-* <mark style="color:blue;">**Gas Subsidies**</mark><mark style="color:blue;">:</mark> In alignment with Fantom's roadmap, we aim to implement gas subsidies for smoother user onboarding and interactions. This approach will ensure users won't need to worry about paying gas fees themselves, providing a more seamless dApp experience.
-* <mark style="color:blue;">**Account Abstraction**</mark><mark style="color:blue;">:</mark> We're planning to introduce account abstraction within WigoSwap, a move inspired by Fantom's strategy. This will make a significant difference in enhancing the user experience as it won't differentiate between contract and EOA accounts. An "EOA" can become an email address & password, social auth, face id, etc, which will allow for social recovery and an overall improved dApp experience.
-* <mark style="color:blue;">**WigoRun Launch:**</mark> Born from the concept of WigoGrants, WigoRun will be our main tool for launching new dApps on the Fantom network, strengthening the ecosystem, and fostering innovation.
-* <mark style="color:blue;">**Launching and Incubating New dApps:**</mark> We're excited to launch DeTasker, a decentralized freelance platform operating on the Fantom chain. Stay tuned for more dApps in the travel, healthcare, and transportation industries.
-* <mark style="color:blue;">**Rebranding:**</mark> As we transition into a 'super-app', expect a comprehensive rebranding process that enriches your experience and paves the way for seamless third-party game integrations with GBM.
-* <mark style="color:blue;">**The Super-Dapp**</mark><mark style="color:blue;">:</mark> With our transition into a super-dApp, we're focusing on delivering gamified features and serving as a gateway for new users to explore all dApps in the ecosystem.
-* <mark style="color:blue;">**Team Expansion:**</mark> We're growing our team, with a special focus on expanding our marketing and business development divisions to accelerate our growth.
-* <mark style="color:blue;">**Raffle (Lottery):**</mark> Brace yourselves for the grand unveiling of Raffle, our revolutionary, decentralized lottery system, developed in close collaboration with Chainlink. With an unwavering focus on user experience, Raffle injects a thrilling element into the WigoSwap ecosystem, blending entertainment and the thrill of potential rewards. Carefully designed and calibrated for perfect timing, this feature promises to amplify both user engagement and value for our community.
-* <mark style="color:blue;">**WigoRefer (Referrals V2):**</mark> Brace yourself for the launch of WigoRefer, the next evolution of our referral system. This enhanced version promises a more engaging and intuitive experience. Designed with user convenience in mind, WigoRefer streamlines the referral process, making it effortless to share the benefits of WigoSwap with friends and network, thereby fostering a more vibrant community.
-* <mark style="color:blue;">**WigoMarket V2:**</mark> Get ready for a newly upgraded WigoMarket, set to enrich the NFT space on Fantom, featuring more artists and diverse collections.
-* <mark style="color:blue;">**Rare Wiggies New Parts:**</mark> Stay tuned for the release of Rare Wiggies Part 2, and look forward to seeing more content and diversity, including video, added to the Wiggy character.
-* <mark style="color:blue;">**Artistic Network Expansion:**</mark> We're actively networking with artists to list new collections, making the Fantom NFT space richer and more artistic.
-* <mark style="color:blue;">**WigoAcademy Launch:**</mark> The unveiling of WigoAcademy, our educational hub designed to empower newbies to navigate the Fantom and DeFi landscapes with ease, is on the horizon.
-* <mark style="color:blue;">**Continued R\&D on Cross-Chain & Multi-Chain Solutions:**</mark> We continue to invest in research and development for cross-chain and multi-chain solutions, prioritizing the Fantom network's robust growth.
-* <mark style="color:blue;">**Listing WIGO on DEXs and CEXs:**</mark> We're working tirelessly to make WIGO available on various DEXs and CEXs, broadening its accessibility and visibility.
-* <mark style="color:blue;">**WigoMail Launch:**</mark> Keep an eye out for the launch of WigoMail, a groundbreaking decentralized email system, further expanding our super-dApp capabilities.
+### WigoQuest (Achievements System) <a href="#4a15" id="4a15"></a>
+
+Our most important user engagement tool is set for a comprehensive upgrade! We’re focused on improving its features and user experience, making it the primary gateway to our innovative product suite.
+
+### WigoRun (Incubation and IDO) <a href="#fac1" id="fac1"></a>
+
+The WigoRun platform, an evolution of the WigoGrants concept, is set to become the primary launchpad for new dApps within the Fantom ecosystem, bolstering its resilience and fostering innovation.
+
+### DeTasker and Beyond! <a href="#93c6" id="93c6"></a>
+
+Get ready for the launch of DeTasker, a decentralized freelancing platform operating on the Fantom chain. That’s not all — look forward to the release of more dApps aimed at revolutionizing the travel, healthcare, and transportation sectors.
+
+### Rebranding for the Super-Dapp Era <a href="#ea09" id="ea09"></a>
+
+As we transition into a super-dApp, we’re undergoing a comprehensive rebranding process. This rebranding will enhance the overall user experience and pave the way for seamless third-party game integrations via GBM.
+
+### The Super-Dapp Journey <a href="#75dc" id="75dc"></a>
+
+Our transformation into a super-dApp underlines our commitment to delivering gamified features and serving as a gateway for users to explore the entire dApp ecosystem on Fantom.
+
+### Gas Subsidies <a href="#c109" id="c109"></a>
+
+In line with Fantom’s roadmap, we aim to implement gas subsidies for smoother user onboarding and interaction. This will ensure users won’t need to concern themselves with gas fees, facilitating a more seamless dApp experience.
+
+### Account Abstraction <a href="#4e2d" id="4e2d"></a>
+
+Inspired by Fantom’s strategy, we’re planning to introduce account abstraction within WigoSwap. This initiative won’t differentiate between contract and EOA (Externally Owned Accounts) accounts. An “EOA” could be an email address, password, social authentication, face ID, etc., enabling social recovery and overall improvement of the dApp experience.
+
+### WigoRefer Launch <a href="#ed36" id="ed36"></a>
+
+The next evolution of our referral system is just on the way. This enhanced version promises a more engaging and intuitive experience. Designed with user convenience in mind, WigoRefer streamlines the referral process, making it effortless to share the benefits of WigoSwap with friends and network, thereby fostering a more vibrant community.
+
+### Team Expansion <a href="#2f6e" id="2f6e"></a>
+
+Our team is growing! We’re expanding our marketing and business development divisions, reinforcing our capacity to drive growth and realize our ambitious vision.
+
+### Raffle: The Decentralized Lottery <a href="#6dd2" id="6dd2"></a>
+
+Prepare for the grand unveiling of Raffle, our innovative, decentralized lottery feature developed in partnership with Chainlink. Designed to maximize user experience, Raffle promises to inject an element of excitement into the WigoSwap ecosystem.
+
+### WigoMail: Decentralized Email <a href="#c5ec" id="c5ec"></a>
+
+Look forward to the launch of WigoMail in late 2023. This groundbreaking decentralized email system further expands our super-dApp capabilities.
+
+### WigoMarket V2: An Upgrade in the NFT Space <a href="#45f5" id="45f5"></a>
+
+WigoMarket is getting an upgrade. Get ready for a more enriched NFT space on Fantom, featuring a wider array of artists and diverse collections.
+
+### Rare Wiggies: New Parts on the Horizon <a href="#c825" id="c825"></a>
+
+Rare Wiggies Part 2 is on its way! Stay tuned for enhanced content and diversity, including video, in your favorite Wiggy characters.
+
+### Expanding Artistic Network <a href="#2a97" id="2a97"></a>
+
+We’re actively networking with artists to list new collections, aiming to add a richer artistic flavor to the Fantom NFT ecosystem.
+
+### Launch of WigoAcademy <a href="#e699" id="e699"></a>
+
+The unveiling of WigoAcademy, our educational hub designed to empower newbies in the Fantom and DeFi landscapes, is on the horizon.
+
+### R\&D on Cross-Chain & Multi-Chain Solutions <a href="#86c9" id="86c9"></a>
+
+Our commitment to research and development for cross-chain and multi-chain solutions remains unwavering, with a strong focus on the Fantom network’s growth.
+
+### Listing WIGO on DEXs and CEXs <a href="#e69e" id="e69e"></a>
+
+Our efforts to make WIGO available on various DEXs and CEXs continue tirelessly, working towards broadening its accessibility and visibility in the market.
 
 This roadmap signifies our commitment to further solidifying our position within the Fantom network, fostering growth, innovation, and community engagement. We're excited to have you join us on this journey toward a future packed with possibilities!
