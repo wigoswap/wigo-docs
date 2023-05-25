@@ -16,6 +16,10 @@ We understand that the crypto industry is constantly evolving, so our roadmap is
 
 Our most important user engagement tool is set for a comprehensive upgrade! We’re focused on improving its features and user experience, making it the primary gateway to our innovative product suite.
 
+### Perpetual Trading <a href="#e732" id="e732"></a>
+
+WigoSwap will introduce Perpetual Trading, a form of futures contract without expiration. This feature enables users to trade leveraged positions and engage in long or short trades, thereby enriching our asset offering and creating a dynamic trading experience.
+
 ### WigoRun (Incubation and IDO) <a href="#fac1" id="fac1"></a>
 
 The WigoRun platform, an evolution of the WigoGrants concept, is set to become the primary launchpad for new dApps within the Fantom ecosystem, bolstering its resilience and fostering innovation.
