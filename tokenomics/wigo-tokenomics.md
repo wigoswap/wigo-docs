@@ -8,12 +8,7 @@ WIGO is the native governance token of WigoSwap’s ecosystem. The maximum suppl
 
 8% of the Max Supply is intended for the initial mint planned to be minted by the WigoSwap team at deployment time. The determined proportions are as follows:
 
-| Allocation Category        |  % of Max Supply | Number of Tokens |
-| -------------------------- | ---------------- | ---------------- |
-| Seed Funders               | 3.0%             | 60,000,000       |
-| Community Airdrops         | 3.0%             | 60,000,000       |
-| Initial Dex Offering (IDO) | 2.0%             | 40,000,000       |
-| **Total**                  | **8.0%**         | **160,000,000**  |
+<table><thead><tr><th width="257.3333333333333">Allocation Category</th><th> % of Max Supply</th><th>Number of Tokens</th></tr></thead><tbody><tr><td>Seed Funders</td><td>3.0%</td><td>60,000,000</td></tr><tr><td>Community Airdrops</td><td>3.0%</td><td>60,000,000</td></tr><tr><td>Initial Dex Offering (IDO)</td><td>2.0%</td><td>40,000,000</td></tr><tr><td><strong>Total</strong></td><td><strong>8.0%</strong></td><td><strong>160,000,000</strong></td></tr></tbody></table>
 
 {% hint style="info" %}
 WIGO has no pre-sale, private sale, public sale, or ICO.
@@ -43,9 +38,4 @@ Vesting smart contracts can be found here:
 
 The rest of the supply is going to be minted over time as follows:
 
-| Allocation Category         |  % of Max Supply | Number of Tokens  |
-| --------------------------- | ---------------- | ----------------- |
-| Farming and Staking Rewards | 80.0%            | 1,600,000,000     |
-| Core Team                   | 10.0%            | 200,000,000       |
-| Wigo DAO                    | 2.0%             | 40,000,000        |
-| **Total**                   | **92.0%**        | **1,840,000,000** |
+<table><thead><tr><th width="257.3333333333333">Allocation Category</th><th> % of Max Supply</th><th>Number of Tokens</th></tr></thead><tbody><tr><td>Farming and Staking Rewards</td><td>80.0%</td><td>1,600,000,000</td></tr><tr><td>Core Team</td><td>10.0%</td><td>200,000,000</td></tr><tr><td>Wigo DAO</td><td>2.0%</td><td>40,000,000</td></tr><tr><td><strong>Total</strong></td><td><strong>92.0%</strong></td><td><strong>1,840,000,000</strong></td></tr></tbody></table>

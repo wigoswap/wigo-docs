@@ -9,7 +9,11 @@ Predict is a new product and works in the beta phase. As a result, we may make c
 
 ## Accepting the terms
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/Disc.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Before using Predict, you’ll need to review and accept the terms. Read and accept the conditions and click **Continue**.
 

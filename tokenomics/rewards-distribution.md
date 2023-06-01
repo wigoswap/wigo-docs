@@ -6,25 +6,7 @@ The base emissions rate is 9 WIGO per second divided across WIGO staking and far
 
 ## Rewarding Schedule
 
-| Month | Duration    | WIGO/s | Rewards     | Total Rewards |
-| ----- | ----------- | ------ | ----------- | ------------- |
-| 1     | 2,592,000 s | 81     | 209,952,000 | 209,952,000   |
-| 2     | 2,592,000 s | 72     | 186,624,000 | 396,576,000   |
-| 3     | 2,592,000 s | 63     | 163,296,000 | 559,872,000   |
-| 4     | 2,592,000 s | 54     | 139,968,000 | 699,840,000   |
-| 5     | 2,592,000 s | 45     | 116,640,000 | 816,480,000   |
-| 6     | 2,592,000 s | 36     | 93,312,000  | 909,792,000   |
-| 7     | 2,592,000 s | 27     | 69,984,000  | 979,776,000   |
-| 8     | 2,592,000 s | 18     | 46,656,000  | 1,026,432,000 |
-| 9     | 2,592,000 s | 9      | 23,328,000  | 1,049,760,000 |
-| 10    | 2,592,000 s | 9      | 23,328,000  | 1,073,088,000 |
-| 11    | 2,592,000 s | 9      | 23,328,000  | 1,096,416,000 |
-| 12    | 2,592,000 s | 9      | 23,328,000  | 1,119,744,000 |
-| ...   | ...         | ...    | ...         | ...           |
-| 31    | 2,592,000 s | 9      | 23,328,000  | 1,562,976,000 |
-| 32    | 2,592,000 s | 9      | 23,328,000  | 1,586,304,000 |
-| ...   | ...         | ...    | ...         | ...           |
-| n     | 2,592,000 s | 9      | ?           | ?             |
+<table><thead><tr><th width="150">Month</th><th width="150">Duration</th><th width="150">WIGO/s</th><th width="150">Rewards</th><th width="150">Total Rewards</th></tr></thead><tbody><tr><td>1</td><td>2,592,000 s</td><td>81</td><td>209,952,000</td><td>209,952,000</td></tr><tr><td>2</td><td>2,592,000 s</td><td>72</td><td>186,624,000</td><td>396,576,000</td></tr><tr><td>3</td><td>2,592,000 s</td><td>63</td><td>163,296,000</td><td>559,872,000</td></tr><tr><td>4</td><td>2,592,000 s</td><td>54</td><td>139,968,000</td><td>699,840,000</td></tr><tr><td>5</td><td>2,592,000 s</td><td>45</td><td>116,640,000</td><td>816,480,000</td></tr><tr><td>6</td><td>2,592,000 s</td><td>36</td><td>93,312,000</td><td>909,792,000</td></tr><tr><td>7</td><td>2,592,000 s</td><td>27</td><td>69,984,000</td><td>979,776,000</td></tr><tr><td>8</td><td>2,592,000 s</td><td>18</td><td>46,656,000</td><td>1,026,432,000</td></tr><tr><td>9</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,049,760,000</td></tr><tr><td>10</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,073,088,000</td></tr><tr><td>11</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,096,416,000</td></tr><tr><td>12</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,119,744,000</td></tr><tr><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr><tr><td>31</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,562,976,000</td></tr><tr><td>32</td><td>2,592,000 s</td><td>9</td><td>23,328,000</td><td>1,586,304,000</td></tr><tr><td>...</td><td>...</td><td>...</td><td>...</td><td>...</td></tr><tr><td>n</td><td>2,592,000 s</td><td>9</td><td>?</td><td>?</td></tr></tbody></table>
 
 Although WIGO has a 2 billion hard cap, [Buyback, Burn & Reward](gamified-burning-mechanism-gbm.md) mechanism prolongs the time to reach the hard cap. Getting the hard cap will take about 33 months, assuming no tokens are burned. The more tokens burned, the more extended emissions, but the total supply of WIGO will never exceed the hard cap.
 
