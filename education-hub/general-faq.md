@@ -43,30 +43,30 @@ You are able to stake your WIGO in WigoBank. Visit WigoBank here:
 
 You can find the necessary information on how to stake in WigoBank here:
 
-{% content-ref url="../products/decentralized-finance/staking-wigo-wigobank/how-to-stake-in-wigobank.md" %}
-[how-to-stake-in-wigobank.md](../products/decentralized-finance/staking-wigo-wigobank/how-to-stake-in-wigobank.md)
+{% content-ref url="../products/staking-wigo-wigobank/how-to-stake-in-wigobank.md" %}
+[how-to-stake-in-wigobank.md](../products/staking-wigo-wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
 ## **What is the difference between staking and farming?**
 
 Both services give you rewards in the form of WIGO tokens in return for your support for the platform. To understand the difference, it is worth noting that staking means you stake WIGO tokens in WigoBank, and earn WIGO or other tokens as your reward. A guide to staking in WigoBank is provided here:
 
-{% content-ref url="../products/decentralized-finance/staking-wigo-wigobank/how-to-stake-in-wigobank.md" %}
-[how-to-stake-in-wigobank.md](../products/decentralized-finance/staking-wigo-wigobank/how-to-stake-in-wigobank.md)
+{% content-ref url="../products/staking-wigo-wigobank/how-to-stake-in-wigobank.md" %}
+[how-to-stake-in-wigobank.md](../products/staking-wigo-wigobank/how-to-stake-in-wigobank.md)
 {% endcontent-ref %}
 
 On the other hand, to participate in the WigoFarm you need Wigo-LP tokens to earn WIGO. You can find a comprehensive guide to using WigoFarm here:
 
-{% content-ref url="../products/decentralized-finance/yield-farming-wigofarm/how-to-use-wigofarm.md" %}
-[how-to-use-wigofarm.md](../products/decentralized-finance/yield-farming-wigofarm/how-to-use-wigofarm.md)
+{% content-ref url="../products/yield-farming-wigofarm/how-to-use-wigofarm.md" %}
+[how-to-use-wigofarm.md](../products/yield-farming-wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
 ## **How can I farm?**&#x20;
 
 Read our guide to yield farming on WigoSwap to find the necessary information.&#x20;
 
-{% content-ref url="../products/decentralized-finance/yield-farming-wigofarm/how-to-use-wigofarm.md" %}
-[how-to-use-wigofarm.md](../products/decentralized-finance/yield-farming-wigofarm/how-to-use-wigofarm.md)
+{% content-ref url="../products/yield-farming-wigofarm/how-to-use-wigofarm.md" %}
+[how-to-use-wigofarm.md](../products/yield-farming-wigofarm/how-to-use-wigofarm.md)
 {% endcontent-ref %}
 
 ## How to bridge my tokens onto Fantom?&#x20;
@@ -154,8 +154,8 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 
 By staking manually in WigoBank using the Standard Staking method, WigoBank (xWIGO) Tokens are deposited into your wallet. These tokens act as the proof of ownership of the WIGO tokens you’ve staked in the WigoBank. You can find more information on xWIGO here:
 
-{% content-ref url="../products/decentralized-finance/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md" %}
-[wigobank-faq-and-troubleshooting.md](../products/decentralized-finance/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md)
+{% content-ref url="../products/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md" %}
+[wigobank-faq-and-troubleshooting.md](../products/staking-wigo-wigobank/wigobank-faq-and-troubleshooting.md)
 {% endcontent-ref %}
 
 ## **I can’t find the answer to my question on this page. Where can I ask my question?**

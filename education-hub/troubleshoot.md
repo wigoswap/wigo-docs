@@ -245,7 +245,7 @@ Ensure that the amount of funds you are trading with does not exceed the amount 
 
 <summary><strong>Reason</strong></summary>
 
-Since you need the WigoBank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/decentralized-finance/staking-wigo-wigobank/automatic-vs.-standard.md) staking pool in the WigoBank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
+Since you need the WigoBank (xWIGO) Tokens to unstake your WIGO tokens from the [Standard](../products/staking-wigo-wigobank/automatic-vs.-standard.md) staking pool in the WigoBank, you should not sell or transfer those tokens. The ratio of the xWIGO tokens transferred to your wallet to the WIGO tokens you’ve staked is 1:1. Therefore, when you want to unstake your WIGO tokens, the same amount of xWIGO tokens must be burned. If the amount of xWIGO tokens you have is insufficient, you will face this error.&#x20;
 
 </details>
 
