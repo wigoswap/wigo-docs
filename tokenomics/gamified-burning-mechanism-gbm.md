@@ -26,11 +26,11 @@ All three of the above variables are always accessible and readable in the WIGO 
 
 Below are the sources for Gamified Burning Mechanism:
 
-* **1%** of every harvest in the [Staking pool](../products/staking-wigo-wigobank/automatic-vs.-standard.md) (Auto Compound Performance Fee) in the WigoBank.
-* **1%** of every unstake within three days in the [Staking pool](../products/staking-wigo-wigobank/automatic-vs.-standard.md) (Auto Compound) in the WigoBank.
-* **0.01%** of every swap made on [WigoSwap](../products/swap/). Buy back WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
-* **100%** of registeration fee in [WigoGalaxy](../products/user-profile-system-wigogalaxy/)
-* **100%** of [Wiggy NFT](../products/wiggy-nft.md) minting fee
+* **1%** of every harvest in the [Staking pool](../products/decentralized-finance/staking-wigo-wigobank/automatic-vs.-standard.md) (Auto Compound Performance Fee) in the WigoBank.
+* **1%** of every unstake within three days in the [Staking pool](../products/decentralized-finance/staking-wigo-wigobank/automatic-vs.-standard.md) (Auto Compound) in the WigoBank.
+* **0.01%** of every swap made on [WigoSwap](../products/decentralized-finance/swap/). Buy back WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
+* **100%** of registeration fee in [WigoGalaxy](../products/wigogalaxy/)
+* **100%** of [Wiggy NFT](broken-reference) minting fee
 * **4%** of prize pool in [Predict](../products/predict-mini-game/)
 * **100%** trading fee in [WigoMarket](../products/nft-marketplace-wigomarket/)
 

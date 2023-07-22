@@ -1,8 +1,12 @@
-# How to create user profile
+# ✨ Getting Started
 
-<figure><img src="../../.gitbook/assets/Create-profile-5.jpg" alt=""><figcaption></figcaption></figure>
+**Getting Started with WigoGalaxy**
 
-Creating a decentralized user profile on WigoSwap is an exciting and unique feature. Each wallet can have a user profile on WigoSwap and benefit from various features of the platform. It is necessary to have an active user profile to use different sections, including the referral system, participating in games and lotteries, claiming achievements, etc. Also, in the process of creating a user profile, a cool Wiggy will be minted according to your choice, and you will join the group of owners of this attractive NFT. Currently, the cost of creating each user profile (including minting a Wiggy) costs 8000 $WIGO, all of which is burned through the [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). If you have referred to WigoSwap through another profile, a portion of this fee will be awarded to the person who introduced you as a bonus in the referral system.
+Starting your adventure on WigoGalaxy is as simple as creating a decentralized account. As a new settler, you get to choose a planet to inhabit—each with its own unique characteristics and inhabitants. Additionally, you'll be assigned an initial Wiggy companion, a unique NFT that will accompany you throughout your journey in the WigoGalaxy.
+
+Choosing quests to embark on is the next step. Each quest carries objectives which, when completed, earn you rewards ranging from Galactic Credits, Tokens, NFTs, Wiggy companions, to Wiggy level-up assets and more. Each decision you make shapes your journey and the rewards you reap.
+
+Remember, WigoGalaxy is a vast universe filled with opportunities. The more you explore and interact, the more you can earn. Completing quests, finding hidden rewards, and trading on our Bazaar marketplace all contribute to your advancement in WigoGalaxy.
 
 {% hint style="info" %}
 **To start creating a user profile on WigoSwap please open this** [**link**](https://wigoswap.io/join)**.**&#x20;
