@@ -4,6 +4,8 @@ description: Spin Your Luck in the Wigo Ecosystem
 
 # 🎲 The Raffle
 
+_In Development_
+
 Raffle, the second game offering from WiPlay, introduces an exciting lottery-style experience within the WiGalaxy. Designed to integrate seamlessly with the Wigo ecosystem, the Raffle game allows participants the chance to win substantial rewards, all while maintaining the transparent and fair nature inherent to blockchain technologies.
 
 
