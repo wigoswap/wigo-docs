@@ -6,6 +6,7 @@
 * [DeFi: WigoSwap](defi-wigoswap/README.md)
   * [🔐 Secure & Sustainable Yields](defi-wigoswap/secure-and-sustainable-yields.md)
   * [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
+  * [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
 * [🪙 WIGO Token](wigo-token/README.md)
   * [⛏ Tokenomics](wigo-token/tokenomics.md)
   * [🎁 Rewards Distribution](wigo-token/rewards-distribution.md)
