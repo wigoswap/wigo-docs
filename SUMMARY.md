@@ -1,10 +1,15 @@
 # Table of contents
 
-* [Wigo Ecosystem](README.md)
-* [☑ Overview](overview/README.md)
-  * [💡 Our Mission & Vision](overview/our-mission-and-vision.md)
+* [♾ Wigo Ecosystem](README.md)
+  * [🧩 Overview](wigo-ecosystem/overview.md)
+  * [🌪 Our Mission & Vision](wigo-ecosystem/our-mission-and-vision.md)
+* [DeFi: WigoSwap](defi-wigoswap/README.md)
+  * [🔐 Secure & Sustainable Yields](defi-wigoswap/secure-and-sustainable-yields.md)
+  * [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
+* [🪙 WIGO Token](wigo-token/README.md)
+  * [⛏ Tokenomics](wigo-token/tokenomics.md)
+  * [🎁 Rewards Distribution](wigo-token/rewards-distribution.md)
 * [🎯 Roadmap](roadmap.md)
-* [🔐 Security & CertiK Audit](security-and-certik-audit.md)
 * [🚦 Education Hub](education-hub/README.md)
   * [Create a Fantom Wallet](education-hub/create-a-fantom-wallet.md)
   * [How to stake FTM](education-hub/how-to-stake-ftm.md)
@@ -44,10 +49,6 @@
   * [List Your NFTs on WigoMarket](products/bazaar-nft-marketplace/list-your-nfts-on-wigomarket.md)
 
 ## Tokenomics
-
-* [🪙 WIGO Tokenomics](tokenomics/wigo-tokenomics.md)
-* [🎁 Rewards Distribution](tokenomics/rewards-distribution.md)
-* [🔥 Gamified Burning Mechanism (GBM)](tokenomics/gamified-burning-mechanism-gbm.md)
 
 ## Smart Contracts
 

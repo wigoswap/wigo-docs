@@ -15,8 +15,8 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 * Using this method, the process that includes harvesting the rewards and restaking them into the WigoBank (compounding) is done automatically. However, a tiny amount of fee is charged.&#x20;
 * The automatic process of restaking your rewards into the WigoBank is brought about by other users who get a bounty for doing so. (Auto Compound Bounty)
 * The interest generated from staking is displayed as APY, which is also considered compounding.&#x20;
-* Each time the WigoBank automatically harvests the rewards and reinvests them into the WigoBank (or, to put it simply, each time the WigoBank compounds your rewards), a small fee is deducted from what you’ve earned and burned by [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). &#x20;
-* If you decide to unstake manually within three days, a fee for the unstaking process is also charged and will be burned by [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md). (1%)
+* Each time the WigoBank automatically harvests the rewards and reinvests them into the WigoBank (or, to put it simply, each time the WigoBank compounds your rewards), a small fee is deducted from what you’ve earned and burned by [GBM](../../defi-wigoswap/galaxy-burning-module-gbm.md). &#x20;
+* If you decide to unstake manually within three days, a fee for the unstaking process is also charged and will be burned by [GBM](../../defi-wigoswap/galaxy-burning-module-gbm.md). (1%)
 * There are no WigoBank (xWIGO) Tokens deposited into your wallet.
 
 
@@ -47,7 +47,7 @@ There are two options to stake WIGO and earn WIGO; Automatic and Standard. Both 
 
 \+ Each time the WigoBank compounds your rewards, a 1% performance fee is subtracted from your earnings. For instance, if you’ve earned 1 WIGO, you would receive 0.99 WIGO, and 0.01 WIGO is subtracted as the fee and will be burned immediately.
 
-The WIGO tokens collected through fees generated through unstaking or compounding are regularly burnt as part of the [GBM](../../tokenomics/gamified-burning-mechanism-gbm.md) plans.
+The WIGO tokens collected through fees generated through unstaking or compounding are regularly burnt as part of the [GBM](../../defi-wigoswap/galaxy-burning-module-gbm.md) plans.
 
 
 

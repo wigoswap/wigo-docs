@@ -45,7 +45,7 @@ The pools on WigoBank are categorized as follows:
 
 2\. Stake WIGO to earn other tokens
 
-In the first type, the rewards are generated from [WIGO emissions](../../tokenomics/rewards-distribution.md). A number of WIGO tokens are distributed as rewards for the WigoBank every second.
+In the first type, the rewards are generated from [WIGO emissions](../../wigo-token/rewards-distribution.md). A number of WIGO tokens are distributed as rewards for the WigoBank every second.
 
 In the second type, the teams behind the projects that sponsor certain pools are responsible for the distribution of rewards.&#x20;
 

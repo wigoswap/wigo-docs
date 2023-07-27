@@ -2,7 +2,7 @@
 description: Blockchain, Beyond Boundaries
 ---
 
-# ☑ Overview
+# 🧩 Overview
 
 ![](<../.gitbook/assets/1500x500 (2).jpeg>)
 

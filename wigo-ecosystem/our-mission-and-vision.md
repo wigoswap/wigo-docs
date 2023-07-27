@@ -1,4 +1,4 @@
-# 💡 Our Mission & Vision
+# 🌪 Our Mission & Vision
 
 **Our Vision**
 

@@ -6,8 +6,8 @@ On this page you can find the answers to the most important questions frequently
 
 1- Below, you can check the security audits related to WigoSwap:
 
-{% content-ref url="../security-and-certik-audit.md" %}
-[security-and-certik-audit.md](../security-and-certik-audit.md)
+{% content-ref url="../defi-wigoswap/secure-and-sustainable-yields.md" %}
+[secure-and-sustainable-yields.md](../defi-wigoswap/secure-and-sustainable-yields.md)
 {% endcontent-ref %}
 
 2- In order to achieve maximum transparency, we have published all our smart contracts on [GitHub](https://github.com/wigoswap). All of the contracts are verified on FTMScan so that all of the operations are crystal clear.
@@ -138,16 +138,16 @@ If you have this issue although you have transferred FTM to your wallet, it is p
 
 The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You can find further information on WigoSwap’s tokenomics here:
 
-{% content-ref url="../tokenomics/wigo-tokenomics.md" %}
-[wigo-tokenomics.md](../tokenomics/wigo-tokenomics.md)
+{% content-ref url="../wigo-token/tokenomics.md" %}
+[tokenomics.md](../wigo-token/tokenomics.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tokenomics/rewards-distribution.md" %}
-[rewards-distribution.md](../tokenomics/rewards-distribution.md)
+{% content-ref url="../wigo-token/rewards-distribution.md" %}
+[rewards-distribution.md](../wigo-token/rewards-distribution.md)
 {% endcontent-ref %}
 
-{% content-ref url="../tokenomics/gamified-burning-mechanism-gbm.md" %}
-[gamified-burning-mechanism-gbm.md](../tokenomics/gamified-burning-mechanism-gbm.md)
+{% content-ref url="../defi-wigoswap/galaxy-burning-module-gbm.md" %}
+[galaxy-burning-module-gbm.md](../defi-wigoswap/galaxy-burning-module-gbm.md)
 {% endcontent-ref %}
 
 ## **What is WigoBank (xWIGO) Token?**   &#x20;
