@@ -2,7 +2,7 @@
 description: Your Gateway to Fair, Secure, and Sustainable Yield Farming
 ---
 
-# DeFi: WigoSwap
+# 🏦 DeFi: WigoSwap
 
 WigoSwap is a fundamental component of the Wigo ecosystem, serving as its primary decentralized exchange (DEX). WigoSwap is designed with a vision to create a fair, secure, and sustainable environment for yield farming, all while offering a seamless trading experience to users. The WigoSwap DEX fosters an environment where users can trade tokens securely, engage in liquidity farming, and contribute to the growth and sustainability of the Wigo ecosystem.
 
