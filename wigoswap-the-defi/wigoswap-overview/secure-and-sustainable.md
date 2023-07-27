@@ -4,7 +4,7 @@ description: 'Establishing Trust: A Commitment to Security'
 
 # 🔐 Secure & Sustainable
 
-![](../.gitbook/assets/Cover-CertiK.jpg)
+![](../../.gitbook/assets/Cover-CertiK.jpg)
 
 At WigoSwap, we firmly believe that trust is earned, not given. For this reason, we strive for complete transparency in our security protocols and welcome questions or feedback from our users. To uphold our commitment to providing a secure platform and safeguarding users' assets, we have undergone rigorous security audits by CertiK, a leading authority in blockchain security. Our commitment to safety is demonstrated through our proactive security audit, applied even before our official launch, a practice uncommon among blockchain projects.
 

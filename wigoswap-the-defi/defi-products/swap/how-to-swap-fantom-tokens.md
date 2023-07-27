@@ -6,7 +6,7 @@ Swapping/Trading has never been easier on WigoSwap. This is made possible by off
 
 ### **Starting to Trade**
 
-First and foremost, you need a Fantom-compatible wallet. The necessary information on how to set one up is provided [<mark style="color:blue;">here</mark>](../../../education-hub/connect-your-wallet-to-wigoswap.md). You also need some Fantom FRC20 tokens. You can check [<mark style="color:blue;">here</mark>](../../../education-hub/get-frc20-tokens.md) to learn how you can obtain the tokens.
+First and foremost, you need a Fantom-compatible wallet. The necessary information on how to set one up is provided [<mark style="color:blue;">here</mark>](../../../extras/education-hub/connect-your-wallet-to-wigoswap.md). You also need some Fantom FRC20 tokens. You can check [<mark style="color:blue;">here</mark>](../../../extras/education-hub/get-frc20-tokens.md) to learn how you can obtain the tokens.
 
 
 
@@ -14,7 +14,7 @@ First and foremost, you need a Fantom-compatible wallet. The necessary informati
 
 1- Open the Swap page [here](https://wigoswap.io/swap).
 
-2- Connect your wallet to WigoSwap. If you’re not sure how to connect your wallet you may need to check [<mark style="color:blue;">here</mark>](../../../education-hub/connect-your-wallet-to-wigoswap.md).&#x20;
+2- Connect your wallet to WigoSwap. If you’re not sure how to connect your wallet you may need to check [<mark style="color:blue;">here</mark>](../../../extras/education-hub/connect-your-wallet-to-wigoswap.md).&#x20;
 
 ![](../../../.gitbook/assets/7D888F08-2AD7-4FCA-874E-821101455972\_1\_201\_a.jpeg)
 
@@ -34,6 +34,6 @@ First and foremost, you need a Fantom-compatible wallet. The necessary informati
 
 Read this section if you have any problem using the swap service:
 
-{% content-ref url="../../../education-hub/troubleshoot.md" %}
-[troubleshoot.md](../../../education-hub/troubleshoot.md)
+{% content-ref url="../../../extras/education-hub/troubleshoot.md" %}
+[troubleshoot.md](../../../extras/education-hub/troubleshoot.md)
 {% endcontent-ref %}

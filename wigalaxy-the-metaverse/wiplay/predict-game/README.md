@@ -1,6 +1,6 @@
-# 🎮 Predict Mini-Game
+# 🧙 Predict Game
 
-![](../../.gitbook/assets/Predict.jpg)
+![](../../../.gitbook/assets/Predict.jpg)
 
 At the intersection of DeFi and gaming, Predict is a feature-rich, engaging mini-game available on the WigoSwap platform. In Predict, players have the opportunity to make educated predictions about the price movement of various cryptocurrencies. By studying market trends and leveraging their crypto knowledge, players can earn substantial rewards for accurate predictions. Whether you're a seasoned crypto veteran or a novice trader, Predict offers an exciting, dynamic environment for you to test your market knowledge.
 

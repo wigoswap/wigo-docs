@@ -4,7 +4,7 @@ description: Welcome to the WigoSwap Community page!
 
 # 💬 Community
 
-![](.gitbook/assets/community.jpg)
+![](../.gitbook/assets/community.jpg)
 
 We believe that a strong and engaged community is essential for the success of any project, and we're committed to fostering a vibrant and active community around WigoSwap. We invite you to join our Discord server, where you can connect with other WigoSwap users, learn about new releases and opportunities, and share your thoughts and ideas with our team.
 

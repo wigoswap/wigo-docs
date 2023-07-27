@@ -20,13 +20,24 @@
   * [🚀 Tailored Treasures](wigalaxy-the-metaverse/planets-and-treasures/tailored-treasures.md)
 * [🧙♂ The Wiggies](products/wigogalaxy/wiggies-and-galactic-credits.md)
 * [🦄 Rare Wiggies](wigalaxy-the-metaverse/rare-wiggies.md)
+* [🎮 WiPlay](wigalaxy-the-metaverse/wiplay/README.md)
+  * [🧙 Predict Game](wigalaxy-the-metaverse/wiplay/predict-game/README.md)
+    * [How to use Predict](wigalaxy-the-metaverse/wiplay/predict-game/how-to-use-predict.md)
+    * [Predict FAQ](wigalaxy-the-metaverse/wiplay/predict-game/predict-faq.md)
+  * [🎲 The Raffle](wigalaxy-the-metaverse/wiplay/the-raffle.md)
 * [🚩 Join WiGalaxy](wigalaxy-the-metaverse/join-wigalaxy.md)
+
+## Bazaar - The NFT
+
+* [🖼 Bazaar Overview](bazaar-the-nft/bazaar-overview.md)
+* [🧙♂ The Wiggies](bazaar-the-nft/the-wiggies.md)
 
 ## WigoSwap - The DeFi
 
-* [🏦 WigoSwap Overview](defi-wigoswap/README.md)
+* [🏦 WigoSwap Overview](wigoswap-the-defi/wigoswap-overview/README.md)
+  * [🔐 Secure & Sustainable](wigoswap-the-defi/wigoswap-overview/secure-and-sustainable.md)
 * [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
-* [🔐 Secure & Sustainable](defi-wigoswap/secure-and-sustainable-yields.md)
+* [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
 * [⚡ DeFi Products](wigoswap-the-defi/defi-products/README.md)
   * [↔ Swap](wigoswap-the-defi/defi-products/swap/README.md)
     * [How to Swap Fantom Tokens](wigoswap-the-defi/defi-products/swap/how-to-swap-fantom-tokens.md)
@@ -39,38 +50,26 @@
     * [How to Stake in WigoBank](wigoswap-the-defi/defi-products/staking-wigo/how-to-stake-in-wigobank.md)
     * [Automatic vs. Standard](wigoswap-the-defi/defi-products/staking-wigo/automatic-vs.-standard.md)
     * [WigoBank FAQ & Troubleshooting](wigoswap-the-defi/defi-products/staking-wigo/wigobank-faq-and-troubleshooting.md)
-* [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
 
-***
+## Ecosystem Development
 
-* [🖼 Bazaar - NFT Marketplace](bazaar-nft-marketplace/README.md)
-  * [List Your NFTs on WigoMarket](bazaar-nft-marketplace/list-your-nfts-on-wigomarket.md)
-* [🎯 Roadmap](roadmap.md)
-* [🚦 Education Hub](education-hub/README.md)
-  * [Create a Fantom Wallet](education-hub/create-a-fantom-wallet.md)
-  * [How to stake FTM](education-hub/how-to-stake-ftm.md)
-  * [Get FRC20 Tokens](education-hub/get-frc20-tokens.md)
-  * [Connect Your Wallet to WigoSwap](education-hub/connect-your-wallet-to-wigoswap.md)
-  * [Troubleshoot](education-hub/troubleshoot.md)
-  * [General FAQ](education-hub/general-faq.md)
-  * [Fix Pending Transactions](education-hub/fix-pending-transactions.md)
-  * [Risks](education-hub/risks.md)
-* [💬 Community](community.md)
-
-## Products
-
-* [🎮 Predict Mini-Game](products/predict-mini-game/README.md)
-  * [How to use Predict](products/predict-mini-game/how-to-use-predict.md)
-  * [Predict FAQ](products/predict-mini-game/predict-faq.md)
-* [💸 Referral System](products/referral-system.md)
-
-## Tokenomics
-
-## Smart Contracts
-
-* [📔 WigoSwap Contracts](smart-contracts/wigoswap-contracts.md)
-* [🔗 Token Addresses](smart-contracts/token-addresses.md)
+* [⚒ WiLink: The Referral](ecosystem-development/wilink-the-referral.md)
+* [⚒ WiWork: The Job](ecosystem-development/wiwork-the-job.md)
+* [⚒ WiFund: The Go](ecosystem-development/wifund-the-go.md)
+* [⚒ WiWee: The Meme](ecosystem-development/wiwee-the-meme.md)
 
 ## Extras
 
+* [🚦 Education Hub](extras/education-hub/README.md)
+  * [Create a Fantom Wallet](extras/education-hub/create-a-fantom-wallet.md)
+  * [How to stake FTM](extras/education-hub/how-to-stake-ftm.md)
+  * [Get FRC20 Tokens](extras/education-hub/get-frc20-tokens.md)
+  * [Connect Your Wallet to WigoSwap](extras/education-hub/connect-your-wallet-to-wigoswap.md)
+  * [Troubleshoot](extras/education-hub/troubleshoot.md)
+  * [General FAQ](extras/education-hub/general-faq.md)
+  * [Fix Pending Transactions](extras/education-hub/fix-pending-transactions.md)
+  * [Risks](extras/education-hub/risks.md)
+* [💬 Community](extras/community.md)
 * [⏬ Brand & Logos](extras/brand-and-logos.md)
+* [📔 WigoSwap Contracts](extras/wigoswap-contracts.md)
+* [🔗 Token Addresses](extras/token-addresses.md)

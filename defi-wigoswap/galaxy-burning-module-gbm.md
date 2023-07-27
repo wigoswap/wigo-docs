@@ -22,8 +22,8 @@ GBM forms the beating heart of the Wigo Ecosystem. By gamifying token burning an
 
 All the above variables are always accessible and readable in WIGO smart contract.
 
-{% content-ref url="../smart-contracts/wigoswap-contracts.md" %}
-[wigoswap-contracts.md](../smart-contracts/wigoswap-contracts.md)
+{% content-ref url="../extras/wigoswap-contracts.md" %}
+[wigoswap-contracts.md](../extras/wigoswap-contracts.md)
 {% endcontent-ref %}
 
 
@@ -35,8 +35,8 @@ Below are the sources for Gamified Burning Mechanism:
 * **0.01%** of every swap made on [WigoSwap](../wigoswap-the-defi/defi-products/swap/). Buy back WIGO and burn it manually every week through the wigoBurn function in the MasterFarmer smart contract.
 * **100%** of registeration fee in [WigoGalaxy](../products/user-profile-system-wigogalaxy/)
 * **100%** of [Wiggy NFT](broken-reference) minting fee
-* **4%** of prize pool in [Predict](../products/predict-mini-game/)
-* **100%** trading fee in [WigoMarket](../bazaar-nft-marketplace/)
+* **4%** of prize pool in [Predict](../wigalaxy-the-metaverse/wiplay/predict-game/)
+* **100%** trading fee in [WigoMarket](../bazaar-the-nft/bazaar-overview.md)
 
 More sources will be added in the near future.
 

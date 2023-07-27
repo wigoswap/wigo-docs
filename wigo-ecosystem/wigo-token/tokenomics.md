@@ -30,8 +30,8 @@ In what follows, you can see the vesting schedule related to the seed funders:
 
 Vesting smart contracts can be found here:
 
-{% content-ref url="../../smart-contracts/wigoswap-contracts.md" %}
-[wigoswap-contracts.md](../../smart-contracts/wigoswap-contracts.md)
+{% content-ref url="../../extras/wigoswap-contracts.md" %}
+[wigoswap-contracts.md](../../extras/wigoswap-contracts.md)
 {% endcontent-ref %}
 
 ## **The Remaining Supply for Emissions**&#x20;
