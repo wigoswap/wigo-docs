@@ -1,24 +1,12 @@
 # Table of contents
 
-* [♾ Wigo Ecosystem](README.md)
+* [Page](README.md)
+* [♾ Wigo Ecosystem](<README (1).md>)
   * [🧩 Overview](wigo-ecosystem/overview.md)
   * [🌪 Our Mission & Vision](wigo-ecosystem/our-mission-and-vision.md)
-* [🏦 DeFi: WigoSwap](defi-wigoswap/README.md)
-  * [🔐 Secure & Sustainable Yields](defi-wigoswap/secure-and-sustainable-yields.md)
-  * [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
-  * [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
 * [🪙 WIGO Token](wigo-token/README.md)
   * [⛏ Tokenomics](wigo-token/tokenomics.md)
   * [🎁 Rewards Distribution](wigo-token/rewards-distribution.md)
-* [🌌 WiGalaxy Introduction](wigalaxy-introduction/README.md)
-  * [💰 Play\&Learn2Earn Model](wigalaxy-introduction/play-and-learn2earn-model.md)
-  * [🎮 Metaverse Mechanics](wigalaxy-introduction/metaverse-mechanics.md)
-  * [🗺 Planets and Treasures](wigalaxy-introduction/planets-and-treasures.md)
-  * [💳 cWIGO (Galactic Credits)](wigalaxy-introduction/cwigo-galactic-credits.md)
-  * [👽 The Wiggies](wigalaxy-introduction/the-wiggies.md)
-  * [🦄 Rare Wiggies](wigalaxy-introduction/rare-wiggies.md)
-  * [🗺 Treasure Maps](wigalaxy-introduction/treasure-maps.md)
-  * [🚩 Land on WiGalaxy](wigalaxy-introduction/land-on-wigalaxy.md)
 * [🎯 Roadmap](roadmap.md)
 * [🚦 Education Hub](education-hub/README.md)
   * [Create a Fantom Wallet](education-hub/create-a-fantom-wallet.md)
@@ -30,6 +18,29 @@
   * [Fix Pending Transactions](education-hub/fix-pending-transactions.md)
   * [Risks](education-hub/risks.md)
 * [💬 Community](community.md)
+
+## WiGalaxy - The Metaverse
+
+* [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/play-and-learn2earn-model.md)
+* [🎮 Metaverse Mechanics](wigalaxy-the-metaverse/metaverse-mechanics.md)
+* [🗺 Planets and Treasures](wigalaxy-the-metaverse/planets-and-treasures.md)
+* [👽 The Wiggies](wigalaxy-the-metaverse/the-wiggies.md)
+* [🗺 Treasure Maps](wigalaxy-the-metaverse/treasure-maps.md)
+* [🦄 Rare Wiggies](wigalaxy-the-metaverse/rare-wiggies.md)
+* [🌌 WiGalaxy Overview](wigalaxy-the-metaverse/wigalaxy-overview/README.md)
+  * [🚩 Land on WiGalaxy](wigalaxy-the-metaverse/wigalaxy-overview/land-on-wigalaxy.md)
+  * [💳 cWIGO (Galactic Credits)](wigalaxy-the-metaverse/wigalaxy-overview/cwigo-galactic-credits.md)
+
+## Wigo
+
+* [💸 Referral System](wigo/referral-system.md)
+
+## WigoSwap - The DeFi
+
+* [🏦 WigoSwap Overview](wigoswap-the-defi/wigoswap-overview.md)
+* [🔥 Galaxy Burning Module (GBM)](wigoswap-the-defi/galaxy-burning-module-gbm.md)
+* [🔐 Secure & Sustainable](wigoswap-the-defi/secure-and-sustainable.md)
+* [🌉 WiBridge: Go Beyond](wigoswap-the-defi/wibridge-go-beyond.md)
 
 ## Products
 

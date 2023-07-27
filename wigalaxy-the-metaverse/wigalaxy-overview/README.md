@@ -2,11 +2,11 @@
 description: Where Blockchain Meets Imagination
 ---
 
-# 🌌 WiGalaxy Introduction
+# 🌌 WiGalaxy Overview
 
 
 
-<figure><img src="../.gitbook/assets/WigoGalaxy-Banner.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/WigoGalaxy-Banner.jpg" alt=""><figcaption></figcaption></figure>
 
 **Journey Beyond the Stars: Welcome to WiGalaxy**
 
