@@ -1,6 +1,8 @@
+---
+description: Blockchain, Beyond Boundaries
+---
+
 # 🌐 Overview
-
-
 
 <figure><img src=".gitbook/assets/Wigo Banner.png" alt=""><figcaption></figcaption></figure>
 
