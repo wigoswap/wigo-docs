@@ -1,6 +1,8 @@
 # Table of contents
 
-* [☑ Welcome!](README.md)
+* [Wigo Ecosystem](README.md)
+* [☑ Overview](overview/README.md)
+  * [💡 Our Mission & Vision](overview/our-mission-and-vision.md)
 * [🎯 Roadmap](roadmap.md)
 * [🔐 Security & CertiK Audit](security-and-certik-audit.md)
 * [🚦 Education Hub](education-hub/README.md)
