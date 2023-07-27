@@ -1,6 +1,6 @@
 # ⛏ Tokenomics
 
-![](<../.gitbook/assets/tokenomics (1).png>)
+![](<../../.gitbook/assets/tokenomics (1).png>)
 
 WIGO is the native governance token of WigoSwap’s ecosystem. The maximum supply (hard-cap) determined for the WIGO token is 2,000,000,000.&#x20;
 
@@ -30,8 +30,8 @@ In what follows, you can see the vesting schedule related to the seed funders:
 
 Vesting smart contracts can be found here:
 
-{% content-ref url="../smart-contracts/wigoswap-contracts.md" %}
-[wigoswap-contracts.md](../smart-contracts/wigoswap-contracts.md)
+{% content-ref url="../../smart-contracts/wigoswap-contracts.md" %}
+[wigoswap-contracts.md](../../smart-contracts/wigoswap-contracts.md)
 {% endcontent-ref %}
 
 ## **The Remaining Supply for Emissions**&#x20;

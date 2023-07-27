@@ -2,7 +2,7 @@
 description: 'Establishing Trust: A Commitment to Security'
 ---
 
-# 🔐 Secure & Sustainable Yields
+# 🔐 Secure & Sustainable
 
 ![](../.gitbook/assets/Cover-CertiK.jpg)
 

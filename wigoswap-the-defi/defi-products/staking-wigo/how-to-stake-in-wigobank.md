@@ -1,6 +1,6 @@
 # How to Stake in WigoBank
 
-Through staking in WigoBank, users are able to earn WIGO (or other tokens) as their reward. While using the [WigoFarm](../yield-farming-wigofarm/) requires you to stake a pair of tokens, in WigoBank you only need to stake WIGO. &#x20;
+Through staking in WigoBank, users are able to earn WIGO (or other tokens) as their reward. While using the [WigoFarm](../yield-farming/) requires you to stake a pair of tokens, in WigoBank you only need to stake WIGO. &#x20;
 
 
 

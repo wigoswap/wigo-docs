@@ -37,6 +37,6 @@ As users provide the platform with liquidity, they earn WIGO tokens as their rew
 
 Click on below to read detailed information on WigoFarm.
 
-{% content-ref url="../yield-farming-wigofarm/" %}
-[yield-farming-wigofarm](../yield-farming-wigofarm/)
+{% content-ref url="../yield-farming/" %}
+[yield-farming](../yield-farming/)
 {% endcontent-ref %}
