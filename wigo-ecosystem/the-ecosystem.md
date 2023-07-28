@@ -2,7 +2,7 @@
 description: Blockchain, Beyond Boundaries
 ---
 
-# 🧩 Overview
+# 🧩 The Ecosystem
 
 ![](<../.gitbook/assets/1500x500 (2).jpeg>)
 
@@ -15,36 +15,36 @@ The Wigo Ecosystem is a cutting-edge, comprehensive suite of blockchain-based pl
 > At Wigo, we are crafting a universe that seamlessly integrates the most potent aspects of blockchain technology. From DeFi to Metaverse, from work to fun, we are ensuring that every user finds a niche, a purpose, and a home within our ecosystem.
 
 \
-**WigoSwap**
+[**WiSwap**](../wigoswap-the-defi/overview/) **(WigoSwap)**
 
 Shaping the sustainable future of decentralized finance, WigoSwap stands as the backbone of the Wigo Ecosystem. A CertiK-audited DeFi protocol, WigoSwap introduces fair yield farming via the native $WIGO token and integrates a unique Galaxy Burning Module (GBM) for token sustainability and inflation control. The protocol's cross-chain capabilities bridge blockchain islands, paving the way for an inclusive decentralized economy.
 
 \
-**WiGalaxy**&#x20;
+[**WiGalaxy**](../wigalaxy-the-metaverse/overview/)&#x20;
 
 A blend of virtual reality and blockchain, WiGalaxy is the metaverse where users live, learn, play, and earn. It's a universe where the boundaries of imagination are endless. Users embark on quests, missions, and interactions, earning Galactic Credits (cWIGO) and leveling up their characters. It redefines the concept of user engagement through a combination of play-to-earn and learn-to-earn models.
 
-**Wiggy**&#x20;
+[**Wiggy**](../wimart-bazaar/the-wiggies.md)&#x20;
 
 Wiggies are unique digital characters that animate the WiGalaxy metaverse. They participate in quests, narratives, and interactions, adding a layer of fun and excitement. Rare Wiggies offer an entirely new avenue for digital art investment, providing their owners with unique benefits and rewards.
 
-**WiMart (Bazaar)**&#x20;
+[**WiMart**](../wimart-bazaar/overview.md) **(Bazaar)**&#x20;
 
 The WiMart, also known as the Bazaar, is a vibrant NFT marketplace in WiGalaxy. It's where users can create, purchase, sell, and trade NFTs, stimulating economic fluidity and user engagement. The marketplace empowers users to participate actively in the Metaverse's economic dynamics, fostering a robust digital economy.
 
-**WiWork (In Progress)**&#x20;
+[**WiWork**](../developments/wiwork.md) **(In Progress)**&#x20;
 
 WiWork is a decentralized work platform designed to democratize the job market. It will offer a marketplace for services, where payments will be made in tradable tokens. This way, it aims to promote economic freedom on the blockchain, further completing the Wigo economic ecosystem puzzle.
 
-**WiFund (In Progress)**&#x20;
+[**WiFund**](../developments/wifund.md) **(In Progress)**&#x20;
 
 WiFund is an upcoming DAO-driven initiative that will empower community-led fundraising for small non-DeFi projects on Fantom and other blockchains. The goal is to foster a robust growth model within the blockchain world by leveraging the power of the WiWork community.
 
-**WiWee (In Progress)**&#x20;
+[**WiWee**](../developments/wiwee.md) **(In Progress)**&#x20;
 
 WiWee is set to redefine the meme coin concept in the blockchain world. With its philanthropic ethos, it will support WiFund campaigns, stimulate development in WiGalaxy and Bazaar, and contribute to the WiSwap DeFi ecosystem, essentially proving that fun and finance can go hand in hand.
 
-**WiLink (In Progress)**&#x20;
+[**WiLink**](../developments/wilink.md) **(In Progress)**&#x20;
 
 WiLink (Referral System V2) represents the future of blockchain domain naming, offering personalized URLs and social features exclusively within the Wigo Ecosystem. It aims to allow every WiGalaxy user to have an exclusive domain name, boosting personal branding and facilitating a seamless referral system.
 
