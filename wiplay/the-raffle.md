@@ -2,9 +2,9 @@
 description: Spin Your Luck in the Wigo Ecosystem
 ---
 
-# 🎲 The Raffle
+# 🎲 The Raffle 🛠
 
-_In Development_
+🛠 _In Development_
 
 Raffle, the second game offering from WiPlay, introduces an exciting lottery-style experience within the WiGalaxy. Designed to integrate seamlessly with the Wigo ecosystem, the Raffle game allows participants the chance to win substantial rewards, all while maintaining the transparent and fair nature inherent to blockchain technologies.
 
@@ -18,13 +18,13 @@ Participants enter the Raffle game by purchasing tickets, each priced at a set a
 
 **Ticket Purchase and Discounts**
 
-Users can buy up to Y tickets at a time, with no limit on the overall number of tickets one can possess. Multiple ticket purchases in a single transaction can fetch users bulk discounts, encouraging more participation and adding to the overall prize pool. The discount begins at 2 tickets and scales up to 4.95% when buying 100 tickets at once.
+Users can buy up to Y tickets at a time, with no limit on the overall number of tickets one can possess. Multiple ticket purchases in a single transaction can fetch users bulk discounts, encouraging more participation and adding to the overall prize pool.&#x20;
 
 
 
 **Security and Fairness**
 
-To ensure fair and transparent gameplay, Raffle uses Chainlink's implementation of Verifiable Random Function (VRF). This guarantees truly randomized outcomes that are tamper-proof and verifiable on the blockchain.
+To ensure fair and transparent gameplay, Raffle uses Chainlink's implementation of V[erifiable Random Function](https://chain.link/vrf) (VRF). This guarantees truly randomized outcomes that are tamper-proof and verifiable on the blockchain.
 
 
 
@@ -37,9 +37,5 @@ The more numbers on a participant's ticket that match the winning numbers, the l
 **Prize Distribution**
 
 The amount won depends on the number of winning tickets in the same prize bracket. Therefore, if there are multiple winners within a bracket, the prize pool for that bracket is divided among them. This structure adds to the unpredictability and excitement of the game while ensuring that winning always brings a pleasant surprise.
-
-
-
-**Conclusion**
 
 Raffle adds a new layer of excitement to the WiPlay offerings within the WiGalaxy, driving user engagement while distributing rewards in a fun and fair manner. Whether you're a blockchain gaming enthusiast or a newcomer looking for a thrilling experience, Raffle promises a roller coaster ride that could potentially turn your luck around in the Wigo Ecosystem.

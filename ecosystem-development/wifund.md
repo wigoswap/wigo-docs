@@ -2,9 +2,9 @@
 description: Catalyzing Change through Decentralized Funding
 ---
 
-# ⚒ WiFund: The Go
+# 💰 WiFund 🛠
 
-_(In Development)_
+🛠 _(In Development)_
 
 WiFund is an integral part of the Wigo Ecosystem and an innovative DAO-driven initiative that offers a decentralized platform for fundraising. Much like GoFundMe, WiFund provides a robust, transparent, and reliable platform for funding, albeit on the blockchain. It serves as a revolutionary bridge, connecting blockchain professionals and business people to startups and teams seeking funding in the blockchain space. Moreover, WiFund also offers a promising avenue for supporting charity and causes, ensuring every Wigo user can make a difference.
 

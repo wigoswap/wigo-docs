@@ -2,9 +2,9 @@
 description: Monetizing Your Metaverse Presence
 ---
 
-# ⚒ WiLink: The Referral
+# 🔗 WiLink 🛠
 
-_(In Development)_
+🛠 _(In Development)_
 
 WiLink is an innovative blockchain domain naming product, exclusive to the Wigo Ecosystem. It integrates personalized URLs and social features, aiming to provide every WiGalaxy user with an exclusive domain name. WiLink is not merely a naming system; it's a platform to boost personal branding and facilitate a seamless referral system. It is currently under development and represents the future of referral programs in the DeFi world.
 

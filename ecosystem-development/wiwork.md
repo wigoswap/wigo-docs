@@ -2,9 +2,9 @@
 description: Empowering the Decentralized Workforce
 ---
 
-# ⚒ WiWork: The Job
+# 👷 WiWork 🛠
 
-_(In Development)_
+🛠 _(In Development)_
 
 WiWork, formerly known as DeTasker, is an upcoming feature in the Wigo Ecosystem. As a decentralized work platform, it seeks to revolutionize the conventional job market by providing a marketplace for services paid in tradable tokens. This promotes economic freedom and flexibility on the blockchain, thereby further completing the Wigo economic ecosystem puzzle.
 

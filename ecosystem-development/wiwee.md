@@ -2,9 +2,9 @@
 description: Drive Change, Spark Fun with WiWee
 ---
 
-# ⚒ WiWee: The Meme
+# 👻 WiWee 🛠
 
-_(In Development)_
+🛠 _(In Development)_
 
 WiWee is an imaginative spin on the meme coin concept within the broader Wigo Ecosystem. More than a playful crypto-token, it has a philanthropic ethos and serves as a tool for community engagement and charity within the blockchain world. The character of WiWee aims to "make-the-world-a-better-place," harnessing the power of meme culture for social good and positive impact.
 

@@ -20,17 +20,7 @@
   * [🚀 Tailored Treasures](wigalaxy-the-metaverse/planets-and-treasures/tailored-treasures.md)
 * [🧙♂ The Wiggies](products/wigogalaxy/wiggies-and-galactic-credits.md)
 * [🦄 Rare Wiggies](wigalaxy-the-metaverse/rare-wiggies.md)
-* [🎮 WiPlay](wigalaxy-the-metaverse/wiplay/README.md)
-  * [🧙 Predict Game](wigalaxy-the-metaverse/wiplay/predict-game/README.md)
-    * [How to use Predict](wigalaxy-the-metaverse/wiplay/predict-game/how-to-use-predict.md)
-    * [Predict FAQ](wigalaxy-the-metaverse/wiplay/predict-game/predict-faq.md)
-  * [🎲 The Raffle](wigalaxy-the-metaverse/wiplay/the-raffle.md)
 * [🚩 Join WiGalaxy](wigalaxy-the-metaverse/join-wigalaxy.md)
-
-## Bazaar - The NFT
-
-* [🖼 Bazaar Overview](bazaar-the-nft/bazaar-overview.md)
-* [🧙♂ The Wiggies](bazaar-the-nft/the-wiggies.md)
 
 ## WigoSwap - The DeFi
 
@@ -51,12 +41,25 @@
     * [Automatic vs. Standard](wigoswap-the-defi/defi-products/staking-wigo/automatic-vs.-standard.md)
     * [WigoBank FAQ & Troubleshooting](wigoswap-the-defi/defi-products/staking-wigo/wigobank-faq-and-troubleshooting.md)
 
+## WIPLAY
+
+* [🎮 Overview](wiplay/overview.md)
+* [🧙 Predict Game](wiplay/predict-game/README.md)
+  * [How to use Predict](wiplay/predict-game/how-to-use-predict.md)
+  * [Predict FAQ](wiplay/predict-game/predict-faq.md)
+* [🎲 The Raffle 🛠](wiplay/the-raffle.md)
+
+## Bazaar - The NFT
+
+* [🖼 Bazaar Overview](bazaar-the-nft/bazaar-overview.md)
+* [🧙♂ The Wiggies](bazaar-the-nft/the-wiggies.md)
+
 ## Ecosystem Development
 
-* [⚒ WiLink: The Referral](ecosystem-development/wilink-the-referral.md)
-* [⚒ WiWork: The Job](ecosystem-development/wiwork-the-job.md)
-* [⚒ WiFund: The Go](ecosystem-development/wifund-the-go.md)
-* [⚒ WiWee: The Meme](ecosystem-development/wiwee-the-meme.md)
+* [🔗 WiLink 🛠](ecosystem-development/wilink.md)
+* [👷 WiWork 🛠](ecosystem-development/wiwork.md)
+* [💰 WiFund 🛠](ecosystem-development/wifund.md)
+* [👻 WiWee 🛠](ecosystem-development/wiwee.md)
 
 ## Extras
 
