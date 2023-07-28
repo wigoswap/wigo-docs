@@ -11,10 +11,10 @@
 
 ## 🪐 WiGalaxy - The Metaverse
 
-* [🌌 WiGalaxy Overview](products/user-profile-system-wigogalaxy/README.md)
-  * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/wigalaxy-overview/play-and-learn2earn-model.md)
-  * [🎮 Metaverse Mechanics](wigalaxy-the-metaverse/wigalaxy-overview/metaverse-mechanics.md)
-  * [💳 cWIGO (Galactic Credits)](products/wigogalaxy/levels-and-advancements.md)
+* [🌌 Overview](wigalaxy-the-metaverse/overview/README.md)
+  * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
+  * [🎮 Metaverse Mechanics](wigalaxy-the-metaverse/overview/metaverse-mechanics.md)
+  * [💳 cWIGO (Galactic Credits)](wigalaxy-the-metaverse/overview/cwigo-galactic-credits.md)
 * [🗺 Planets and Treasures](wigalaxy-the-metaverse/planets-and-treasures/README.md)
   * [💎 Space Puzzles](wigalaxy-the-metaverse/planets-and-treasures/space-puzzles.md)
   * [🚀 Tailored Treasures](wigalaxy-the-metaverse/planets-and-treasures/tailored-treasures.md)
@@ -24,8 +24,8 @@
 
 ## WigoSwap - The DeFi
 
-* [🏦 WigoSwap Overview](wigoswap-the-defi/wigoswap-overview/README.md)
-  * [🔐 Secure & Sustainable](wigoswap-the-defi/wigoswap-overview/secure-and-sustainable.md)
+* [🏦 Overview](wigoswap-the-defi/overview/README.md)
+  * [🔐 Secure & Sustainable](wigoswap-the-defi/overview/secure-and-sustainable.md)
 * [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
 * [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
 * [⚡ DeFi Products](wigoswap-the-defi/defi-products/README.md)
@@ -43,23 +43,23 @@
 
 ## WIPLAY
 
-* [🎮 Overview](wiplay/overview.md)
-* [🧙 Predict Game](wiplay/predict-game/README.md)
-  * [How to use Predict](wiplay/predict-game/how-to-use-predict.md)
-  * [Predict FAQ](wiplay/predict-game/predict-faq.md)
-* [🎲 The Raffle 🛠](wiplay/the-raffle.md)
+* [🎮 Overview](wigalaxy-the-metaverse/wiplay/README.md)
+* [🧙 Predict Game](wigalaxy-the-metaverse/wiplay/predict-game/README.md)
+  * [How to use Predict](wigalaxy-the-metaverse/wiplay/predict-game/how-to-use-predict.md)
+  * [Predict FAQ](wigalaxy-the-metaverse/wiplay/predict-game/predict-faq.md)
+* [🎲 The Raffle 🛠](wigalaxy-the-metaverse/wiplay/the-raffle.md)
 
-## Bazaar - The NFT
+## WiMart - Bazaar
 
-* [🖼 Bazaar Overview](bazaar-the-nft/bazaar-overview.md)
-* [🧙♂ The Wiggies](bazaar-the-nft/the-wiggies.md)
+* [🖼 Overview](wimart-bazaar/overview.md)
+* [🧙♂ The Wiggies](wimart-bazaar/the-wiggies.md)
 
-## Ecosystem Development
+## Developments
 
-* [🔗 WiLink 🛠](ecosystem-development/wilink.md)
-* [👷 WiWork 🛠](ecosystem-development/wiwork.md)
-* [💰 WiFund 🛠](ecosystem-development/wifund.md)
-* [👻 WiWee 🛠](ecosystem-development/wiwee.md)
+* [🔗 WiLink 🛠](developments/wilink.md)
+* [👷 WiWork 🛠](developments/wiwork.md)
+* [💰 WiFund 🛠](developments/wifund.md)
+* [👻 WiWee 🛠](developments/wiwee.md)
 
 ## Extras
 

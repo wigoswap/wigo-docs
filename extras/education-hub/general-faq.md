@@ -6,8 +6,8 @@ On this page you can find the answers to the most important questions frequently
 
 1- Below, you can check the security audits related to WigoSwap:
 
-{% content-ref url="../../wigoswap-the-defi/wigoswap-overview/secure-and-sustainable.md" %}
-[secure-and-sustainable.md](../../wigoswap-the-defi/wigoswap-overview/secure-and-sustainable.md)
+{% content-ref url="../../wigoswap-the-defi/overview/secure-and-sustainable.md" %}
+[secure-and-sustainable.md](../../wigoswap-the-defi/overview/secure-and-sustainable.md)
 {% endcontent-ref %}
 
 2- In order to achieve maximum transparency, we have published all our smart contracts on [GitHub](https://github.com/wigoswap). All of the contracts are verified on FTMScan so that all of the operations are crystal clear.
