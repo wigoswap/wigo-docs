@@ -13,13 +13,8 @@
 
 * [🌌 Overview](wigalaxy-the-metaverse/overview/README.md)
   * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
-* [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics/README.md)
-  * [💳 cWIGO (Galactic Credits)](wigogalaxy/galaxy-mechanics/cwigo-galactic-credits.md)
-  * [🗺 Planets and Treasures](wigogalaxy/galaxy-mechanics/planets-and-treasures/README.md)
-    * [💎 Space Puzzles](wigogalaxy/galaxy-mechanics/planets-and-treasures/space-puzzles.md)
-    * [🚀 Tailored Treasures](wigogalaxy/galaxy-mechanics/planets-and-treasures/tailored-treasures.md)
-* [🧙♂ The Wiggies](products/wigogalaxy/wiggies-and-galactic-credits.md)
-* [🦄 Rare Wiggies](wigalaxy-the-metaverse/rare-wiggies.md)
+* [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics.md)
+* [🧙♂ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
 * [🚩 Join WiGalaxy](wigalaxy-the-metaverse/join-wigalaxy.md)
 
 ## WigoSwap - The DeFi
