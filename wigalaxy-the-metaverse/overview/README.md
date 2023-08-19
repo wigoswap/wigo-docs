@@ -8,7 +8,7 @@ description: Where Blockchain Meets Imagination
 
 <figure><img src="../../.gitbook/assets/WigoGalaxy-Banner.jpg" alt=""><figcaption></figcaption></figure>
 
-**Journey Beyond the Stars: Welcome to WiGalaxy**
+**Journey Beyond the Stars: Welcome to WigoGalaxy**
 
 In the vast expanse of the blockchain universe, WigoGalaxy shines as a distinctive constellation. At its core, WigoGalaxy is an intricate web of narratives, challenges, and rewards, designed not just for gaming, but for meaningful exploration. Users embark on an odyssey through a collection of stories (Sagas) and tasks (Nebulas), with a multitude of NFT assets, in-game currencies, and strategic elements at their disposal. The Galaxy merges the thrill of gaming with the real-world benefits of blockchain, making it a rewarding escapade.
 
@@ -46,4 +46,4 @@ In the vast expanse of the blockchain universe, WigoGalaxy shines as a distincti
 
 **A Metaverse For All: Play, Learn and Earn**
 
-WigoGalaxy breaks the barriers of conventional blockchain platforms by integrating the innovative Play-to-Earn and Learn-to-Earn models. This pioneering approach ensures that WiGalaxy is not just a playground, but also an educational platform where users can earn rewards while acquiring blockchain knowledge. Whether you're a seasoned blockchain enthusiast or a novice explorer, WiGalaxy presents a seamless blend of fun and learning, cultivating an engaging community that grows together.
+WigoGalaxy breaks the barriers of conventional blockchain platforms by integrating the innovative Play-to-Earn and Learn-to-Earn models. This pioneering approach ensures that WigoGalaxy is not just a playground, but also an educational platform where users can earn rewards while acquiring blockchain knowledge. Whether you're a seasoned blockchain enthusiast or a novice explorer, WigoGalaxy presents a seamless blend of fun and learning, cultivating an engaging community that grows together.
