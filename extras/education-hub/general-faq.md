@@ -146,8 +146,8 @@ The maximum supply (hard-cap) determined for WIGO token is 2,000,000,000. You ca
 [rewards-distribution.md](../../wigo-ecosystem/wigo-token/rewards-distribution.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../defi-wigoswap/galaxy-burning-module-gbm.md" %}
-[galaxy-burning-module-gbm.md](../../defi-wigoswap/galaxy-burning-module-gbm.md)
+{% content-ref url="../../wigoswap-the-defi/galaxy-burn-module-gbm.md" %}
+[galaxy-burn-module-gbm.md](../../wigoswap-the-defi/galaxy-burn-module-gbm.md)
 {% endcontent-ref %}
 
 ## **What is WigoBank (xWIGO) Token?**   &#x20;

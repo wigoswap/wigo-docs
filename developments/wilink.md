@@ -2,7 +2,7 @@
 description: Monetizing Your Metaverse Presence
 ---
 
-# 🔗 WiLink 🛠
+# 🔗 WigoLink 🛠
 
 🛠 _(In Development)_
 

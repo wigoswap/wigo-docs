@@ -13,10 +13,10 @@ We believe in a future where the marvels of blockchain technology aren’t just 
 Dreaming is but the first step. Our mission at Wigo is to sculpt our dreams into tangible realities. We have charted a course to this digital horizon, building tools and platforms that intertwine with the very fabric of this envisioned future:
 
 * **Elevating DeFi:** [WigoSwap](../wigoswap-the-defi/overview/) isn't just a DeFi protocol; it's our answer to an inclusive and fair decentralized economy that stands the test of time.
-* **Merging Dimensions with** [**WigoGalaxy**](../wigogalaxy/overview/)**:** In this expansive universe, gaming isn't just for leisure; it's an odyssey of learning and earning.
-* **Art Meets Blockchain in** [**Wiggies**](../bazaar/the-wiggies/)**:** By bringing art and investments under a singular, interactive umbrella, we are redefining how art is created, perceived, and valued.
-* **The Digital Marketplace -** [**Bazaar**](../bazaar/overview.md)**:** A realm where NFTs aren’t just collectibles but are emblematic of a vibrant, decentralized economy.
-* **Reimagining Work with** [**DeTasker**](../developments/detasker.md)**:** Beyond the confines of cubicles and offices, we see a future where work and economic freedom coalesce on the blockchain.
-* **Powering Dreams with** [**WigoRun**](../developments/wigorun.md)**:** Community isn’t just a word for us; it’s the driving force. With WigoRun, we enable a DAO-driven future, backing innovative blockchain endeavors and meaningful causes.
+* **Merging Dimensions with** [**WigoGalaxy**](../wigalaxy-the-metaverse/overview/)**:** In this expansive universe, gaming isn't just for leisure; it's an odyssey of learning and earning.
+* **Art Meets Blockchain in** [**Wiggies**](../wimart-bazaar/the-wiggies.md)**:** By bringing art and investments under a singular, interactive umbrella, we are redefining how art is created, perceived, and valued.
+* **The Digital Marketplace -** [**Bazaar**](../wimart-bazaar/overview.md)**:** A realm where NFTs aren’t just collectibles but are emblematic of a vibrant, decentralized economy.
+* **Reimagining Work with** [**DeTasker**](../developments/wiwork.md)**:** Beyond the confines of cubicles and offices, we see a future where work and economic freedom coalesce on the blockchain.
+* **Powering Dreams with** [**WigoRun**](../developments/wifund.md)**:** Community isn’t just a word for us; it’s the driving force. With WigoRun, we enable a DAO-driven future, backing innovative blockchain endeavors and meaningful causes.
 
 At Wigo, our mission is clear: to build, innovate, and disrupt until the lines between the digital and physical world blur into a seamless continuum of opportunities.

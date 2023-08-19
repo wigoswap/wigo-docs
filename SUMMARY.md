@@ -11,23 +11,23 @@
 
 ## 🪐 WigoGalaxy
 
-* [🌌 Overview](wigogalaxy/overview/README.md)
-  * [💰 Play\&Learn2Earn Model](wigogalaxy/overview/play-and-learn2earn-model.md)
-  * [🎮 Metaverse Mechanics](wigogalaxy/overview/metaverse-mechanics.md)
-  * [💳 cWIGO (Galactic Credits)](wigogalaxy/overview/cwigo-galactic-credits.md)
-* [🗺 Planets and Treasures](wigogalaxy/planets-and-treasures/README.md)
-  * [💎 Space Puzzles](wigogalaxy/planets-and-treasures/space-puzzles.md)
-  * [🚀 Tailored Treasures](wigogalaxy/planets-and-treasures/tailored-treasures.md)
-* [🧙♂ The Wiggies](wigogalaxy/the-wiggies.md)
-* [🦄 Rare Wiggies](wigogalaxy/rare-wiggies.md)
-* [🚩 Join WiGalaxy](wigogalaxy/join-wigalaxy.md)
+* [🌌 Overview](wigalaxy-the-metaverse/overview/README.md)
+  * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
+  * [🎮 Metaverse Mechanics](wigalaxy-the-metaverse/overview/metaverse-mechanics.md)
+  * [💳 cWIGO (Galactic Credits)](wigalaxy-the-metaverse/overview/cwigo-galactic-credits.md)
+* [🗺 Planets and Treasures](wigalaxy-the-metaverse/planets-and-treasures/README.md)
+  * [💎 Space Puzzles](wigalaxy-the-metaverse/planets-and-treasures/space-puzzles.md)
+  * [🚀 Tailored Treasures](wigalaxy-the-metaverse/planets-and-treasures/tailored-treasures.md)
+* [🧙♂ The Wiggies](products/wigogalaxy/wiggies-and-galactic-credits.md)
+* [🦄 Rare Wiggies](wigalaxy-the-metaverse/rare-wiggies.md)
+* [🚩 Join WiGalaxy](wigalaxy-the-metaverse/join-wigalaxy.md)
 
 ## WigoSwap - The DeFi
 
 * [🏦 Overview](wigoswap-the-defi/overview/README.md)
   * [🔐 Secure & Sustainable](wigoswap-the-defi/overview/secure-and-sustainable.md)
-* [🔥 Galaxy Burning Module (GBM)](defi-wigoswap/galaxy-burning-module-gbm.md)
-* [🌉 WiBridge: Go Beyond](defi-wigoswap/wibridge-go-beyond.md)
+* [🔥 Galaxy Burn Module (GBM)](wigoswap-the-defi/galaxy-burn-module-gbm.md)
+* [🌉 WigoBridge: Go Beyond](wigoswap-the-defi/wigobridge-go-beyond.md)
 * [⚡ DeFi Products](wigoswap-the-defi/defi-products/README.md)
   * [↔ Swap](wigoswap-the-defi/defi-products/swap/README.md)
     * [How to Swap Fantom Tokens](wigoswap-the-defi/defi-products/swap/how-to-swap-fantom-tokens.md)
@@ -43,24 +43,24 @@
 
 ## WIGOPLAY
 
-* [🎮 Overview](wigoplay/overview.md)
-* [🧙 Predict Game](wigoplay/predict-game/README.md)
-  * [How to use Predict](wigoplay/predict-game/how-to-use-predict.md)
-  * [Predict FAQ](wigoplay/predict-game/predict-faq.md)
-* [🎲 The Raffle 🛠](wigoplay/the-raffle.md)
+* [🎮 Overview](wigalaxy-the-metaverse/wiplay/README.md)
+* [🧙 Predict Game](wigalaxy-the-metaverse/wiplay/predict-game/README.md)
+  * [How to use Predict](wigalaxy-the-metaverse/wiplay/predict-game/how-to-use-predict.md)
+  * [Predict FAQ](wigalaxy-the-metaverse/wiplay/predict-game/predict-faq.md)
+* [🎲 The Raffle 🛠](wigalaxy-the-metaverse/wiplay/the-raffle.md)
 
 ## Bazaar
 
-* [🖼 Overview](bazaar/overview.md)
-* [🧙♂ The Wiggies](bazaar/the-wiggies/README.md)
+* [🖼 Overview](wimart-bazaar/overview.md)
+* [🧙♂ The Wiggies](wimart-bazaar/the-wiggies.md)
   * [🦄 Rare Wiggies](bazaar/the-wiggies/rare-wiggies.md)
 
 ## Developments
 
-* [🔗 WigoLink 🛠](developments/wigolink.md)
-* [👷 DeTasker 🛠](developments/detasker.md)
-* [💰 WigoRun 🛠](developments/wigorun.md)
-* [👻 WiHee 🛠](developments/wihee.md)
+* [🔗 WigoLink 🛠](developments/wilink.md)
+* [👷 DeTasker 🛠](developments/wiwork.md)
+* [💰 WigoRun 🛠](developments/wifund.md)
+* [👻 WiHee 🛠](developments/wiwee.md)
 
 ## Extras
 

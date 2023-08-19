@@ -4,7 +4,7 @@ description: Lively Companionship in the Metaverse
 
 # 🧙♂ The Wiggies
 
-<figure><img src="../../.gitbook/assets/Wiggies.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Wiggies.jpeg" alt=""><figcaption></figcaption></figure>
 
 Stepping into WiGalaxy, you will be greeted by the delightful presence of Wiggies, the unique characters that add a vibrant pulse to our digital universe. These whimsical, NFT-based creatures serve as faithful companions, accompanying users on their adventures throughout the Metaverse.
 

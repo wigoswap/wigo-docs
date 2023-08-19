@@ -2,7 +2,7 @@
 description: Catalyzing Change through Decentralized Funding
 ---
 
-# 💰 WiFund 🛠
+# 💰 WigoRun 🛠
 
 🛠 _(In Development)_
 

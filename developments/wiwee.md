@@ -2,7 +2,7 @@
 description: Drive Change, Spark Fun with WiWee
 ---
 
-# 👻 WiWee 🛠
+# 👻 WiHee 🛠
 
 🛠 _(In Development)_
 

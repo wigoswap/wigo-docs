@@ -2,7 +2,7 @@
 description: Where Blockchain Meets Imagination
 ---
 
-# 🌌 WiGalaxy Overview
+# 🌌 Overview
 
 
 

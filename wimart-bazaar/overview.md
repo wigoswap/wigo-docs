@@ -2,7 +2,7 @@
 description: Where Blockchain Meets Commerce, There's Bazaar
 ---
 
-# 🖼 Bazaar Overview
+# 🖼 Overview
 
 **Marketplace of Dreams: Welcome to Bazaar**
 

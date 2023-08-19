@@ -2,7 +2,7 @@
 description: Empowering the Decentralized Workforce
 ---
 
-# 👷 WiWork 🛠
+# 👷 DeTasker 🛠
 
 🛠 _(In Development)_
 
