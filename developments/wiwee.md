@@ -30,7 +30,7 @@ WiHee embodies a community-driven philosophy. The Wigo community is actively inv
 
 **Integrating the Wigo Ecosystem**
 
-WiHee also plays a crucial role in the Wigo Ecosystem, contributing to WiFund campaigns, stimulating development in WiGalaxy and Bazaar, and supporting the WiSwap DeFi ecosystem. In essence, WiHee acts as a catalyst, encouraging community participation across the Wigo Ecosystem.
+WiHee also plays a crucial role in the Wigo Ecosystem, contributing to WiFund campaigns, stimulating development in WigoGalaxy and Bazaar, and supporting the WiSwap DeFi ecosystem. In essence, WiHee acts as a catalyst, encouraging community participation across the Wigo Ecosystem.
 
 
 

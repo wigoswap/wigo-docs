@@ -22,7 +22,7 @@ In addition to serving as a hub for professional connections and startup funding
 
 WigoRun **and the Wigo Ecosystem**
 
-As part of the Wigo Ecosystem, WigoRun benefits from the rich network of users, professionals, and platforms. It leverages the strength of the Wigo community and its various tools to bring its vision to life. Furthermore, WigoRun supports WiSwap campaigns, contributes to the WiGalaxy and Bazaar, and promotes the economic freedom philosophy of DeTasker. In essence, WigoRun represents the social and philanthropic aspects of the Wigo vision, cementing its place as a cornerstone of the Wigo Ecosystem.
+As part of the Wigo Ecosystem, WigoRun benefits from the rich network of users, professionals, and platforms. It leverages the strength of the Wigo community and its various tools to bring its vision to life. Furthermore, WigoRun supports WiSwap campaigns, contributes to the WigoGalaxy and Bazaar, and promotes the economic freedom philosophy of DeTasker. In essence, WigoRun represents the social and philanthropic aspects of the Wigo vision, cementing its place as a cornerstone of the Wigo Ecosystem.
 
 **Conclusion**
 
