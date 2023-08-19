@@ -15,7 +15,7 @@
   * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
 * [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics.md)
 * [🧙♂ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
-* [🚩 Galaxy ID](wigogalaxy/galaxy-id.md)
+* [🚩 Galaxy ID](wigalaxy-the-metaverse/join-wigalaxy.md)
 
 ## WigoSwap - The DeFi
 
@@ -47,8 +47,7 @@
 ## Bazaar
 
 * [🖼 Overview](wimart-bazaar/overview.md)
-* [🧙♂ The Wiggies](wimart-bazaar/the-wiggies.md)
-  * [🦄 Rare Wiggies](bazaar/the-wiggies/rare-wiggies.md)
+* [🧙♂ Wiggies and Rare Wiggies](bazaar/wiggies-and-rare-wiggies.md)
 
 ## Developments
 

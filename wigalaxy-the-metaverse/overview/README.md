@@ -21,7 +21,7 @@ In the vast expanse of the blockchain universe, WigoGalaxy shines as a distincti
 * **Saga:** Think of a Saga as an epic, overarching narrative, much like the grand tales of old. Each Saga is composed of multiple Nebulas, with each one contributing to the broader story.
 * **Nebula:** Nebulas are the backbone of the WigoGalaxy gameplay. These are blockchain tasks that present both learning and earning opportunities. As users navigate through these tasks, they inch closer to unraveling the Saga's climax.
 
-**2.** [**Wiggy**](../../wimart-bazaar/the-wiggies.md) **and Candies:**
+**2.** [**Wiggy**](broken-reference) **and Candies:**
 
 * **Wiggy:** Wiggies are valuable NFT assets. As digital companions, they assist users in their journey through Nebulas, making the experience smoother and more rewarding.
 * **Candies:** These are enticing incentives in the WigoGalaxy. Owning Candies enhances the capabilities of Wiggies, enabling them to tackle challenges more effectively.

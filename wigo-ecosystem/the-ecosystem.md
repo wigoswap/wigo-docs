@@ -24,7 +24,7 @@ Shaping the sustainable future of decentralized finance, WigoSwap stands as the 
 
 A blend of virtual reality and blockchain, WiGalaxy is the metaverse where users live, learn, play, and earn. It's a universe where the boundaries of imagination are endless. Users embark on quests, missions, and interactions, earning Galactic Credits (cWIGO) and leveling up their characters. It redefines the concept of user engagement through a combination of play-to-earn and learn-to-earn models.
 
-[**Wiggy**](../wimart-bazaar/the-wiggies.md)&#x20;
+[**Wiggy**](broken-reference)&#x20;
 
 Wiggies are unique digital characters that animate the WiGalaxy metaverse. They participate in quests, narratives, and interactions, adding a layer of fun and excitement. Rare Wiggies offer an entirely new avenue for digital art investment, providing their owners with unique benefits and rewards.
 
