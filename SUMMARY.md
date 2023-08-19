@@ -15,7 +15,7 @@
   * [💰 Play\&Learn2Earn Model](wigalaxy-the-metaverse/overview/play-and-learn2earn-model.md)
 * [🎮 Galaxy Mechanics](wigogalaxy/galaxy-mechanics.md)
 * [🧙♂ Wiggies and Rare Wiggies](wigogalaxy/wiggies-and-rare-wiggies.md)
-* [🚩 Join WiGalaxy](wigalaxy-the-metaverse/join-wigalaxy.md)
+* [🚩 Galaxy ID](wigogalaxy/galaxy-id.md)
 
 ## WigoSwap - The DeFi
 
