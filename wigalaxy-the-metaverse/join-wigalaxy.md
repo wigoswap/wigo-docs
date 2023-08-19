@@ -1,5 +1,5 @@
 ---
-description: Getting Started with WigoGalaxy
+description: Your Galaxy Identity
 ---
 
 # 🚩 Galaxy ID
