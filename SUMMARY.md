@@ -51,7 +51,7 @@
 
 ## Developments
 
-* [🔗 WigoLink 🛠](developments/wilink.md)
+* [🔗 WiLink 🛠](developments/wilink.md)
 * [👷 DeTasker 🛠](developments/wiwork.md)
 * [💰 WigoRun 🛠](developments/wifund.md)
 * [👻 WiHee 🛠](developments/wiwee.md)
