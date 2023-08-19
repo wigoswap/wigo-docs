@@ -10,26 +10,40 @@ description: Where Blockchain Meets Imagination
 
 **Journey Beyond the Stars: Welcome to WiGalaxy**
 
-Welcome to WiGalaxy, the imaginative Metaverse within the Wigo Ecosystem. As an ever-evolving, narrative-driven platform, WiGalaxy promises an unmatched user engagement experience that goes beyond typical blockchain functionalities. Here, blockchain meets imagination, spinning an expansive universe that offers an exhilarating exploration of uncharted territories, exciting quests, and valuable rewards. WiGalaxy represents an infinite canvas where users from all walks of life can learn, play, interact, and earn within an immersive blockchain environment.
+In the vast expanse of the blockchain universe, WigoGalaxy shines as a distinctive constellation. At its core, WigoGalaxy is an intricate web of narratives, challenges, and rewards, designed not just for gaming, but for meaningful exploration. Users embark on an odyssey through a collection of stories (Sagas) and tasks (Nebulas), with a multitude of NFT assets, in-game currencies, and strategic elements at their disposal. The Galaxy merges the thrill of gaming with the real-world benefits of blockchain, making it a rewarding escapade.
 
 
+
+### How does it work?
+
+**1. Saga and Nebula:**
+
+* **Saga:** Think of a Saga as an epic, overarching narrative, much like the grand tales of old. Each Saga is composed of multiple Nebulas, with each one contributing to the broader story.
+* **Nebula:** Nebulas are the backbone of the WigoGalaxy gameplay. These are blockchain tasks that present both learning and earning opportunities. As users navigate through these tasks, they inch closer to unraveling the Saga's climax.
+
+**2.** [**Wiggy**](../../wimart-bazaar/the-wiggies.md) **and Candies:**
+
+* **Wiggy:** Wiggies are valuable NFT assets. As digital companions, they assist users in their journey through Nebulas, making the experience smoother and more rewarding.
+* **Candies:** These are enticing incentives in the WigoGalaxy. Owning Candies enhances the capabilities of Wiggies, enabling them to tackle challenges more effectively.
+
+**3. Monster and Key:**
+
+* **Monster:** Guardians of the treasured rewards, these digital behemoths stand as barriers between users and their coveted prizes.
+* **Key:** An NFT that Wiggies can obtain from monsters using Candies. This key is crucial, as it grants access to the Saga's treasures.
+
+**4. Cards and Gates:**
+
+* **Cards:** As players progress, they earn special NFTs known as Cards. These aren't mere collectibles but represent achievements and milestones within the game.
+* **Gates:** Gateways to the Sagas or hidden treasures. Only Wiggies with the requisite Cards can cross these barriers, ensuring that only the worthy proceed.
+
+**5. Treasures:**
+
+* The ultimate rewards await at the culmination of every Saga. These treasures, sometimes elusive and hard to access, often require a combination of Key, Wiggy, and Candy to unlock. Their value is immeasurable, making the journey worth every challenge.
+
+**6. XP (Points):**
+
+* The in-game currency of WigoGalaxy. XPs are versatile, playing a role in both the gameplay and the broader Wigo economy. Players earn XPs by successfully completing Nebulas and can use them to access Gates. Beyond the game, XPs can be traded for NFTs and other assets, tying the WigoGalaxy economy with the broader blockchain ecosystem.
 
 **A Metaverse For All: Play, Learn and Earn**
 
-WiGalaxy breaks the barriers of conventional blockchain platforms by integrating the innovative Play-to-Earn and Learn-to-Earn models. This pioneering approach ensures that WiGalaxy is not just a playground, but also an educational platform where users can earn rewards while acquiring blockchain knowledge. Whether you're a seasoned blockchain enthusiast or a novice explorer, WiGalaxy presents a seamless blend of fun and learning, cultivating an engaging community that grows together.
-
-
-
-**Master the Game: A New Universe of Interaction**
-
-WiGalaxy incorporates compelling game mechanics that ensure a continuous and thrilling user journey. From quests and missions tailored to each user's blockchain proficiency level, to exciting interactions with other users and characters, every step within WiGalaxy is designed to provide enriching experiences. With innumerable paths to choose and countless rewards to reap, WiGalaxy ensures a dynamic user experience that goes beyond the boundaries of traditional gaming and blockchain platforms.
-
-
-
-**Unleashing the Power of NFTs: Meet the Wiggies**
-
-Within the vibrant WiGalaxy Metaverse, users interact with unique characters known as Wiggies. These NFT-based companions come to life, partaking in adventures, narratives, and interactions. With the introduction of Rare Wiggies, WiGalaxy not only provides a novel form of art investment but also elevates the metaverse interaction to an entirely new level. By giving value to creativity and imagination, WiGalaxy stands as a testament to the limitless possibilities of the blockchain universe.
-
-To join the beta version of WiGalaxy (WigoGalaxy) please register your username:
-
-:arrow\_forward:[ Create a profile NOW!](https://wigoswap.io/join)
+WigoGalaxy breaks the barriers of conventional blockchain platforms by integrating the innovative Play-to-Earn and Learn-to-Earn models. This pioneering approach ensures that WiGalaxy is not just a playground, but also an educational platform where users can earn rewards while acquiring blockchain knowledge. Whether you're a seasoned blockchain enthusiast or a novice explorer, WiGalaxy presents a seamless blend of fun and learning, cultivating an engaging community that grows together.
