@@ -3,7 +3,8 @@
 ## ♾ Wigo Ecosystem
 
 * [🌐 Overview](README.md)
-* [🌪 Our Mission & Vision](wigo-ecosystem/our-mission-and-vision.md)
+* [📄 Whitepaper V2](wigo-ecosystem/whitepaper-v2.md)
+* [🌪 Mission & Vision](wigo-ecosystem/mission-and-vision.md)
 * [🧩 The Ecosystem](wigo-ecosystem/the-ecosystem.md)
 * [🪙 WIGO Token](wigo-ecosystem/wigo-token/README.md)
   * [⛏ Tokenomics](wigo-ecosystem/wigo-token/tokenomics.md)
