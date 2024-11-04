@@ -6,7 +6,7 @@ description: Seamlessly Navigating Your Galaxy Journey
 
 <figure><img src="../.gitbook/assets/WigoGalaxy Interface (1).png" alt=""><figcaption></figcaption></figure>
 
-Galaxy is crafted with user experience at its core, providing an intuitive interface that makes navigation and engagement seamless for all participants. Here’s an overview of the key features that enhance your Galaxy journey:
+Galaxy is designed with user experience as a top priority, offering an intuitive interface that makes navigation and engagement easy for all participants. Here’s a breakdown of the key features that enhance your Galaxy experience:
 
 * **Profile Management and Quest Tracking:** Users have full control over their profiles, allowing them to view and manage ongoing and favorite quests, as well as monitor rewards and achievements. This organized approach keeps your Galaxy journey streamlined and rewarding.
 * **Referral System for Community Growth:** Galaxy incentivizes users to grow the community through a referral system. By inviting friends, users earn rewards, contributing to both personal gains and the broader ecosystem's expansion.
